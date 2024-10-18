@@ -1,0 +1,2776 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "生成AI・LLM関連テックブログRSS",
+    "home_page_url": "https://r-kagaya.github.io/llm-tech-blog-rss-feed/",
+    "feed_url": "https://r-kagaya.github.io/llm-tech-blog-rss-feed/feeds/feed.json",
+    "description": "生成AI・LLM関連の取り組みをしている会社・個人のテックブログの更新をまとめたRSSフィード",
+    "icon": "https://r-kagaya.github.io/llm-tech-blog-rss-feed/images/icon.png",
+    "items": [
+        {
+            "id": "https://medium.com/p/c57aa1f19fdc",
+            "content_html": "Introduction Continue reading on Medium »",
+            "url": "https://medium.com/@prasoongarg_62435/bert-vs-llama-the-battle-against-jailbreaking-eval-in-ai-%EF%B8%8F-c57aa1f19fdc",
+            "title": "BERT vs Llama: The Battle Against Jailbreaking Eval in AI ️ | Llm on Medium",
+            "summary": "Introduction Continue reading on Medium »",
+            "image": {
+                "type": "png",
+                "url": "https://miro.medium.com/v2/resize:fit:1048/1*7r4UDQ_GrUBo2bH6SB7AiQ.png"
+            },
+            "date_modified": "2024-10-18T22:21:15.000Z",
+            "date_published": "2024-10-18T22:21:15.000Z",
+            "author": {
+                "name": "Prasoon & AK G"
+            },
+            "tags": [
+                "jailbreak",
+                "llm",
+                "genai-security",
+                "gen-ai-review"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "BERT vs Llama: The Battle Against Jailbreaking Eval in AI ️",
+                "blogTitle": "Llm on Medium",
+                "blogLink": "https://medium.com/tag/llm/latest?source=rss------llm-5",
+                "blogLinkMd5Hash": "aa69b598f2dfc29cdbb24d981dce968d"
+            }
+        },
+        {
+            "id": "https://medium.com/p/a409e2717a50",
+            "content_html": "A recent Stanford University lecture (CS229) on building LLMs sheds light on the core concepts and challenges behind these advanced models… Continue reading on Medium »",
+            "url": "https://medium.com/@kshitijvj98/building-llms-key-insights-from-stanfords-cs229-lecture-a409e2717a50",
+            "title": "Building LLMs: Key Insights from Stanford’s CS229 Lecture | Llm on Medium",
+            "summary": "A recent Stanford University lecture (CS229) on building LLMs sheds light on the core concepts and challenges behind these advanced models… Continue reading on Medium »",
+            "image": {
+                "type": "jpeg",
+                "url": "https://miro.medium.com/v2/resize:fit:1200/1*eJS666MBdepwJFYufGfKsQ.jpeg"
+            },
+            "date_modified": "2024-10-18T22:08:10.000Z",
+            "date_published": "2024-10-18T22:08:10.000Z",
+            "author": {
+                "name": "Kshitij"
+            },
+            "tags": [
+                "stanford",
+                "evaluation",
+                "training",
+                "llm"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Building LLMs: Key Insights from Stanford’s CS229 Lecture",
+                "blogTitle": "Llm on Medium",
+                "blogLink": "https://medium.com/tag/llm/latest?source=rss------llm-5",
+                "blogLinkMd5Hash": "aa69b598f2dfc29cdbb24d981dce968d"
+            }
+        },
+        {
+            "id": "https://medium.com/p/e1c583d0577f",
+            "content_html": "How Retrieval-Augmented Generation (RAG) Can Boost NLP Projects with Real-Time Data for Smarter AI Models Continue reading on Towards AI »",
+            "url": "https://pub.towardsai.net/5-smart-ways-to-use-retrieval-augmented-generation-rag-to-elevate-your-nlp-projects-e1c583d0577f",
+            "title": "5 Smart Ways to Use Retrieval-Augmented Generation (RAG) to Elevate Your NLP Projects | Llm on Medium",
+            "summary": "How Retrieval-Augmented Generation (RAG) Can Boost NLP Projects with Real-Time Data for Smarter AI Models Continue reading on Towards AI »",
+            "image": {
+                "type": null,
+                "url": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*DG34cPSsyYd-3jIY"
+            },
+            "date_modified": "2024-10-18T22:01:40.000Z",
+            "date_published": "2024-10-18T22:01:40.000Z",
+            "author": {
+                "name": "Mukundan Sankar"
+            },
+            "tags": [
+                "llm",
+                "artificial-intelligence",
+                "retrieval-augmented-gen",
+                "nlp",
+                "ai"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "5 Smart Ways to Use Retrieval-Augmented Generation (RAG) to Elevate Your NLP Projects",
+                "blogTitle": "Llm on Medium",
+                "blogLink": "https://medium.com/tag/llm/latest?source=rss------llm-5",
+                "blogLinkMd5Hash": "aa69b598f2dfc29cdbb24d981dce968d"
+            }
+        },
+        {
+            "id": "https://medium.com/p/ff81257dbe3e",
+            "content_html": "Introduction I recently built my first LLM-powered chatbot using the OpenAI API, and it was a truly rewarding experience! In this blog… Continue reading on Medium »",
+            "url": "https://medium.com/@ramyakalyan/i-built-an-llm-powered-ai-chatbot-in-10-minutes-heres-how-you-can-too-ff81257dbe3e",
+            "title": "I Built an LLM-Powered AI Chatbot in 10 Minutes — Here’s How You Can Too! | Llm Agent on Medium",
+            "summary": "Introduction I recently built my first LLM-powered chatbot using the OpenAI API, and it was a truly rewarding experience! In this blog… Continue reading on Medium »",
+            "image": {
+                "type": null,
+                "url": "https://miro.medium.com/v2/da:true/resize:fit:612/0*znTcWt_XTLcJnQ10"
+            },
+            "date_modified": "2024-10-18T21:52:34.000Z",
+            "date_published": "2024-10-18T21:52:34.000Z",
+            "author": {
+                "name": "Ramya Kalyanaraman"
+            },
+            "tags": [
+                "llm-agent",
+                "openai",
+                "ai-chat-bot"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "I Built an LLM-Powered AI Chatbot in 10 Minutes — Here’s How You Can Too!",
+                "blogTitle": "Llm Agent on Medium",
+                "blogLink": "https://medium.com/tag/llm-agent/latest?source=rss------llm_agent-5",
+                "blogLinkMd5Hash": "9bf461a96d41ee98f113b524b916bc94"
+            }
+        },
+        {
+            "id": "https://medium.com/p/bae7ae187748",
+            "content_html": "This is part 6 of a series in building agent frameworks from first principles. So far we have covered a small set of patterns for working… Continue reading on Medium »",
+            "url": "https://medium.com/@mrsirsh/day-6-of-7-days-of-agent-framework-anatomy-from-first-principles-bae7ae187748",
+            "title": "Day 6 of — 7 Days of agent framework anatomy from first principles | Llm on Medium",
+            "summary": "This is part 6 of a series in building agent frameworks from first principles. So far we have covered a small set of patterns for working… Continue reading on Medium »",
+            "image": {
+                "type": "png",
+                "url": "https://miro.medium.com/v2/resize:fit:1024/1*H455Sf0G18ytSfse1OlwSg.png"
+            },
+            "date_modified": "2024-10-18T21:34:13.000Z",
+            "date_published": "2024-10-18T21:34:13.000Z",
+            "author": {
+                "name": "Sirsh Amarteifio"
+            },
+            "tags": [
+                "stigmergy",
+                "llm",
+                "agentic-ai"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Day 6 of — 7 Days of agent framework anatomy from first principles",
+                "blogTitle": "Llm on Medium",
+                "blogLink": "https://medium.com/tag/llm/latest?source=rss------llm-5",
+                "blogLinkMd5Hash": "aa69b598f2dfc29cdbb24d981dce968d"
+            }
+        },
+        {
+            "id": "https://medium.com/p/f6a2a23bbbaf",
+            "content_html": "Uncover the secrets of llama 3.1 paper and its uses in our in-depth manual. Find all the information you need on our blog. Continue reading on Medium »",
+            "url": "https://medium.com/@marketing_novita.ai/explore-llama-3-1-paper-an-in-depth-manual-f6a2a23bbbaf",
+            "title": "Explore Llama 3.1 Paper: An In-Depth Manual | Llm on Medium",
+            "summary": "Uncover the secrets of llama 3.1 paper and its uses in our in-depth manual. Find all the information you need on our blog. Continue reading on Medium »",
+            "image": {
+                "type": "png",
+                "url": "https://miro.medium.com/v2/resize:fit:1200/1*c3u_88pZcFAO5DMdRlGhEg.png"
+            },
+            "date_modified": "2024-10-18T21:32:07.000Z",
+            "date_published": "2024-10-18T21:32:07.000Z",
+            "author": {
+                "name": "Novita AI"
+            },
+            "tags": [
+                "llm",
+                "llm-api",
+                "llama-3"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Explore Llama 3.1 Paper: An In-Depth Manual",
+                "blogTitle": "Llm on Medium",
+                "blogLink": "https://medium.com/tag/llm/latest?source=rss------llm-5",
+                "blogLinkMd5Hash": "aa69b598f2dfc29cdbb24d981dce968d"
+            }
+        },
+        {
+            "id": "https://medium.com/p/617d978676fa",
+            "content_html": "AI is vast and fascinating, offering endless possibilities for innovation and exploration across diverse applications. Today, I will talk… Continue reading on Medium »",
+            "url": "https://medium.com/@aisquarecommunity/agentic-workflows-in-ai-a-deep-dive-into-multi-agent-collaboration-617d978676fa",
+            "title": "Agentic Workflows in AI: A Deep Dive into Multi-Agent Collaboration | Llm on Medium",
+            "summary": "AI is vast and fascinating, offering endless possibilities for innovation and exploration across diverse applications. Today, I will talk… Continue reading on Medium »",
+            "image": {
+                "type": null,
+                "url": "https://miro.medium.com/v2/da:true/resize:fit:1000/0*uj7mwPvOtF1vCzXO"
+            },
+            "date_modified": "2024-10-18T21:07:45.000Z",
+            "date_published": "2024-10-18T21:07:45.000Z",
+            "author": {
+                "name": "AISquare"
+            },
+            "tags": [
+                "artificial-intelligence",
+                "ai",
+                "llm"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Agentic Workflows in AI: A Deep Dive into Multi-Agent Collaboration",
+                "blogTitle": "Llm on Medium",
+                "blogLink": "https://medium.com/tag/llm/latest?source=rss------llm-5",
+                "blogLinkMd5Hash": "aa69b598f2dfc29cdbb24d981dce968d"
+            }
+        },
+        {
+            "id": "https://note.com/npaka/n/n8514bcf43bbe",
+            "content_html": "「Google Colab」で「Janus-1.3B」を試したのでまとめました。  【注意】Google Colab Pro/Pro+のA100で動作確認しています。   続きをみる",
+            "url": "https://note.com/npaka/n/n8514bcf43bbe",
+            "title": "Google Colab で Janus-1.3B を試す | #LLMタグ",
+            "summary": "「Google Colab」で「Janus-1.3B」を試したのでまとめました。  【注意】Google Colab Pro/Pro+のA100で動作確認しています。   続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158475967/rectangle_large_type_2_7370f96a81bd214287ea5bcde547cc03.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-18T21:03:17.000Z",
+            "date_published": "2024-10-18T21:03:17.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Google Colab で Janus-1.3B を試す",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://medium.com/p/ecd40727aa77",
+            "content_html": "Discover how to use the Claude AI API effectively and unleash its full potential. Continue reading on Medium »",
+            "url": "https://medium.com/@tomskiecke/unlock-claude-ai-apis-potential-effective-usage-tips-ecd40727aa77",
+            "title": "Unlock Claude AI API’s Potential: Effective Usage Tips | Llm on Medium",
+            "summary": "Discover how to use the Claude AI API effectively and unleash its full potential. Continue reading on Medium »",
+            "image": {
+                "type": "jpeg",
+                "url": "https://miro.medium.com/v2/resize:fit:1024/1*JQs4JYQnq-0V1-1bYQkT7Q.jpeg"
+            },
+            "date_modified": "2024-10-18T20:11:37.000Z",
+            "date_published": "2024-10-18T20:11:37.000Z",
+            "author": {
+                "name": "Tom"
+            },
+            "tags": [
+                "technology",
+                "claude-ai",
+                "anthropic-claude",
+                "llm",
+                "api-integration"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Unlock Claude AI API’s Potential: Effective Usage Tips",
+                "blogTitle": "Llm on Medium",
+                "blogLink": "https://medium.com/tag/llm/latest?source=rss------llm-5",
+                "blogLinkMd5Hash": "aa69b598f2dfc29cdbb24d981dce968d"
+            }
+        },
+        {
+            "id": "https://medium.com/p/2c2195e7dfa8",
+            "content_html": "Set up a local healthcare bot using a local LLM, Haystack, Mixtral-8x7B-v0.1 and PubMed Continue reading on Medium »",
+            "url": "https://medium.com/@AIMom/build-your-own-healthcare-chatbot-using-a-local-llm-haystack-and-pubmed-2c2195e7dfa8",
+            "title": "Build your own Healthcare Chatbot using a local LLM, Haystack, and PubMed | Llm on Medium",
+            "summary": "Set up a local healthcare bot using a local LLM, Haystack, Mixtral-8x7B-v0.1 and PubMed Continue reading on Medium »",
+            "image": {
+                "type": "jpeg",
+                "url": "https://miro.medium.com/v2/resize:fit:1200/1*_m4HOi72bNzuvf8OTG5yuQ.jpeg"
+            },
+            "date_modified": "2024-10-18T20:08:36.000Z",
+            "date_published": "2024-10-18T20:08:36.000Z",
+            "author": {
+                "name": "Julia Zwittlinger"
+            },
+            "tags": [
+                "chatbot-design",
+                "llm",
+                "chatbots",
+                "conversational-ai",
+                "chatbot-development"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Build your own Healthcare Chatbot using a local LLM, Haystack, and PubMed",
+                "blogTitle": "Llm on Medium",
+                "blogLink": "https://medium.com/tag/llm/latest?source=rss------llm-5",
+                "blogLinkMd5Hash": "aa69b598f2dfc29cdbb24d981dce968d"
+            }
+        },
+        {
+            "id": "https://medium.com/p/048447c95fba",
+            "content_html": "AI agents are changing the game by making work faster, cutting costs, and helping leaders make better choices. Sometimes, one AI agent… Continue reading on Medium »",
+            "url": "https://medium.com/@seckinsenlik/harnessing-agentic-flows-for-enhanced-decision-making-a-festival-planning-case-study-048447c95fba",
+            "title": "Harnessing Agentic Flows for Enhanced Decision-Making: A Festival Planning Case Study | Llm Agent on Medium",
+            "summary": "AI agents are changing the game by making work faster, cutting costs, and helping leaders make better choices. Sometimes, one AI agent… Continue reading on Medium »",
+            "image": {
+                "type": "jpeg",
+                "url": "https://miro.medium.com/v2/resize:fit:1200/1*nVqTCQMhNsDREtmEKTX5Tw.jpeg"
+            },
+            "date_modified": "2024-10-18T19:35:04.000Z",
+            "date_published": "2024-10-18T19:35:04.000Z",
+            "author": {
+                "name": "S.Seckin Senlik"
+            },
+            "tags": [
+                "llm-agent",
+                "decision-making",
+                "autogen",
+                "planning",
+                "ai-agent"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Harnessing Agentic Flows for Enhanced Decision-Making: A Festival Planning Case Study",
+                "blogTitle": "Llm Agent on Medium",
+                "blogLink": "https://medium.com/tag/llm-agent/latest?source=rss------llm_agent-5",
+                "blogLinkMd5Hash": "9bf461a96d41ee98f113b524b916bc94"
+            }
+        },
+        {
+            "id": "https://note.com/npaka/n/n15da7d00114c",
+            "content_html": "「bitnet.cpp」で「Llama3-8B-1.58-100B-tokens」試したのでまとめました。 1. bitnet.cpp 続きをみる",
+            "url": "https://note.com/npaka/n/n15da7d00114c",
+            "title": "bitnet.cpp で Llama3-8B-1.58-100B-tokens を試す | #LLMタグ",
+            "summary": "「bitnet.cpp」で「Llama3-8B-1.58-100B-tokens」試したのでまとめました。 1. bitnet.cpp 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158473713/rectangle_large_type_2_41a8a2b8b19f3d2e755b077abf965c05.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-18T19:34:41.000Z",
+            "date_published": "2024-10-18T19:34:41.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "bitnet.cpp で Llama3-8B-1.58-100B-tokens を試す",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://medium.com/p/008fc3616647",
+            "content_html": "How Publications and Content Types Impact Your Post’s Success Continue reading on Admiring Multipotentiality »",
+            "url": "https://medium.com/admiring-multipotentiality/navigating-audience-engagement-008fc3616647",
+            "title": "Navigating Audience Engagement | Llm on Medium",
+            "summary": "How Publications and Content Types Impact Your Post’s Success Continue reading on Admiring Multipotentiality »",
+            "image": {
+                "type": "png",
+                "url": "https://miro.medium.com/v2/resize:fit:1180/1*HqVSXbHciqX-ZNBhtcNIYA.png"
+            },
+            "date_modified": "2024-10-18T19:31:37.000Z",
+            "date_published": "2024-10-18T19:31:37.000Z",
+            "author": {
+                "name": "Ashish Singh"
+            },
+            "tags": [
+                "skills",
+                "llm",
+                "knowledge",
+                "medium",
+                "medium-partner-program"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Navigating Audience Engagement",
+                "blogTitle": "Llm on Medium",
+                "blogLink": "https://medium.com/tag/llm/latest?source=rss------llm-5",
+                "blogLinkMd5Hash": "aa69b598f2dfc29cdbb24d981dce968d"
+            }
+        },
+        {
+            "id": "https://medium.com/p/256e7213cbbe",
+            "content_html": "While the ease and comfort ChatGPT has provided us with is quite notable, the carbon footprint of training this 175 billion parameter… Continue reading on Medium »",
+            "url": "https://medium.com/@junaidsayani03/will-this-llm-race-destroy-the-environment-256e7213cbbe",
+            "title": "Will this LLM-race destroy the environment ? | Llm on Medium",
+            "summary": "While the ease and comfort ChatGPT has provided us with is quite notable, the carbon footprint of training this 175 billion parameter… Continue reading on Medium »",
+            "date_modified": "2024-10-18T19:29:59.000Z",
+            "date_published": "2024-10-18T19:29:59.000Z",
+            "author": {
+                "name": "Junaid Sayani"
+            },
+            "tags": [
+                "llm",
+                "chatgpt",
+                "ai",
+                "gpt",
+                "energy"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Will this LLM-race destroy the environment ?",
+                "blogTitle": "Llm on Medium",
+                "blogLink": "https://medium.com/tag/llm/latest?source=rss------llm-5",
+                "blogLinkMd5Hash": "aa69b598f2dfc29cdbb24d981dce968d"
+            }
+        },
+        {
+            "id": "https://note.com/23newsofficial/n/na5738ebf5884",
+            "content_html": "NotebookLM にクールな新機能が追加されました NotebookLM がさらに良くなりました。カスタマイズ可能な概要で、メモの簡単な音声要約を聞くことができます。さらに、ビジネス アプリにも進出し、プロフェッショナルにとって非常に便利なものになっています。これらのアップデートは、@OfficialLoganK のツイートを含め、多くの人に共有されました。 続きをみる",
+            "url": "https://note.com/23newsofficial/n/na5738ebf5884",
+            "title": "Ai ニュース: NotebookLM オーディオ概要の強化、Playground v3 AI グラフィック デザインの進捗状況など | #LLMタグ",
+            "summary": "NotebookLM にクールな新機能が追加されました NotebookLM がさらに良くなりました。カスタマイズ可能な概要で、メモの簡単な音声要約を聞くことができます。さらに、ビジネス アプリにも進出し、プロフェッショナルにとって非常に便利なものになっています。これらのアップデートは、@OfficialLoganK のツイートを含め、多くの人に共有されました。 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158470129/rectangle_large_type_2_26b9947284845552abd40239a2eca949.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-18T17:25:47.000Z",
+            "date_published": "2024-10-18T17:25:47.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Ai ニュース: NotebookLM オーディオ概要の強化、Playground v3 AI グラフィック デザインの進捗状況など",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://medium.com/p/943375d175ed",
+            "content_html": "This blog explores the potential of using large language model (LLM) agents to generate personalized health insights from wearable device… Continue reading on Medium »",
+            "url": "https://medium.com/@howtodoml/creating-personalized-health-insights-with-llm-agents-943375d175ed",
+            "title": "Creating Personalized Health Insights with LLM Agents | Llm Agent on Medium",
+            "summary": "This blog explores the potential of using large language model (LLM) agents to generate personalized health insights from wearable device… Continue reading on Medium »",
+            "date_modified": "2024-10-18T16:11:14.000Z",
+            "date_published": "2024-10-18T16:11:14.000Z",
+            "author": {
+                "name": "Sumit Bhattacharyya"
+            },
+            "tags": [
+                "llm-agent"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Creating Personalized Health Insights with LLM Agents",
+                "blogTitle": "Llm Agent on Medium",
+                "blogLink": "https://medium.com/tag/llm-agent/latest?source=rss------llm_agent-5",
+                "blogLinkMd5Hash": "9bf461a96d41ee98f113b524b916bc94"
+            }
+        },
+        {
+            "id": "https://autogpt.net/?p=10917",
+            "content_html": "Autonomous vehicles (AVs) are no longer a futuristic concept seen in science fiction. Today, they’re real. Many companies around the world are racing to develop the technology that will transform how we move. These vehicles, often called self-driving cars, use a combination of sensors, cameras, and artificial intelligence (AI) to navigate roads without human intervention. As this technology advances, it promises to revolutionize transportation, reduce accidents, and change industries like logist...",
+            "url": "https://autogpt.net/top-5-autonomous-vehicle-companies-to-watch/",
+            "title": "Top 5 Autonomous Vehicle Companies to Watch | Blog - AutoGPT Official",
+            "summary": "Autonomous vehicles (AVs) are no longer a futuristic concept seen in science fiction. Today, they’re real. Many companies around the world are racing to develop the technology that will transform how ...",
+            "image": {
+                "type": "image/jpeg",
+                "url": "https://autogpt.net/wp-content/uploads/2024/10/result-ThF7Do49qz.jpg"
+            },
+            "date_modified": "2024-10-18T15:40:00.000Z",
+            "date_published": "2024-10-18T15:40:00.000Z",
+            "author": {
+                "name": "Onome"
+            },
+            "tags": [
+                "AI Knowledge",
+                "AI development",
+                "AI integration",
+                "artificial intelligence"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Top 5 Autonomous Vehicle Companies to Watch",
+                "blogTitle": "Blog - AutoGPT Official",
+                "blogLink": "https://autogpt.net/blog/",
+                "blogLinkMd5Hash": "67a0676bb236d55c3068a298ecee38ea"
+            }
+        },
+        {
+            "id": "https://medium.com/p/72b0a2e17646",
+            "content_html": "",
+            "url": "https://cobusgreyling.medium.com/ui-focused-ai-agent-72b0a2e17646",
+            "title": "UI-Focused AI Agent | Stories by Cobus Greyling on Medium",
+            "image": {
+                "type": "gif",
+                "url": "https://miro.medium.com/v2/da:true/resize:fit:1200/1*Oeu-pygh27vTOlhfCXuzPQ.gif"
+            },
+            "date_modified": "2024-10-18T14:54:07.000Z",
+            "date_published": "2024-10-18T14:54:07.000Z",
+            "author": {
+                "name": "Cobus Greyling"
+            },
+            "tags": [
+                "language-model",
+                "large-language-models",
+                "machine-learning",
+                "ai",
+                "artificial-intelligence"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "UI-Focused AI Agent",
+                "blogTitle": "Stories by Cobus Greyling on Medium",
+                "blogLink": "https://medium.com/@cobusgreyling?source=rss-b0fbe613be9d------2",
+                "blogLinkMd5Hash": "9ddb53b3d2163228225cac53b3ecb1b6"
+            }
+        },
+        {
+            "id": "https://zenn.dev/qitaaa/articles/2a23abb0eca0eb",
+            "content_html": "目次  はじめに LangChainとは何か 主要コンポーネント 基本的な使い方 実践的なユースケース 応用例とベストプラクティス    1. はじめに 📝 LangChainは、大規模言語モデル（LLM）を活用したアプリケーション開発を劇的に簡単にするフレームワークです。本記事では、初心者から上級者まで、LangChainの全体像を把握し、実践的に活用できるよう解説していきます。   2. LangChainとは何か 🤔 LangChainは以下の特徴を持つPythonライブラリです：    特徴 説明     モジュール性 独立したコンポーネントを組み合わせて利用可能   柔軟性...",
+            "url": "https://zenn.dev/qitaaa/articles/2a23abb0eca0eb",
+            "title": "LangChain完全入門：AIアプリケーション開発の新時代 | Zennの「LLM」のフィード",
+            "summary": "目次  はじめに LangChainとは何か 主要コンポーネント 基本的な使い方 実践的なユースケース 応用例とベストプラクティス    1. はじめに 📝 LangChainは、大規模言語モデル（LLM）を活用したアプリケーション開発を劇的に簡単にするフレームワークです。本記事では、初心者から上級者まで、LangChainの全体像を把握し、実践的に活用できるよう解説していきます。   2. L...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--5ceB2zA1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LangChain%25E5%25AE%258C%25E5%2585%25A8%25E5%2585%25A5%25E9%2596%2580%25EF%25BC%259AAI%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE%25E6%2596%25B0%25E6%2599%2582%25E4%25BB%25A3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:qitar%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzVmZGNmMTg3OTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-18T14:08:23.000Z",
+            "date_published": "2024-10-18T14:08:23.000Z",
+            "author": {
+                "name": "qitar"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "LangChain完全入門：AIアプリケーション開発の新時代",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://zenn.dev/qitaaa/articles/f7ce9903f3d095",
+            "content_html": "🌟 はじめに Gemini APIは、Googleが提供する最新の生成AI APIです。 高度な言語理解と生成能力を持ち、テキスト、画像、音声など、マルチモーダルな入力に対応しています。 本記事では、PythonでGemini APIを使用して実践的なアプリケーションを構築する方法を解説します。   🔧 環境構築 まずは必要なライブラリをインストールします。 pip install google-generativeai pip install python-dotenv APIキーの設定を行います。 import os import google.generativeai as g...",
+            "url": "https://zenn.dev/qitaaa/articles/f7ce9903f3d095",
+            "title": "📚 Gemini APIとPythonで始める生成AIプログラミング | Zennの「LLM」のフィード",
+            "summary": "🌟 はじめに Gemini APIは、Googleが提供する最新の生成AI APIです。 高度な言語理解と生成能力を持ち、テキスト、画像、音声など、マルチモーダルな入力に対応しています。 本記事では、PythonでGemini APIを使用して実践的なアプリケーションを構築する方法を解説します。   🔧 環境構築 まずは必要なライブラリをインストールします。 pip install googl...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--JsdPfG0e--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%2520%2520Gemini%2520API%25E3%2581%25A8Python%25E3%2581%25A7%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258B%25E7%2594%259F%25E6%2588%2590AI%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:qitar%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzVmZGNmMTg3OTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-18T14:00:27.000Z",
+            "date_published": "2024-10-18T14:00:27.000Z",
+            "author": {
+                "name": "qitar"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "📚 Gemini APIとPythonで始める生成AIプログラミング",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://note.com/hamachi_jp/n/nd698d2bffb4c",
+            "content_html": "なにやら目を離している隙にxが騒がしい。 以前にMicrosoft Researchが発表していたLLMの3進値 log3≒1.58bit量子化手法を、Llama3-8bに適用して100Bトークンでファインチューニングしたモデルと推論フレームワークの bitnet.cpp が公開されていたようです。 わかりやすい解説ブログ記事も公開されていました。 続きをみる",
+            "url": "https://note.com/hamachi_jp/n/nd698d2bffb4c",
+            "title": "1.58bit量子化: Llama3-8B-1.58-100B-tokensを試す | #LLMタグ",
+            "summary": "なにやら目を離している隙にxが騒がしい。 以前にMicrosoft Researchが発表していたLLMの3進値 log3≒1.58bit量子化手法を、Llama3-8bに適用して100Bトークンでファインチューニングしたモデルと推論フレームワークの bitnet.cpp が公開されていたようです。 わかりやすい解説ブログ記事も公開されていました。 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158447581/rectangle_large_type_2_1362cbf1534baa502150294e7250620d.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-18T13:01:36.000Z",
+            "date_published": "2024-10-18T13:01:36.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "1.58bit量子化: Llama3-8B-1.58-100B-tokensを試す",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://zenn.dev/matsuolab/articles/ce8642479a448f",
+            "content_html": "はじめに GENIAC 松尾研 LLM開発プロジェクト Team Kumaの加藤純です。 今回、Tanukiモデルの事前学習環境について、必要なライブラリの調査、スクリプトの構築を担当しました。今回はその担当作業にあたっての取り組み内容を報告します。 報告にあたり、本記事で紹介している環境構築スクリプトの実演も含む勉強会を以下の日時で開催しました。 開催日時：2024年10月13日（日）17:00 - 19:00 テーマ：小型LlamaモデルのTransformer Engineを用いた事前学習の環境構築 また、勉強会の様子は動画としてアップロードされています。  この勉強会では、環...",
+            "url": "https://zenn.dev/matsuolab/articles/ce8642479a448f",
+            "title": "事前学習環境構築　～シェルスクリプトによる再現性の担保～ | Zennの「LLM」のフィード",
+            "summary": "はじめに GENIAC 松尾研 LLM開発プロジェクト Team Kumaの加藤純です。 今回、Tanukiモデルの事前学習環境について、必要なライブラリの調査、スクリプトの構築を担当しました。今回はその担当作業にあたっての取り組み内容を報告します。 報告にあたり、本記事で紹介している環境構築スクリプトの実演も含む勉強会を以下の日時で開催しました。 開催日時：2024年10月13日（日）17:00...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--n1I9EO3d--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BA%258B%25E5%2589%258D%25E5%25AD%25A6%25E7%25BF%2592%25E7%2592%25B0%25E5%25A2%2583%25E6%25A7%258B%25E7%25AF%2589%25E3%2580%2580%25EF%25BD%259E%25E3%2582%25B7%25E3%2582%25A7%25E3%2583%25AB%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2597%25E3%2583%2588%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E5%2586%258D%25E7%258F%25BE%25E6%2580%25A7%25E3%2581%25AE%25E6%258B%2585%25E4%25BF%259D%25EF%25BD%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:jaked97%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y5NDA0NzYwYjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25B1%25E5%25A4%25A7%25E6%259D%25BE%25E5%25B0%25BE%25E3%2583%25BB%25E5%25B2%25A9%25E6%25BE%25A4%25E7%25A0%2594%25E7%25A9%25B6%25E5%25AE%25A4%2520%257C%2520LLM%25E9%2596%258B%25E7%2599%25BA%2520%25E3%2583%2597...%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnp1MEhLLU5vek9NS0t5N0RaVWU1Uzg3cmNmSzZwNXlvaFpKWEY0RWczcTF6V1huWm09czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-18T12:00:05.000Z",
+            "date_published": "2024-10-18T12:00:05.000Z",
+            "author": {
+                "name": "jaked97"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "事前学習環境構築　～シェルスクリプトによる再現性の担保～",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://note.com/itsuka_someday/n/ncd9492a55e98",
+            "content_html": "こんにちは。 話題の生成AI、LLMに関する記事です。 今回は、話題のLLMモデルを活用し、ブログ記事の草案作りを手伝ってもらおう！というありふれた企画になります。 ※この記事自体はAIは使ってません！ 続きをみる",
+            "url": "https://note.com/itsuka_someday/n/ncd9492a55e98",
+            "title": "【生成AI】Gemini×ブログ記事生成AIを作成してみた | #LLMタグ",
+            "summary": "こんにちは。 話題の生成AI、LLMに関する記事です。 今回は、話題のLLMモデルを活用し、ブログ記事の草案作りを手伝ってもらおう！というありふれた企画になります。 ※この記事自体はAIは使ってません！ 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158342919/rectangle_large_type_2_4809720a525af6f1d9d580f7e1d27f20.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-18T10:56:31.000Z",
+            "date_published": "2024-10-18T10:56:31.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【生成AI】Gemini×ブログ記事生成AIを作成してみた",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://autogpt.net/?p=10922",
+            "content_html": "In a significant move for AI enthusiasts and everyday users alike, OpenAI has unveiled a dedicated ChatGPT app for Windows. The app, currently in its preview stage, is available exclusively for ChatGPT Plus, Team, Enterprise, and Edu users. This marks the next step in making the AI-powered chatbot more accessible across various platforms. OpenAI, the tech company behind ChatGPT, has shared that this Windows version is just the beginning, with a full-featured release expected later this year. But...",
+            "url": "https://autogpt.net/chatgpt-is-now-available-on-windows/",
+            "title": "ChatGPT Is Now Available on Windows | Blog - AutoGPT Official",
+            "summary": "In a significant move for AI enthusiasts and everyday users alike, OpenAI has unveiled a dedicated ChatGPT app for Windows. The app, currently in its preview stage, is available exclusively for ChatGP...",
+            "image": {
+                "type": "image/webp",
+                "url": "https://autogpt.net/wp-content/uploads/2024/10/Screenshot-2024-10-01-at-16.01.51.webp"
+            },
+            "date_modified": "2024-10-18T10:24:35.000Z",
+            "date_published": "2024-10-18T10:24:35.000Z",
+            "author": {
+                "name": "Onome"
+            },
+            "tags": [
+                "AI News",
+                "AI development",
+                "AI integration",
+                "artificial intelligence"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ChatGPT Is Now Available on Windows",
+                "blogTitle": "Blog - AutoGPT Official",
+                "blogLink": "https://autogpt.net/blog/",
+                "blogLinkMd5Hash": "67a0676bb236d55c3068a298ecee38ea"
+            }
+        },
+        {
+            "id": "https://zenn.dev/fukuda22/books/8bcb5ef65ab15f",
+            "content_html": "本書は、Cohereの最新テクノロジーを活用したAI開発の実践的ガイドです。LLMの基礎から高度な応用まで、段階的に学べるよう構成されています。RAG、ツール使用、プロンプトエンジニアリングなど、最新のAI技術を実際のビジネス課題に適用する方法を、豊富な例とともに解説しています。Cohereのプラットフォームを使いこなし、革新的なAIソリューションを開発するためのスキルを身につけることができます。  【概要】 ・内容：Cohereプラットフォームの概要、LLMの基礎知識、プロンプトエンジニアリングの技法、RAG（Retrieval-Augmented Generation）の実装、AIチャットボット開発の手順、セマンティック検索の構築方法、ツール使用によるLLMの機能拡張、Cohereのプラットフォームを使用した実践的なプロジェクト例 ・所要時間：約10時間 ・必須条件：プログラミングの基礎知識（特にPython）、AI・機械学習の基本的な理解 ・推奨環境：Cohereアカウント、Python 3.7以上 ・レベル：★★★☆☆（中級）  この本を通じて、最新のAI技術を実際のビジネス課...",
+            "url": "https://zenn.dev/fukuda22/books/8bcb5ef65ab15f",
+            "title": "Cohereで始める実践的AI開発: 最新LLMテクノロジーの活用ガイド | Zennの「LLM」のフィード",
+            "summary": "本書は、Cohereの最新テクノロジーを活用したAI開発の実践的ガイドです。LLMの基礎から高度な応用まで、段階的に学べるよう構成されています。RAG、ツール使用、プロンプトエンジニアリングなど、最新のAI技術を実際のビジネス課題に適用する方法を、豊富な例とともに解説しています。Cohereのプラットフォームを使いこなし、革新的なAIソリューションを開発するためのスキルを身につけることができます。...",
+            "image": {
+                "type": "jpg",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--ewtgWeEC--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9iMDkxNTViODMxLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+            },
+            "date_modified": "2024-10-18T09:27:45.000Z",
+            "date_published": "2024-10-18T09:27:45.000Z",
+            "author": {
+                "name": "福田 渉"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Cohereで始める実践的AI開発: 最新LLMテクノロジーの活用ガイド",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://autogpt.net/?p=10901",
+            "content_html": "Artificial Intelligence (AI) is transforming industries worldwide, from healthcare to transportation. But behind the rapid advancements in AI, there’s a lesser-known but critical component driving this revolution: AI chips. These specialized hardware pieces process vast amounts of data efficiently. Hence, making them essential for everything from self-driving cars to language models. In recent years, the demand for AI chips has surged, creating a booming market for AI chip makers. So, who are th...",
+            "url": "https://autogpt.net/leading-ai-chip-makers-shaping-tomorrows-technology/",
+            "title": "Leading AI Chip Makers Shaping Tomorrow’s Technology | Blog - AutoGPT Official",
+            "summary": "Artificial Intelligence (AI) is transforming industries worldwide, from healthcare to transportation. But behind the rapid advancements in AI, there’s a lesser-known but critical component driving thi...",
+            "image": {
+                "type": "image/jpeg",
+                "url": "https://autogpt.net/wp-content/uploads/2024/10/result-qEH0mnsaTv.jpg"
+            },
+            "date_modified": "2024-10-18T08:00:00.000Z",
+            "date_published": "2024-10-18T08:00:00.000Z",
+            "author": {
+                "name": "Onome"
+            },
+            "tags": [
+                "AI Knowledge",
+                "AI development",
+                "AI Innovation",
+                "artificial intelligence"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Leading AI Chip Makers Shaping Tomorrow’s Technology",
+                "blogTitle": "Blog - AutoGPT Official",
+                "blogLink": "https://autogpt.net/blog/",
+                "blogLinkMd5Hash": "67a0676bb236d55c3068a298ecee38ea"
+            }
+        },
+        {
+            "id": "https://note.com/ronbun_picks/n/n28480bc50ef3",
+            "content_html": "この論文は「Interactive Batch Image Editing」という新しい手法を提案しています。この手法では、1つの画像に対する編集内容を、他の多数の画像に自動的に適用できるようにし、人間の作業を大幅に減らすことを目指しています。従来の手法では1枚ずつ画像を編集する必要がありましたが、この方法ではユーザーが1枚の画像に編集を施せば、それを自動で他の画像にも同じように適用できます。 例えば、ある猫の目を閉じる編集をした場合、この手法では他の猫の画像にも自動で目を閉じる処理が行われます。結果として、大量の画像を一括で編集する際の時間を大幅に短縮し、1枚あたりの処理時間が0.05秒と、従来の2秒以上かかる手法よりもはるかに高速です。 続きをみる",
+            "url": "https://note.com/ronbun_picks/n/n28480bc50ef3",
+            "title": "Interactive Batch Image Editing手法について | #LLMタグ",
+            "summary": "この論文は「Interactive Batch Image Editing」という新しい手法を提案しています。この手法では、1つの画像に対する編集内容を、他の多数の画像に自動的に適用できるようにし、人間の作業を大幅に減らすことを目指しています。従来の手法では1枚ずつ画像を編集する必要がありましたが、この方法ではユーザーが1枚の画像に編集を施せば、それを自動で他の画像にも同じように適用できます。 例...",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158412218/rectangle_large_type_2_fec2118fb4adab3d87cb2eee37eb52a8.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-18T07:59:32.000Z",
+            "date_published": "2024-10-18T07:59:32.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Interactive Batch Image Editing手法について",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://note.com/explaza_inc/n/ne219a3367101",
+            "content_html": "今回も社内で話題になった生成AIに関するニュースをご紹介します。   続きをみる",
+            "url": "https://note.com/explaza_inc/n/ne219a3367101",
+            "title": "[10/12~10/18] 生成AI Weekly News #58 | #LLMタグ",
+            "summary": "今回も社内で話題になった生成AIに関するニュースをご紹介します。   続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158407460/rectangle_large_type_2_b447b45a707763867d3d85a3f340ec07.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-18T07:51:10.000Z",
+            "date_published": "2024-10-18T07:51:10.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "[10/12~10/18] 生成AI Weekly News #58",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://note.com/explaza_inc/n/ne219a3367101",
+            "content_html": "今回も社内で話題になった生成AIに関するニュースをご紹介します。   続きをみる",
+            "url": "https://note.com/explaza_inc/n/ne219a3367101",
+            "title": "[10/12~10/18] 生成AI Weekly News #58 | 株式会社エクスプラザ（公式）",
+            "summary": "今回も社内で話題になった生成AIに関するニュースをご紹介します。   続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158407460/rectangle_large_type_2_b447b45a707763867d3d85a3f340ec07.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-18T07:51:10.000Z",
+            "date_published": "2024-10-18T07:51:10.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "[10/12~10/18] 生成AI Weekly News #58",
+                "blogTitle": "株式会社エクスプラザ（公式）",
+                "blogLink": "https://note.com/explaza_inc",
+                "blogLinkMd5Hash": "23a8b7f2c5b4e69da5811866267ecbcd"
+            }
+        },
+        {
+            "id": "https://zenn.dev/connectome/articles/eb9848241c5115",
+            "content_html": "Jetson NanoがJetpack4で止まってしまったので、Jetson Orin Nanoを買って遊び始めたコネクトーム・デザインの伊藤です。 Jetson Orin Nanoについてはまたの機会に書こうと思いますが、今回はNVIDIAの新しいクラウドサービスの話です。   1. NVIDIA NIM とは。 https://www.nvidia.com/ja-jp/ai/ 「生成AIを即座にデプロイする」と書かれています。 つまり今までNVIDIAのGPUは、ディープラーニングの分野では「学習が超絶速い」という文脈で言及されることが多かったのですが、このサービスは「推論実行環境」...",
+            "url": "https://zenn.dev/connectome/articles/eb9848241c5115",
+            "title": "NVIDIA NIMを試してみる。 | Zennの「LLM」のフィード",
+            "summary": "Jetson NanoがJetpack4で止まってしまったので、Jetson Orin Nanoを買って遊び始めたコネクトーム・デザインの伊藤です。 Jetson Orin Nanoについてはまたの機会に書こうと思いますが、今回はNVIDIAの新しいクラウドサービスの話です。   1. NVIDIA NIM とは。 https://www.nvidia.com/ja-jp/ai/ 「生成AIを即座...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--EDd-81K5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:NVIDIA%2520NIM%25E3%2582%2592%25E8%25A9%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%258B%25E3%2580%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:COD-ITO%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q3MDM5YjgyZmEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:COD%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhkNDljYzE3ZjEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-18T06:30:05.000Z",
+            "date_published": "2024-10-18T06:30:05.000Z",
+            "author": {
+                "name": "COD-ITO"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "NVIDIA NIMを試してみる。",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://medium.com/p/6b9d5e478603",
+            "content_html": "In the revolutionizing world of AI, a blend of Multimodal LLMs and intelligent AI Agents emerges a powerful framework to solve real-world… Continue reading on Medium »",
+            "url": "https://medium.com/@metlakuntaindrayani/what-can-a-mix-of-multimodal-llms-and-ai-agents-do-6b9d5e478603",
+            "title": "What Can A Mix of Multimodal LLMs and AI Agents Do? | Llm Agent on Medium",
+            "summary": "In the revolutionizing world of AI, a blend of Multimodal LLMs and intelligent AI Agents emerges a powerful framework to solve real-world… Continue reading on Medium »",
+            "image": {
+                "type": "jpeg",
+                "url": "https://miro.medium.com/v2/resize:fit:1200/1*XDi-UvKF39JZq6V4qOfOIg.jpeg"
+            },
+            "date_modified": "2024-10-18T06:24:22.000Z",
+            "date_published": "2024-10-18T06:24:22.000Z",
+            "author": {
+                "name": "Metlakuntaindrayani"
+            },
+            "tags": [
+                "ai-agent",
+                "llm-agent",
+                "llm",
+                "gen-ai-tools"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "What Can A Mix of Multimodal LLMs and AI Agents Do?",
+                "blogTitle": "Llm Agent on Medium",
+                "blogLink": "https://medium.com/tag/llm-agent/latest?source=rss------llm_agent-5",
+                "blogLinkMd5Hash": "9bf461a96d41ee98f113b524b916bc94"
+            }
+        },
+        {
+            "id": "https://note.com/shi3zblog/n/n4287130147be",
+            "content_html": "科学の世界では、それまでの常識が覆ることを俗に「パラダイムシフト」と呼ぶ。 しかし、もしもAIの世界にパラダイムシフトという言葉があるとしたら、今週の人類は一体何度のパラダイムシフトを経験しただろうか。 続きをみる",
+            "url": "https://note.com/shi3zblog/n/n4287130147be",
+            "title": "ついにBitNet Llama8Bが登場! CPUのみで爆速推論するLLM,BitNet.cpp | #LLMタグ",
+            "summary": "科学の世界では、それまでの常識が覆ることを俗に「パラダイムシフト」と呼ぶ。 しかし、もしもAIの世界にパラダイムシフトという言葉があるとしたら、今週の人類は一体何度のパラダイムシフトを経験しただろうか。 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158398951/rectangle_large_type_2_08d7f8e2cb5ee79a23f966b00fe962a5.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-18T06:00:47.000Z",
+            "date_published": "2024-10-18T06:00:47.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 154,
+                "originalTitle": "ついにBitNet Llama8Bが登場! CPUのみで爆速推論するLLM,BitNet.cpp",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://note.com/brainy_zebra762/n/ndf76701eb3d0",
+            "content_html": "昨今のOCR技術とはすごいものだ。 OCRというのは画像ファイルの中に記述されているテキストを抽出するものだ。 最近ではGoogle Cloud Visionが強いのでは無いかと思う。 私は性格が悪いので、読めるものなら読んでみろと以下の画像を用意した。  続きをみる",
+            "url": "https://note.com/brainy_zebra762/n/ndf76701eb3d0",
+            "title": "エヴァの縦横混在テキストが読めない話(python-OCR) | #LLMタグ",
+            "summary": "昨今のOCR技術とはすごいものだ。 OCRというのは画像ファイルの中に記述されているテキストを抽出するものだ。 最近ではGoogle Cloud Visionが強いのでは無いかと思う。 私は性格が悪いので、読めるものなら読んでみろと以下の画像を用意した。  続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/2265f280d56bba36bd2984d3934511e305e19a81.png"
+            },
+            "date_modified": "2024-10-18T05:22:23.000Z",
+            "date_published": "2024-10-18T05:22:23.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "エヴァの縦横混在テキストが読めない話(python-OCR)",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://zenn.dev/intel_developer/articles/ff44d6eb4721fe",
+            "content_html": "【開発と活用を推進するインテルの AI】 インテルはクラウドからデータセンター、エッジにおいて、あらゆる場所での AI 活用を目指す、ソフトウェアやハードウェアでの AI 開発、さらには AI ソリューションへの活用を動画で解説するWebサイトを公開しています。 https://www.intel.co.jp/content/www/jp/ja/artificial-intelligence/ai-development-and-utilization.html ＜AI 活用を動画で学ぶ＞ インテルのエキスパートたちが、ソフトウェアやハードウェア、AI ソリューションに関してのノウハウを...",
+            "url": "https://zenn.dev/intel_developer/articles/ff44d6eb4721fe",
+            "title": "CPU によるファイン・チューニング | Zennの「LLM」のフィード",
+            "summary": "【開発と活用を推進するインテルの AI】 インテルはクラウドからデータセンター、エッジにおいて、あらゆる場所での AI 活用を目指す、ソフトウェアやハードウェアでの AI 開発、さらには AI ソリューションへの活用を動画で解説するWebサイトを公開しています。 https://www.intel.co.jp/content/www/jp/ja/artificial-intelligence/ai...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--9kMZWIGr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:CPU%2520%25E3%2581%25AB%25E3%2582%2588%25E3%2582%258B%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25BB%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25AB%25E3%2583%2587%25E3%2583%2599%25E3%2583%25AD%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC%25E3%2582%25BE%25E3%2583%25BC%25E3%2583%25B3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZiZThlMTc0MzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-18T04:40:20.000Z",
+            "date_published": "2024-10-18T04:40:20.000Z",
+            "author": {
+                "name": "インテルデベロッパーゾーン"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "CPU によるファイン・チューニング",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://tech.revcomm.co.jp/speak-at-pycon-apac-2024",
+            "content_html": "MiiTel Platform チームの小門です。 2024年10月25日(金)～27日(日)に開催される PyCon APAC 2024 に RevComm のエンジニア陶山 嶺と松土 慎太郎、わたし小門 照太の3名が登壇します イベント概要 https://2024-apac.pycon.id/ 日程: 2024年10月25日(金)～27日(日) 会場 Universitas Nahdlatul Ulama Yogyakarta チケット ※オンラインチケットもあります 登壇情報 発表一覧とスケジュールは以下に公開されています https://pretalx.com/pycon-apac-…",
+            "url": "https://tech.revcomm.co.jp/speak-at-pycon-apac-2024",
+            "title": "PyCon APAC 2024でRevCommのエンジニア3名が登壇します | RevComm Tech Blog",
+            "summary": "MiiTel Platform チームの小門です。 2024年10月25日(金)～27日(日)に開催される PyCon APAC 2024 に RevComm のエンジニア陶山 嶺と松土 慎太郎、わたし小門 照太の3名が登壇します イベント概要 https://2024-apac.pycon.id/ 日程: 2024年10月25日(金)～27日(日) 会場 Universitas Nahdlatu...",
+            "image": {
+                "type": null,
+                "url": "https://cdn.image.st-hatena.com/image/scale/fc3f64282d35a975d073c846277d69c8dcbf4a4e/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F158717908%2F1650446319149938"
+            },
+            "date_modified": "2024-10-18T03:00:00.000Z",
+            "date_published": "2024-10-18T03:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "PyCon APAC 2024でRevCommのエンジニア3名が登壇します",
+                "blogTitle": "RevComm Tech Blog",
+                "blogLink": "https://tech.revcomm.co.jp/",
+                "blogLinkMd5Hash": "f37c2192662723e7d7ad04fd75cd3aa6"
+            }
+        },
+        {
+            "id": "https://zenn.dev/mkj/articles/c1dc6a78b8821b",
+            "content_html": "はじめに はじめまして。株式会社松尾研究所 経営戦略本部でインターンをさせていただいております、木口 佳南(@KananK_AI)と申します。 大阪国際工科専門職大学でAIを専攻している学部4年生で、普段はAIの開発から事業推進まで幅広い取り組みを行っております。どうぞよろしくお願いいたします。 本ブログは、株式会社松尾研究所 経営戦略本部を統括している金 剛洙さん(@kangsoo_kim_)のブログである、大規模言語モデルはエリート就活生を超えるかを参考に執筆いたしました。   大規模言語モデルの推論能力はどれくらい進化している？ 昨今、大規模言語モデル(LLM)の性能向上に各社...",
+            "url": "https://zenn.dev/mkj/articles/c1dc6a78b8821b",
+            "title": "大規模言語モデルの推論能力比較実験：o1モデルは本当に賢いのか？ | Zennの「LLM」のフィード",
+            "summary": "はじめに はじめまして。株式会社松尾研究所 経営戦略本部でインターンをさせていただいております、木口 佳南(@KananK_AI)と申します。 大阪国際工科専門職大学でAIを専攻している学部4年生で、普段はAIの開発から事業推進まで幅広い取り組みを行っております。どうぞよろしくお願いいたします。 本ブログは、株式会社松尾研究所 経営戦略本部を統括している金 剛洙さん(@kangsoo_kim_)の...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--jkBjF66d--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25A4%25A7%25E8%25A6%258F%25E6%25A8%25A1%25E8%25A8%2580%25E8%25AA%259E%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AE%25E6%258E%25A8%25E8%25AB%2596%25E8%2583%25BD%25E5%258A%259B%25E6%25AF%2594%25E8%25BC%2583%25E5%25AE%259F%25E9%25A8%2593%25EF%25BC%259Ao1%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E8%25B3%25A2%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Kanan%2520Kiguchi%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2U2NGM3ZTBkMzIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25BE%25E5%25B0%25BE%25E7%25A0%2594%25E7%25A9%25B6%25E6%2589%2580%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJjODA5OGQ5YmIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-18T02:50:05.000Z",
+            "date_published": "2024-10-18T02:50:05.000Z",
+            "author": {
+                "name": "Kanan Kiguchi"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "大規模言語モデルの推論能力比較実験：o1モデルは本当に賢いのか？",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://note.com/schroneko/n/n321b340e3d03",
+            "content_html": "tl;dr   Microsoft が 1-bit LLM 推論フレームワーク bitnet.cpp を公開したよ   llama.cpp をベースにした CPU 推論対応フレームワーク   8B パラメータの 1.58-bit 量子化モデルをシングル CPU で実行可能だよ   macOS 環境におけるセットアップと実行手順を書いたよ（uv で実行確認）   英語での推論は良さそうだけど、日本語出力はちょっと厳しそう   続きをみる",
+            "url": "https://note.com/schroneko/n/n321b340e3d03",
+            "title": "bitnet.cpp を試す | #LLMタグ",
+            "summary": "tl;dr   Microsoft が 1-bit LLM 推論フレームワーク bitnet.cpp を公開したよ   llama.cpp をベースにした CPU 推論対応フレームワーク   8B パラメータの 1.58-bit 量子化モデルをシングル CPU で実行可能だよ   macOS 環境におけるセットアップと実行手順を書いたよ（uv で実行確認）   英語での推論は良さそうだけど、日本語...",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/158380356/rectangle_large_type_2_45c87903f4336e2b18bf53923a3ae8c6.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-18T02:48:45.000Z",
+            "date_published": "2024-10-18T02:48:45.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "bitnet.cpp を試す",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://note.com/kan_hatakeyama/n/n76f4cf303c62",
+            "content_html": "はじめに 続きをみる",
+            "url": "https://note.com/kan_hatakeyama/n/n76f4cf303c62",
+            "title": "ChatBotArenaのローカルサーバーでの立ち上げメモ | #LLMタグ",
+            "summary": "はじめに 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/26d34d6ff847414edb43e7e4820bb2866cb9f719.png"
+            },
+            "date_modified": "2024-10-18T01:20:26.000Z",
+            "date_published": "2024-10-18T01:20:26.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ChatBotArenaのローカルサーバーでの立ち上げメモ",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://note.com/ai_l/n/nf21f1dd2cd94",
+            "content_html": "続きをみる",
+            "url": "https://note.com/ai_l/n/nf21f1dd2cd94",
+            "title": "ChatGPTのWindowsアプリ、NotebookLM Business、Llama-3.1-Nemotron-70B-Instruct、CoTracker3【AIニュース】 | #LLMタグ",
+            "summary": "続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158370850/rectangle_large_type_2_338ca3111bf1b0788a56270b7cd9eff1.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-18T01:07:00.000Z",
+            "date_published": "2024-10-18T01:07:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ChatGPTのWindowsアプリ、NotebookLM Business、Llama-3.1-Nemotron-70B-Instruct、CoTracker3【AIニュース】",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://zenn.dev/matsuolab/articles/628effe52e4307",
+            "content_html": "はじめに 松尾・岩澤研究室のGENIACプロジェクト[1]において，Tanukiモデルを画像入力にも対応させたマルチモーダルモデル「Tanuki-8B-vision\"」[2]および「Tanuki-8x8B-vision-exp」[3]の開発に携わり，公開することができた（なお，マルチモーダル開発は本プロジェクトの主目的ではなく，私を含む有志の参加者により実験的に行われたものである）．その中で，私は特にTanuki-8x8B-vision-expの開発を中心として行った． この記事では，2回に分けてTanuki-8x8BをLLaVA-JPのコードを用いてLLaVA化してVisionモデ...",
+            "url": "https://zenn.dev/matsuolab/articles/628effe52e4307",
+            "title": "Tanuki-8x8B-vision-exp学習作業記録・tips【前編】 | Zennの「LLM」のフィード",
+            "summary": "はじめに 松尾・岩澤研究室のGENIACプロジェクト[1]において，Tanukiモデルを画像入力にも対応させたマルチモーダルモデル「Tanuki-8B-vision\"」[2]および「Tanuki-8x8B-vision-exp」[3]の開発に携わり，公開することができた（なお，マルチモーダル開発は本プロジェクトの主目的ではなく，私を含む有志の参加者により実験的に行われたものである）．その中で，私は...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--M2KKLbni--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Tanuki-8x8B-vision-exp%25E5%25AD%25A6%25E7%25BF%2592%25E4%25BD%259C%25E6%25A5%25AD%25E8%25A8%2598%25E9%258C%25B2%25E3%2583%25BBtips%25E3%2580%2590%25E5%2589%258D%25E7%25B7%25A8%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:OsakanaTeishoku%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y5NDA0NzYwYjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25B1%25E5%25A4%25A7%25E6%259D%25BE%25E5%25B0%25BE%25E3%2583%25BB%25E5%25B2%25A9%25E6%25BE%25A4%25E7%25A0%2594%25E7%25A9%25B6%25E5%25AE%25A4%2520%257C%2520LLM%25E9%2596%258B%25E7%2599%25BA%2520%25E3%2583%2597...%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVg1MnhWNXpMOGJvUlBZYlJGWmlVWFY3LUFDNHpNY0NYZDRfZmU3Yy10UUxfZzBRQVk9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-18T00:46:40.000Z",
+            "date_published": "2024-10-18T00:46:40.000Z",
+            "author": {
+                "name": "OsakanaTeishoku"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Tanuki-8x8B-vision-exp学習作業記録・tips【前編】",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://zenn.dev/qitaaa/articles/078f0a00a7f13e",
+            "content_html": "1. プロンプトの基本構造   目的を明確にする: 何を達成したいか、具体的に伝える。 条件や制約を設定: 結果に影響する具体的な条件を伝える。 文脈を明示: モデルに必要な前提情報や文脈を与える。     2. コピペして使えるプロンプトテンプレート  基本フォーマット 「[タスク]」について、[条件や制約]を守って回答してください。形式は[フォーマット]でお願いします。 テンプレート例   要約依頼 「[記事や文書]」の内容を、[文字数]以内で要約してください。    コード生成 [プログラミング言語]で、[タスク]を実行するためのコードを書いてください。コードには[特定の要素]...",
+            "url": "https://zenn.dev/qitaaa/articles/078f0a00a7f13e",
+            "title": "【保存版】プロンプトエンジニアリングのチートシート | Zennの「LLM」のフィード",
+            "summary": "1. プロンプトの基本構造   目的を明確にする: 何を達成したいか、具体的に伝える。 条件や制約を設定: 結果に影響する具体的な条件を伝える。 文脈を明示: モデルに必要な前提情報や文脈を与える。     2. コピペして使えるプロンプトテンプレート  基本フォーマット 「[タスク]」について、[条件や制約]を守って回答してください。形式は[フォーマット]でお願いします。 テンプレート例   要...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--_BBqcaWH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590%25E4%25BF%259D%25E5%25AD%2598%25E7%2589%2588%25E3%2580%2591%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E3%2583%2581%25E3%2583%25BC%25E3%2583%2588%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:qitar%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzVmZGNmMTg3OTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-17T23:19:46.000Z",
+            "date_published": "2024-10-17T23:19:46.000Z",
+            "author": {
+                "name": "qitar"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【保存版】プロンプトエンジニアリングのチートシート",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://note.com/npaka/n/ne6ef35e84903",
+            "content_html": "「OpenAI」の「Chat Completions API」のオーディオ入出力を試したのでまとめました。   続きをみる",
+            "url": "https://note.com/npaka/n/ne6ef35e84903",
+            "title": "OpenAI の Chat Completions API のオーディオ入出力を試す | #LLMタグ",
+            "summary": "「OpenAI」の「Chat Completions API」のオーディオ入出力を試したのでまとめました。   続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158354627/rectangle_large_type_2_d26fdaf1e58737a3132686f23914fdee.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-17T22:18:19.000Z",
+            "date_published": "2024-10-17T22:18:19.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "OpenAI の Chat Completions API のオーディオ入出力を試す",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://medium.com/p/e92a03a88998",
+            "content_html": "(It’s Not Why You Think It Is) Continue reading on Medium »",
+            "url": "https://medium.com/@xwggsphc/finally-swarm-could-be-openais-killer-feature-for-corporations-e92a03a88998",
+            "title": "Swarm could be OpenAI’s killer feature for corporations | Llm Agent on Medium",
+            "summary": "(It’s Not Why You Think It Is) Continue reading on Medium »",
+            "date_modified": "2024-10-17T21:53:30.000Z",
+            "date_published": "2024-10-17T21:53:30.000Z",
+            "author": {
+                "name": "Jan L"
+            },
+            "tags": [
+                "business",
+                "agentic-ai",
+                "openai",
+                "llm-agent",
+                "aı"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Swarm could be OpenAI’s killer feature for corporations",
+                "blogTitle": "Llm Agent on Medium",
+                "blogLink": "https://medium.com/tag/llm-agent/latest?source=rss------llm_agent-5",
+                "blogLinkMd5Hash": "9bf461a96d41ee98f113b524b916bc94"
+            }
+        },
+        {
+            "id": "https://medium.com/p/db5411852dc2",
+            "content_html": "",
+            "url": "https://cobusgreyling.medium.com/judging-ai-agents-db5411852dc2",
+            "title": "Judging AI Agents | Stories by Cobus Greyling on Medium",
+            "image": {
+                "type": "jpeg",
+                "url": "https://miro.medium.com/v2/resize:fit:1200/1*mNa4KtMTRc9noYvO99XQKg.jpeg"
+            },
+            "date_modified": "2024-10-17T16:38:13.000Z",
+            "date_published": "2024-10-17T16:38:13.000Z",
+            "author": {
+                "name": "Cobus Greyling"
+            },
+            "tags": [
+                "machine-learning",
+                "generative-ai",
+                "artificial-intelligence",
+                "ai",
+                "large-language-models"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Judging AI Agents",
+                "blogTitle": "Stories by Cobus Greyling on Medium",
+                "blogLink": "https://medium.com/@cobusgreyling?source=rss-b0fbe613be9d------2",
+                "blogLinkMd5Hash": "9ddb53b3d2163228225cac53b3ecb1b6"
+            }
+        },
+        {
+            "id": "https://autogpt.net/?p=10897",
+            "content_html": "Ask the average person about their goals and an improvement in finances is almost guaranteed to be on the list. Many of us want to get our spending under control but can’t seem to figure out where all our money is going. At the end of each month, we often struggle to meet daily expenses until payday. The good news is that artificial intelligence (AI) offers a solution to this common problem. There are many strategies you can employ to […] The post How Much Do You Spend Monthly? AI Can Tell appea...",
+            "url": "https://autogpt.net/how-much-do-you-spend-monthly-ai-can-tell/",
+            "title": "How Much Do You Spend Monthly? AI Can Tell | Blog - AutoGPT Official",
+            "summary": "Ask the average person about their goals and an improvement in finances is almost guaranteed to be on the list. Many of us want to get our spending under control but can’t seem to figure out where all...",
+            "image": {
+                "type": "image/jpeg",
+                "url": "https://autogpt.net/wp-content/uploads/2024/10/result-wMyxXUcADi.jpg"
+            },
+            "date_modified": "2024-10-17T14:32:09.000Z",
+            "date_published": "2024-10-17T14:32:09.000Z",
+            "author": {
+                "name": "Matt Pogla"
+            },
+            "tags": [
+                "AI Knowledge",
+                "Sponsored"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How Much Do You Spend Monthly? AI Can Tell",
+                "blogTitle": "Blog - AutoGPT Official",
+                "blogLink": "https://autogpt.net/blog/",
+                "blogLinkMd5Hash": "67a0676bb236d55c3068a298ecee38ea"
+            }
+        },
+        {
+            "id": "https://note.com/23newsofficial/n/n9a7a1064e598",
+            "content_html": "E2B Dev、1,150万ドルの資金調達でスタート  E2B Dev はソフトウェア開発キット (SDK) のバージョン 1.0 をリリースし、1,150 万ドルの資金調達ラウンドを完了しました。この会社はAIコ 解するためのツールを開発しており、毎月何百万ものテスト環境を実行しています。詳細については、ツイートをご覧ください。 続きをみる",
+            "url": "https://note.com/23newsofficial/n/n9a7a1064e598",
+            "title": "AIニュース: Nvidia Llama-3.1-Nemotron-70BがGPT-4oを上回る、OllamaがHugging Faceモデルを採用など | #LLMタグ",
+            "summary": "E2B Dev、1,150万ドルの資金調達でスタート  E2B Dev はソフトウェア開発キット (SDK) のバージョン 1.0 をリリースし、1,150 万ドルの資金調達ラウンドを完了しました。この会社はAIコ 解するためのツールを開発しており、毎月何百万ものテスト環境を実行しています。詳細については、ツイートをご覧ください。 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158334063/rectangle_large_type_2_eb96cbc046cb9e01d9dca754b006f8de.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-17T14:23:33.000Z",
+            "date_published": "2024-10-17T14:23:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AIニュース: Nvidia Llama-3.1-Nemotron-70BがGPT-4oを上回る、OllamaがHugging Faceモデルを採用など",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://autogpt.net/?p=10890",
+            "content_html": "The cryptocurrency world is buzzing once again, and this time, it’s not just about Bitcoin or Ethereum. The spotlight is on goatseus maximus (GOAT), an AI-designed meme coin that has skyrocketed in value in just three days. With a 239.93% increase in 72 hours, this Solana-based token has gone from obscurity to stardom, leaving many wondering: What’s driving this explosive growth? How GOAT Took Off When GOAT first appeared on the scene, few could have predicted its rapid rise. After […] The post ...",
+            "url": "https://autogpt.net/ai-created-meme-coin-goat-soars-over-500-in-one-week/",
+            "title": "AI-Created Meme Coin GOAT Soars Over 500% in One Week | Blog - AutoGPT Official",
+            "summary": "The cryptocurrency world is buzzing once again, and this time, it’s not just about Bitcoin or Ethereum. The spotlight is on goatseus maximus (GOAT), an AI-designed meme coin that has skyrocketed in va...",
+            "image": {
+                "type": "image/jpeg",
+                "url": "https://autogpt.net/wp-content/uploads/2024/10/result-cwKeTNwKpe.jpg"
+            },
+            "date_modified": "2024-10-17T14:16:04.000Z",
+            "date_published": "2024-10-17T14:16:04.000Z",
+            "author": {
+                "name": "Onome"
+            },
+            "tags": [
+                "AI News",
+                "AI Applications",
+                "AI integration",
+                "artificial intelligence"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AI-Created Meme Coin GOAT Soars Over 500% in One Week",
+                "blogTitle": "Blog - AutoGPT Official",
+                "blogLink": "https://autogpt.net/blog/",
+                "blogLinkMd5Hash": "67a0676bb236d55c3068a298ecee38ea"
+            }
+        },
+        {
+            "id": "https://note.com/23newsofficial/n/nc139aab7e12a",
+            "content_html": "レノボ イノベーション テクノロジー カンファレンス 2024 レノボ イノベーション テクノロジー カンファレンス 2024 で、レノボは、 NVIDIA の Huang Renxun 氏や AMD の Su Zifeng 氏などの AIリーダーと協力し、魅力的な AI 製品を紹介しました。主なハイライトは、パーソナル AI アシスタント、液冷サーバー、AI 搭載スマートフォンでした。これらのイノベーションにより、パーソナル コンピューターからビジネス サービス、さらには公共福祉プロジェクトに至るまで、あらゆる分野で AI がより大きな役割を果たしていることが明確になりました。 続きをみる",
+            "url": "https://note.com/23newsofficial/n/nc139aab7e12a",
+            "title": "AIニュース：Lenovoイノベーションテクノロジーカンファレンス2024にご相談ください、Twitterの世界初のAIマーケティングチーム：概要を500のユニークなマーケティングビジュアルに変換、その他 | #LLMタグ",
+            "summary": "レノボ イノベーション テクノロジー カンファレンス 2024 レノボ イノベーション テクノロジー カンファレンス 2024 で、レノボは、 NVIDIA の Huang Renxun 氏や AMD の Su Zifeng 氏などの AIリーダーと協力し、魅力的な AI 製品を紹介しました。主なハイライトは、パーソナル AI アシスタント、液冷サーバー、AI 搭載スマートフォンでした。これらのイ...",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158330583/rectangle_large_type_2_2d618141d36a24641acdb8d18f76bec9.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-17T13:53:17.000Z",
+            "date_published": "2024-10-17T13:53:17.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AIニュース：Lenovoイノベーションテクノロジーカンファレンス2024にご相談ください、Twitterの世界初のAIマーケティングチーム：概要を500のユニークなマーケティングビジュアルに変換、その他",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://medium.com/p/989585989cff",
+            "content_html": "Introduction To Multi-Agent Continue reading on Medium »",
+            "url": "https://medium.com/@sridevi.gogusetty/building-multi-agent-llm-systems-with-swarm-openais-groundbreaking-agent-framework-a-989585989cff",
+            "title": "Building Multi-Agent LLM Systems with Swarm: OpenAI’s Groundbreaking Agent Framework: A… | Llm Agent on Medium",
+            "summary": "Introduction To Multi-Agent Continue reading on Medium »",
+            "image": {
+                "type": "png",
+                "url": "https://miro.medium.com/v2/resize:fit:1140/1*j--I9uO1Pmt5FkkbZhfILg.png"
+            },
+            "date_modified": "2024-10-17T12:45:16.000Z",
+            "date_published": "2024-10-17T12:45:16.000Z",
+            "author": {
+                "name": "Sreedevi Gogusetty"
+            },
+            "tags": [
+                "agentic-applications",
+                "llm-agent",
+                "swarm",
+                "multiagent-system",
+                "llm"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Building Multi-Agent LLM Systems with Swarm: OpenAI’s Groundbreaking Agent Framework: A…",
+                "blogTitle": "Llm Agent on Medium",
+                "blogLink": "https://medium.com/tag/llm-agent/latest?source=rss------llm_agent-5",
+                "blogLinkMd5Hash": "9bf461a96d41ee98f113b524b916bc94"
+            }
+        },
+        {
+            "id": "https://autogpt.net/?p=10884",
+            "content_html": "Technology continues to advance at a rapid rate and has become unavoidable in our daily lives. The more reliant virtually every industry becomes on evolving tech solutions, a natural downside is that more ordinary people begin to lose touch with how it all works. Unfortunately, when it comes to elderly people, falling out of touch with tech comes with all kinds of risks as the elderly are often the most targeted individuals for cyber crimes. To help ensure none of […] The post 5 Tech Tips to Kee...",
+            "url": "https://autogpt.net/5-tech-tips-to-keep-elderly-parents-and-relatives-safe/",
+            "title": "5 Tech Tips to Keep Elderly Parents and Relatives Safe | Blog - AutoGPT Official",
+            "summary": "Technology continues to advance at a rapid rate and has become unavoidable in our daily lives. The more reliant virtually every industry becomes on evolving tech solutions, a natural downside is that ...",
+            "image": {
+                "type": "image/jpeg",
+                "url": "https://autogpt.net/wp-content/uploads/2024/10/Screenshot-2024-10-17-at-13.12.25.jpg"
+            },
+            "date_modified": "2024-10-17T12:14:03.000Z",
+            "date_published": "2024-10-17T12:14:03.000Z",
+            "author": {
+                "name": "Matt Pogla"
+            },
+            "tags": [
+                "Tech",
+                "Sponsored"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "5 Tech Tips to Keep Elderly Parents and Relatives Safe",
+                "blogTitle": "Blog - AutoGPT Official",
+                "blogLink": "https://autogpt.net/blog/",
+                "blogLinkMd5Hash": "67a0676bb236d55c3068a298ecee38ea"
+            }
+        },
+        {
+            "id": "https://note.com/ainest/n/n6b5249355caa",
+            "content_html": "こんにちは！株式会社AI Nestです。今回は、最近話題の論文「Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG」について深掘りしていきます。この研究、一見当たり前に思えることを覆す面白い発見をしているんです。さあ、一緒に最新のAI研究の世界を覗いてみましょう！  タイトル：Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG URL：https://arxiv.org/abs/2410.05983 所属：Google Cloud AI Research、University of Illinois at Urbana-Champaign 著者：Bowen Jin, Jinsung Yoon, Jiawei Han, Sercan O. Arik   続きをみる",
+            "url": "https://note.com/ainest/n/n6b5249355caa",
+            "title": "【論文瞬読】長文脈LLMとRAGの意外な関係：もっと多くの情報を与えれば、本当に賢くなるの？ | #LLMタグ",
+            "summary": "こんにちは！株式会社AI Nestです。今回は、最近話題の論文「Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG」について深掘りしていきます。この研究、一見当たり前に思えることを覆す面白い発見をしているんです。さあ、一緒に最新のAI研究の世界を覗いてみましょう！  タイトル：Long-Context L...",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/158316605/rectangle_large_type_2_6cd6fd9171ebabde9eda7c3ea36c26ab.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-17T12:07:16.000Z",
+            "date_published": "2024-10-17T12:07:16.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【論文瞬読】長文脈LLMとRAGの意外な関係：もっと多くの情報を与えれば、本当に賢くなるの？",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://note.com/toshia_fuji/n/n6313c24bc0fe",
+            "content_html": "まいどです。 本日の生成AIニュース。  続きをみる",
+            "url": "https://note.com/toshia_fuji/n/n6313c24bc0fe",
+            "title": "【生成AIニュース】『ComfyGen』『Hallo2』『Ministral 3B・Ministral 8B』他 | #LLMタグ",
+            "summary": "まいどです。 本日の生成AIニュース。  続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158316340/rectangle_large_type_2_efadd00f93930571df0bc8a7bb08bcff.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-17T12:04:11.000Z",
+            "date_published": "2024-10-17T12:04:11.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【生成AIニュース】『ComfyGen』『Hallo2』『Ministral 3B・Ministral 8B』他",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://note.com/saku_furui/n/n9330529aaa50",
+            "content_html": "第１３回毎月短歌に投稿した短歌（現代口語短歌）のAI評です。 記事に引用するのは自作品のみですが、WEB投稿参加作品のうち、文語・旧仮名部門短歌と連作部門以外の現代口語短歌すべてにAI評者のコメントがあります。   続きをみる",
+            "url": "https://note.com/saku_furui/n/n9330529aaa50",
+            "title": "＃毎月短歌１３（AI評） | #LLMタグ",
+            "summary": "第１３回毎月短歌に投稿した短歌（現代口語短歌）のAI評です。 記事に引用するのは自作品のみですが、WEB投稿参加作品のうち、文語・旧仮名部門短歌と連作部門以外の現代口語短歌すべてにAI評者のコメントがあります。   続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/157959416/rectangle_large_type_2_fb459cca01da75ab8fad9ac0b9706901.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-17T09:38:59.000Z",
+            "date_published": "2024-10-17T09:38:59.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "＃毎月短歌１３（AI評）",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://zenn.dev/matsuolab/articles/c521892085eda8",
+            "content_html": "はじめに GENIAC 松尾研 LLM開発プロジェクト Team Kumaの加藤 純です。 今回、Team Kumaで構築したモデルについて、学習後のポスト処理のスクリプト構築を担当しました。 本記事では、その担当作業にあたっての取り組み内容を報告します。 また、チーム全体の取り組み内容については、以下Paper & Hackのイベントにて報告していますので、ぜひご覧ください。    目的 LLaMa2-Accessoryを利用して学習したMegaBlocksのMoE（dropless MoE）モデルを、 Transformerライブラリで利用できるHuggingFace形式...",
+            "url": "https://zenn.dev/matsuolab/articles/c521892085eda8",
+            "title": "モデル学習後のポスト処理（加工・変換・アップロード）について【Team Kuma】 | Zennの「LLM」のフィード",
+            "summary": "はじめに GENIAC 松尾研 LLM開発プロジェクト Team Kumaの加藤 純です。 今回、Team Kumaで構築したモデルについて、学習後のポスト処理のスクリプト構築を担当しました。 本記事では、その担当作業にあたっての取り組み内容を報告します。 また、チーム全体の取り組み内容については、以下Paper & Hackのイベントにて報告していますので、ぜひご覧ください。    目的 LLa...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--HGj1dRBh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E5%25AD%25A6%25E7%25BF%2592%25E5%25BE%258C%25E3%2581%25AE%25E3%2583%259D%25E3%2582%25B9%25E3%2583%2588%25E5%2587%25A6%25E7%2590%2586%25EF%25BC%2588%25E5%258A%25A0%25E5%25B7%25A5%25E3%2583%25BB%25E5%25A4%2589%25E6%258F%259B%25E3%2583%25BB%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25BC%25E3%2583%2589%25EF%25BC%2589%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E3%2580%2590Team%2520Kuma%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:jaked97%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Y5NDA0NzYwYjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%259D%25B1%25E5%25A4%25A7%25E6%259D%25BE%25E5%25B0%25BE%25E3%2583%25BB%25E5%25B2%25A9%25E6%25BE%25A4%25E7%25A0%2594%25E7%25A9%25B6%25E5%25AE%25A4%2520%257C%2520LLM%25E9%2596%258B%25E7%2599%25BA%2520%25E3%2583%2597...%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnp1MEhLLU5vek9NS0t5N0RaVWU1Uzg3cmNmSzZwNXlvaFpKWEY0RWczcTF6V1huWm09czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-17T05:19:25.000Z",
+            "date_published": "2024-10-17T05:19:25.000Z",
+            "author": {
+                "name": "jaked97"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "モデル学習後のポスト処理（加工・変換・アップロード）について【Team Kuma】",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://zenn.dev/intel_developer/articles/586e653a340b9c",
+            "content_html": "Hugging Face の Optimum Habana ライブラリーを使用して、さらなる大規模言語モデルの最適化を進めています。 Hugging Face と Habana Labs では最近、GPT-2、GPTNeoX、GPT-J、OPT、LLAMA などのモデルを対象に、Optimum-Habana ライブラリーを使用したインテル® Gaudi® アクセラレーター / インテル® Gaudi® 2 アクセラレーターで実行する複数の LLM 推論リファレンス・モデルを公開しました。 これらのモデルもほかの LLM と同様に、Hugging Face がホストするレポジトリーを使用し...",
+            "url": "https://zenn.dev/intel_developer/articles/586e653a340b9c",
+            "title": "インテル® Gaudi® 2 アクセラレーターで実行する大規模言語モデル (LLM) の推論を最適化する方法 | Zennの「LLM」のフィード",
+            "summary": "Hugging Face の Optimum Habana ライブラリーを使用して、さらなる大規模言語モデルの最適化を進めています。 Hugging Face と Habana Labs では最近、GPT-2、GPTNeoX、GPT-J、OPT、LLAMA などのモデルを対象に、Optimum-Habana ライブラリーを使用したインテル® Gaudi® アクセラレーター / インテル® Gaud...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--oK2CxztJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25AB%2520%2520Gaudi%2520%25202%2520%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2583%25A9%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25A7%25E5%25AE%259F%25E8%25A1%258C%25E3%2581%2599%25E3%2582%258B%25E5%25A4%25A7%25E8%25A6%258F%25E6%25A8%25A1%25E8%25A8%2580%25E8%25AA%259E%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%2520%2528LLM%2529%2520%25E3%2581%25AE%25E6%258E%25A8%25E8%25AB%2596%25E3%2582%2592%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25AB%25E3%2583%2587%25E3%2583%2599%25E3%2583%25AD%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC%25E3%2582%25BE%25E3%2583%25BC%25E3%2583%25B3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZiZThlMTc0MzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-17T04:58:03.000Z",
+            "date_published": "2024-10-17T04:58:03.000Z",
+            "author": {
+                "name": "インテルデベロッパーゾーン"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "インテル® Gaudi® 2 アクセラレーターで実行する大規模言語モデル (LLM) の推論を最適化する方法",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://medium.com/p/ba3b8bb13958",
+            "content_html": "Why I Chose AgentNeo for Observability and Evaluation Continue reading on Medium »",
+            "url": "https://medium.com/@vijayc2306/autogen-meets-agentneo-a-complete-solution-for-monitoring-evaluating-and-debugging-agents-ba3b8bb13958",
+            "title": "AutoGen Meets AgentNeo: A Complete Solution for Monitoring, Evaluating and Debugging Agents | Llm Agent on Medium",
+            "summary": "Why I Chose AgentNeo for Observability and Evaluation Continue reading on Medium »",
+            "image": {
+                "type": "png",
+                "url": "https://miro.medium.com/v2/resize:fit:1200/1*2IYmLHt7bLUesMQ33fnz6w.png"
+            },
+            "date_modified": "2024-10-17T04:52:20.000Z",
+            "date_published": "2024-10-17T04:52:20.000Z",
+            "author": {
+                "name": "Vijay Chaurasiya"
+            },
+            "tags": [
+                "agents",
+                "autogen",
+                "llm-agent",
+                "agentic-ai"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AutoGen Meets AgentNeo: A Complete Solution for Monitoring, Evaluating and Debugging Agents",
+                "blogTitle": "Llm Agent on Medium",
+                "blogLink": "https://medium.com/tag/llm-agent/latest?source=rss------llm_agent-5",
+                "blogLinkMd5Hash": "9bf461a96d41ee98f113b524b916bc94"
+            }
+        },
+        {
+            "id": "https://zenn.dev/firstautomation/articles/d05572e54949f3",
+            "content_html": "はじめに 株式会社ファースト・オートメーションCTOの田中(しろくま)です！ 弊社では製造業向けのRAGを使ったチャットボットの開発を行っていますが、RAGが普及してきた昨今においてまだまだ課題があるなと感じているのが、 マニュアルのような画像と文書の複合したドキュメントの読み取り です。 例えばPC操作の説明書などは良い例かなと思うのですが、画面スクショに矢印が入っていたり、それに対して説明が入っている文書は通常のRAGとの相性が悪いです。 以下は経産省が提供しているgBizINFOというサービスの操作説明資料を抜粋したものです。   元のPDF資料はこちら このように、図と文書が...",
+            "url": "https://zenn.dev/firstautomation/articles/d05572e54949f3",
+            "title": "Qwen2-VLとColPaliでマニュアル用ローカルQAボットを作ってみた | Zennの「LLM」のフィード",
+            "summary": "はじめに 株式会社ファースト・オートメーションCTOの田中(しろくま)です！ 弊社では製造業向けのRAGを使ったチャットボットの開発を行っていますが、RAGが普及してきた昨今においてまだまだ課題があるなと感じているのが、 マニュアルのような画像と文書の複合したドキュメントの読み取り です。 例えばPC操作の説明書などは良い例かなと思うのですが、画面スクショに矢印が入っていたり、それに対して説明が入...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--0xI4VeMK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Qwen2-VL%25E3%2581%25A8ColPali%25E3%2581%25A7%25E3%2583%259E%25E3%2583%258B%25E3%2583%25A5%25E3%2582%25A2%25E3%2583%25AB%25E7%2594%25A8%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABQA%25E3%2583%259C%25E3%2583%2583%25E3%2583%2588%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%2597%25E3%2582%258D%25E3%2581%258F%25E3%2581%25BE%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzMxODFlZGI0MTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25BB%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2588%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzM0NjU3ODEwYjQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-17T04:05:00.000Z",
+            "date_published": "2024-10-17T04:05:00.000Z",
+            "author": {
+                "name": "しろくま"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Qwen2-VLとColPaliでマニュアル用ローカルQAボットを作ってみた",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://note.com/ai_l/n/ne137d4c8a758",
+            "content_html": "続きをみる",
+            "url": "https://note.com/ai_l/n/ne137d4c8a758",
+            "title": "Mistralの新モデルLes Ministraux、ボストンダイナミクスとトヨタ系提携、アマゾン原子力契約【AIニュース】 | #LLMタグ",
+            "summary": "続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158249113/rectangle_large_type_2_1c34fc2f96d704baafd7af510bd9a162.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-17T01:22:23.000Z",
+            "date_published": "2024-10-17T01:22:23.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Mistralの新モデルLes Ministraux、ボストンダイナミクスとトヨタ系提携、アマゾン原子力契約【AIニュース】",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://note.com/akvabit/n/n5cde70d83f1a",
+            "content_html": "１０月１５日ですね。 先週、農業WEEKとメディカルジャパンに行ってきた話は書きました。 様々なサービスが各社によって立ち上げられ、運用される中、kintoneはその間を埋める存在になり得ると言う話でした。 二日連続で巡ってみて、改めてその可能性を確信しました。 続きをみる",
+            "url": "https://note.com/akvabit/n/n5cde70d83f1a",
+            "title": "１０月１５日　技術者が言語スキルを上げるためにできること | #LLMタグ",
+            "summary": "１０月１５日ですね。 先週、農業WEEKとメディカルジャパンに行ってきた話は書きました。 様々なサービスが各社によって立ち上げられ、運用される中、kintoneはその間を埋める存在になり得ると言う話でした。 二日連続で巡ってみて、改めてその可能性を確信しました。 続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/158244448/rectangle_large_type_2_6b94f51d303a72e423514de8695a3dcf.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-17T00:38:22.000Z",
+            "date_published": "2024-10-17T00:38:22.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "１０月１５日　技術者が言語スキルを上げるためにできること",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://medium.com/p/4910485e3272",
+            "content_html": "In early 2024, I set out to build a research AI agent capable of autonomously browsing the web, gathering facts, and returning metadata… Continue reading on Medium »",
+            "url": "https://johnchildseddy.medium.com/typescript-llms-lessons-learned-from-9-months-in-production-4910485e3272",
+            "title": "Typescript & LLMs: Lessons Learned from 9 Months in Production | Llm Agent on Medium",
+            "summary": "In early 2024, I set out to build a research AI agent capable of autonomously browsing the web, gathering facts, and returning metadata… Continue reading on Medium »",
+            "image": {
+                "type": "png",
+                "url": "https://miro.medium.com/v2/resize:fit:1130/1*dcXEPOlKTStuq6K5EtNqBg.png"
+            },
+            "date_modified": "2024-10-16T22:28:53.000Z",
+            "date_published": "2024-10-16T22:28:53.000Z",
+            "author": {
+                "name": "John Childs-Eddy"
+            },
+            "tags": [
+                "llm-evaluation",
+                "llm-applications",
+                "llm-agent"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Typescript & LLMs: Lessons Learned from 9 Months in Production",
+                "blogTitle": "Llm Agent on Medium",
+                "blogLink": "https://medium.com/tag/llm-agent/latest?source=rss------llm_agent-5",
+                "blogLinkMd5Hash": "9bf461a96d41ee98f113b524b916bc94"
+            }
+        },
+        {
+            "id": "https://zenn.dev/chase0213/articles/20241017_catch-up-image-generation",
+            "content_html": "Ai Hoshino generated by FLUX1.1 pro  みなさん、画像生成AI、キャッチアップできてますか？！ 私は最近だと Text-to-Text の LLMモデルばかりを扱っているのですが、画像生成もそろそろキャッチアップしないとなということで、記事を書きつつまとめていきたいと思います。 普段は会社経営をしつつ、フリーランスのMLエンジニアやデータサイエンティストとして活動してます。直近ではシリコンバレーの AIスタートアップで MLE（Machine Learning Engineer）をしていましたが、諸々の事情でリソースが空いてしまったので、LLM を組...",
+            "url": "https://zenn.dev/chase0213/articles/20241017_catch-up-image-generation",
+            "title": "画像生成AI（モデル）を catch up する（2024） | Zennの「LLM」のフィード",
+            "summary": "Ai Hoshino generated by FLUX1.1 pro  みなさん、画像生成AI、キャッチアップできてますか？！ 私は最近だと Text-to-Text の LLMモデルばかりを扱っているのですが、画像生成もそろそろキャッチアップしないとなということで、記事を書きつつまとめていきたいと思います。 普段は会社経営をしつつ、フリーランスのMLエンジニアやデータサイエンティストとして活動...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--EcTbZDND--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%2594%25BB%25E5%2583%258F%25E7%2594%259F%25E6%2588%2590AI%25EF%25BC%2588%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25EF%25BC%2589%25E3%2582%2592%2520catch%2520up%2520%25E3%2581%2599%25E3%2582%258B%25EF%25BC%25882024%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Chase%2520%257C%2520Chisato%2520Ha...%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hGQTEwLWVNUGVwNVBod1RHVjZfZjlIYUY3NlVFZFo1TEpZNjZheExVPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-16T22:00:05.000Z",
+            "date_published": "2024-10-16T22:00:05.000Z",
+            "author": {
+                "name": "Chase | Chisato Hasegawa"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "画像生成AI（モデル）を catch up する（2024）",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://medium.com/p/e135a233b59d",
+            "content_html": "In the evolving landscape of AI, a new strategy is gaining attention — multi-agent debate. This approach, inspired by collaborative… Continue reading on Medium »",
+            "url": "https://medium.com/@nilou.beyranvand/exploring-multi-agent-debate-a-new-approach-for-enhancing-llm-performance-e135a233b59d",
+            "title": "Exploring Multi-Agent Debate: A New Approach for Enhancing LLM Performance | Llm Agent on Medium",
+            "summary": "In the evolving landscape of AI, a new strategy is gaining attention — multi-agent debate. This approach, inspired by collaborative… Continue reading on Medium »",
+            "image": {
+                "type": "png",
+                "url": "https://miro.medium.com/v2/resize:fit:918/1*ppdHgXH4Z_Eanfm6a39Z0Q.png"
+            },
+            "date_modified": "2024-10-16T21:31:38.000Z",
+            "date_published": "2024-10-16T21:31:38.000Z",
+            "author": {
+                "name": "Niloufar Beyranvand"
+            },
+            "tags": [
+                "llm-agent",
+                "llm-hallucinations",
+                "llm",
+                "llm-as-a-judge",
+                "llm-evaluation"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Exploring Multi-Agent Debate: A New Approach for Enhancing LLM Performance",
+                "blogTitle": "Llm Agent on Medium",
+                "blogLink": "https://medium.com/tag/llm-agent/latest?source=rss------llm_agent-5",
+                "blogLinkMd5Hash": "9bf461a96d41ee98f113b524b916bc94"
+            }
+        },
+        {
+            "id": "https://note.com/schroneko/n/nab320376dcfd",
+            "content_html": "tl;dr   NVIDIA から Llama-3.1-Nemotron-70B-Instruct が公開   3 つのベンチマークで Claude 3.5 Sonnet や GPT-4o を超える性能を誇る  Arena Hard で 85.0、AlpacaEval で 57.6、MT-Bench で 8.98  最大入力トークン数は 128k で最大出力トークン数は 4k   Llama-3.1-70B-Instruct を初期方策として、Llama-3.1-Nemotron-70B-Reward と HelpSteer2-Preference プロンプトを用いて RLHF   NVIDIA NIM、transformers、Ollama、MLX から動作を試した   MLX の変換済みモデルを MLX-Community にアップロードした   続きをみる",
+            "url": "https://note.com/schroneko/n/nab320376dcfd",
+            "title": "NVIDIA の Claude 3.5 Sonnet 超え（？）の Llama-3.1-Nemotron-70B-Instruct を試す | #LLMタグ",
+            "summary": "tl;dr   NVIDIA から Llama-3.1-Nemotron-70B-Instruct が公開   3 つのベンチマークで Claude 3.5 Sonnet や GPT-4o を超える性能を誇る  Arena Hard で 85.0、AlpacaEval で 57.6、MT-Bench で 8.98  最大入力トークン数は 128k で最大出力トークン数は 4k   Llama-3....",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158215622/rectangle_large_type_2_493c970f07635d37cb9a17e497f7c7cd.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-16T17:39:07.000Z",
+            "date_published": "2024-10-16T17:39:07.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 3,
+                "originalTitle": "NVIDIA の Claude 3.5 Sonnet 超え（？）の Llama-3.1-Nemotron-70B-Instruct を試す",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://zenn.dev/oumugai/articles/747aa902994fac",
+            "content_html": "はじめに 最近のサービス開発では、AIっぽいことを行おうとする際にLLMを活用することは当たり前になってきました。 しかしLLMの選定はあまり行われずOpenAI APIをそのまま活用するというケースが多いのではないでしょうか？ そこで今回はgroqというサービスを使用し、LLMの精度と速度などを比較し、他の選択肢もあるよ～というのを伝えられたらと思います   宣伝 groqに乗り換えて高速になりました、ぜひ使ってみてください https://knotix.net   groqとは https://groq.com/ このサービス、OpenAI APIからの乗り換えも用意で利用料金も...",
+            "url": "https://zenn.dev/oumugai/articles/747aa902994fac",
+            "title": "情報を探索しやすくするサイトを高速化するためにOpenAI APIを捨てた | Zennの「LLM」のフィード",
+            "summary": "はじめに 最近のサービス開発では、AIっぽいことを行おうとする際にLLMを活用することは当たり前になってきました。 しかしLLMの選定はあまり行われずOpenAI APIをそのまま活用するというケースが多いのではないでしょうか？ そこで今回はgroqというサービスを使用し、LLMの精度と速度などを比較し、他の選択肢もあるよ～というのを伝えられたらと思います   宣伝 groqに乗り換えて高速になり...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--fg_UpmaY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E6%258E%25A2%25E7%25B4%25A2%25E3%2581%2597%25E3%2582%2584%25E3%2581%2599%25E3%2581%258F%25E3%2581%2599%25E3%2582%258B%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2588%25E3%2582%2592%25E9%25AB%2598%25E9%2580%259F%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25ABOpenAI%2520API%25E3%2582%2592%25E6%258D%25A8%25E3%2581%25A6%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25AA%25E3%2582%25A6%25E3%2583%25A0%25E3%2582%25AC%25E3%2582%25A4%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2ltMVNzUWFUNDFnSE5sTk11T0tUM0haWW44eHhCckg2Z2JIekhhPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-16T12:49:06.000Z",
+            "date_published": "2024-10-16T12:49:06.000Z",
+            "author": {
+                "name": "オウムガイ"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "情報を探索しやすくするサイトを高速化するためにOpenAI APIを捨てた",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://note.com/catap_art3d/n/nd850e392be4d",
+            "content_html": "はじめに 下記事の続きです。（※ 詳細は前回に記述しています） 続きをみる",
+            "url": "https://note.com/catap_art3d/n/nd850e392be4d",
+            "title": "【Flux.1】Flux.1時代のローカルAI画像生成④-4【SD1.5】 | #LLMタグ",
+            "summary": "はじめに 下記事の続きです。（※ 詳細は前回に記述しています） 続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/158196508/rectangle_large_type_2_0db7d5217173760e671d5a5ff946fbf4.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-16T12:47:16.000Z",
+            "date_published": "2024-10-16T12:47:16.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【Flux.1】Flux.1時代のローカルAI画像生成④-4【SD1.5】",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://note.com/23newsofficial/n/n6c44f8672cb8",
+            "content_html": "SpaceXのStarlink衛星打ち上げ: SpaceX は最近、カリフォルニアから 20 基、フロリダから 23 基の衛星を打ち上げ、Starlink インターネット ネットワークの拡大において重要な節目を迎えました。このミッションには Falcon 9 ロケットが使用され、そのブースターは 19 回目の着陸後に無事地球に帰還しました。このことは、この技術が将来の打ち上げに再利用可能であることを示しています。 続きをみる",
+            "url": "https://note.com/23newsofficial/n/n6c44f8672cb8",
+            "title": "AIニュース：SpaceXが43のStarlink衛星の打ち上げに成功、GoogleがAI機能の拡張のため小型原子炉を買収など | #LLMタグ",
+            "summary": "SpaceXのStarlink衛星打ち上げ: SpaceX は最近、カリフォルニアから 20 基、フロリダから 23 基の衛星を打ち上げ、Starlink インターネット ネットワークの拡大において重要な節目を迎えました。このミッションには Falcon 9 ロケットが使用され、そのブースターは 19 回目の着陸後に無事地球に帰還しました。このことは、この技術が将来の打ち上げに再利用可能であること...",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158196541/rectangle_large_type_2_1d329f561000df1c158502ed569d948e.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-16T12:34:49.000Z",
+            "date_published": "2024-10-16T12:34:49.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AIニュース：SpaceXが43のStarlink衛星の打ち上げに成功、GoogleがAI機能の拡張のため小型原子炉を買収など",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://autogpt.net/?p=10830",
+            "content_html": "In recent months, the Biden administration has been seriously considering expanding restrictions on the export of artificial intelligence (AI) chips, particularly from industry giants like Nvidia and AMD, to certain countries. While much of the focus has traditionally been on China, there’s a new target in the spotlight: the Persian Gulf nations. A Shift in Focus You might be wondering, why the sudden interest in restricting AI chip sales to Persian Gulf countries? As it turns out, it all boils ...",
+            "url": "https://autogpt.net/us-tightens-grip-on-ai-chip-sales-abroad/",
+            "title": "US Tightens Grip on AI Chip Sales Abroad | Blog - AutoGPT Official",
+            "summary": "In recent months, the Biden administration has been seriously considering expanding restrictions on the export of artificial intelligence (AI) chips, particularly from industry giants like Nvidia and ...",
+            "image": {
+                "type": "image/webp",
+                "url": "https://autogpt.net/wp-content/uploads/2024/10/Screenshot-2024-07-01-at-15.12.29.webp"
+            },
+            "date_modified": "2024-10-16T12:34:14.000Z",
+            "date_published": "2024-10-16T12:34:14.000Z",
+            "author": {
+                "name": "Onome"
+            },
+            "tags": [
+                "AI News",
+                "AI development",
+                "artificial intelligence"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "US Tightens Grip on AI Chip Sales Abroad",
+                "blogTitle": "Blog - AutoGPT Official",
+                "blogLink": "https://autogpt.net/blog/",
+                "blogLinkMd5Hash": "67a0676bb236d55c3068a298ecee38ea"
+            }
+        },
+        {
+            "id": "https://note.com/toshia_fuji/n/n11773ee7358b",
+            "content_html": "まいどです。 本日の生成AIニュース。  続きをみる",
+            "url": "https://note.com/toshia_fuji/n/n11773ee7358b",
+            "title": "【生成AIニュース】『Sana』『Gradio 5』『DART』他 | #LLMタグ",
+            "summary": "まいどです。 本日の生成AIニュース。  続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/158194060/rectangle_large_type_2_1f00699c2602f7056aa6f198ee8f1625.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-16T12:16:29.000Z",
+            "date_published": "2024-10-16T12:16:29.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【生成AIニュース】『Sana』『Gradio 5』『DART』他",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://note.com/takao19791012/n/n86ebc4c21ce4",
+            "content_html": "9月に読んだ本のレビュー ChatGPTと学ぶPython入門 続きをみる",
+            "url": "https://note.com/takao19791012/n/n86ebc4c21ce4",
+            "title": "9月に読んだ本 | #LLMタグ",
+            "summary": "9月に読んだ本のレビュー ChatGPTと学ぶPython入門 続きをみる",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/157099924/rectangle_large_type_2_ccba6190b8dbc9f385d54967206e83eb.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-16T12:02:44.000Z",
+            "date_published": "2024-10-16T12:02:44.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "9月に読んだ本",
+                "blogTitle": "#LLMタグ",
+                "blogLink": "https://note.com/hashtag/LLM",
+                "blogLinkMd5Hash": "cd95fdb29b2ce6d4bfd6dd422039370b"
+            }
+        },
+        {
+            "id": "https://autogpt.net/?p=10818",
+            "content_html": "The term ”democratization of AI” is becoming a buzzword in the tech industry, but what does it really mean? Essentially, it means making artificial intelligence (AI) accessible to everyone, not just experts or big corporations. Think about it – AI is all around us, from virtual assistants on our phones to recommendation systems on our favorite streaming platforms. However, for many years, this powerful technology was only available to those with the resources and knowledge to develop it. But tha...",
+            "url": "https://autogpt.net/how-the-democratization-of-ai-will-change-everything/",
+            "title": "How the Democratization of AI Will Change Everything | Blog - AutoGPT Official",
+            "summary": "The term ”democratization of AI” is becoming a buzzword in the tech industry, but what does it really mean? Essentially, it means making artificial intelligence (AI) accessible to everyone, not just e...",
+            "image": {
+                "type": "image/jpeg",
+                "url": "https://autogpt.net/wp-content/uploads/2024/10/Screenshot-2024-10-16-at-11.34.03.jpg"
+            },
+            "date_modified": "2024-10-16T11:32:49.000Z",
+            "date_published": "2024-10-16T11:32:49.000Z",
+            "author": {
+                "name": "Onome"
+            },
+            "tags": [
+                "AI Knowledge",
+                "AI integration",
+                "AI revolution",
+                "artificial intelligence"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How the Democratization of AI Will Change Everything",
+                "blogTitle": "Blog - AutoGPT Official",
+                "blogLink": "https://autogpt.net/blog/",
+                "blogLinkMd5Hash": "67a0676bb236d55c3068a298ecee38ea"
+            }
+        },
+        {
+            "id": "https://zenn.dev/fusic/articles/1f29d1e67d7920",
+            "content_html": "GPT-4oの高度な音声機能が発表されて以来、オープンソースのコミュニティでも同様の仕事が行われており、最も有名なのは、今年上半期に発売されたMoshiです。モシは強いですが、記事の対象ではありません。この記事は、最近の2つの「オムニ」という名前のaudio language modelを比較したものです。 LLaMA-Omni: 主な目的は、latencyの最適化です。 Mini-omni: 主な目的は、textのreasoning abilityをオーディオモードに移行することです。 この2つの文章が与えるモデルあるいはシステムは比較的類似しており，表面的にはどちらも音声入力音声出力...",
+            "url": "https://zenn.dev/fusic/articles/1f29d1e67d7920",
+            "title": "openai voiceが発売後:オープンソースはありませんか？ | Zennの「LLM」のフィード",
+            "summary": "GPT-4oの高度な音声機能が発表されて以来、オープンソースのコミュニティでも同様の仕事が行われており、最も有名なのは、今年上半期に発売されたMoshiです。モシは強いですが、記事の対象ではありません。この記事は、最近の2つの「オムニ」という名前のaudio language modelを比較したものです。 LLaMA-Omni: 主な目的は、latencyの最適化です。 Mini-omni: 主...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--CjH1ZqXh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:openai%2520voice%25E3%2581%258C%25E7%2599%25BA%25E5%25A3%25B2%25E5%25BE%258C%253A%25E3%2582%25AA%25E3%2583%25BC%25E3%2583%2597%25E3%2583%25B3%25E3%2582%25BD%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25AF%25E3%2581%2582%25E3%2582%258A%25E3%2581%25BE%25E3%2581%259B%25E3%2582%2593%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:wooheum%2520xin%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNhNDgxMzQ3YjkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Fusic%2520%25E6%258A%2580%25E8%25A1%2593%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzgwMjc2NjQyOTMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-16T10:23:13.000Z",
+            "date_published": "2024-10-16T10:23:13.000Z",
+            "author": {
+                "name": "wooheum xin"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "openai voiceが発売後:オープンソースはありませんか？",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://autogpt.net/?p=10814",
+            "content_html": "As of 2024, there are over 270 million online shoppers in the United States alone, which is more than 81% of the total U.S. population. E-commerce revenue has reached $1,137 billion with mobile shopping expected to reach $199.50 million by 2028. This number has been steadily increasing over the years, as more systems, such as banking, streaming services, and online gaming, for example, are being digitized. As our daily needs and habits have shifted to transacting online, managing and tracking […...",
+            "url": "https://autogpt.net/how-to-control-online-expenditure-using-ai/",
+            "title": "How to Control Online Expenditure Using AI | Blog - AutoGPT Official",
+            "summary": "As of 2024, there are over 270 million online shoppers in the United States alone, which is more than 81% of the total U.S. population. E-commerce revenue has reached $1,137 billion with mobile shoppi...",
+            "image": {
+                "type": "image/jpeg",
+                "url": "https://autogpt.net/wp-content/uploads/2024/10/Screenshot-2024-10-16-at-08.53.07.jpg"
+            },
+            "date_modified": "2024-10-16T07:56:33.000Z",
+            "date_published": "2024-10-16T07:56:33.000Z",
+            "author": {
+                "name": "Matt Pogla"
+            },
+            "tags": [
+                "AI Knowledge",
+                "Sponsored"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How to Control Online Expenditure Using AI",
+                "blogTitle": "Blog - AutoGPT Official",
+                "blogLink": "https://autogpt.net/blog/",
+                "blogLinkMd5Hash": "67a0676bb236d55c3068a298ecee38ea"
+            }
+        },
+        {
+            "id": "https://autogpt.net/?p=10808",
+            "content_html": "Blockchain has brought about a new era of decentralized finance, and crypto wallets are at the heart of it all. As crypto becomes more mainstream, the challenge of authentication becomes more pressing. Passwords and 2FA are no longer enough to keep out the increasingly sophisticated cyber attacks. Enter AI tools – a game-changer that’s changing the way user authentication is done in crypto wallets and will bring about a more secure and user-friendly future. In this post, we’ll look at […] The po...",
+            "url": "https://autogpt.net/how-ai-tools-are-revolutionizing-user-authentication-in-crypto-wallets/",
+            "title": "How AI Tools Are Revolutionizing User Authentication in Crypto Wallets | Blog - AutoGPT Official",
+            "summary": "Blockchain has brought about a new era of decentralized finance, and crypto wallets are at the heart of it all. As crypto becomes more mainstream, the challenge of authentication becomes more pressing...",
+            "image": {
+                "type": "image/jpeg",
+                "url": "https://autogpt.net/wp-content/uploads/2024/10/Screenshot-2024-10-16-at-08.42.24.jpg"
+            },
+            "date_modified": "2024-10-16T07:44:52.000Z",
+            "date_published": "2024-10-16T07:44:52.000Z",
+            "author": {
+                "name": "Matt Pogla"
+            },
+            "tags": [
+                "AI Tools",
+                "Sponsored"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How AI Tools Are Revolutionizing User Authentication in Crypto Wallets",
+                "blogTitle": "Blog - AutoGPT Official",
+                "blogLink": "https://autogpt.net/blog/",
+                "blogLinkMd5Hash": "67a0676bb236d55c3068a298ecee38ea"
+            }
+        },
+        {
+            "id": "https://medium.com/p/ef5e51596dad",
+            "content_html": "",
+            "url": "https://cobusgreyling.medium.com/ai-agents-beyond-the-screen-ef5e51596dad",
+            "title": "AI Agents Beyond The Screen | Stories by Cobus Greyling on Medium",
+            "image": {
+                "type": "gif",
+                "url": "https://miro.medium.com/v2/da:true/resize:fit:1200/1*C9LmlUW4YK1jFSis7SRiHQ.gif"
+            },
+            "date_modified": "2024-10-16T06:12:06.000Z",
+            "date_published": "2024-10-16T06:12:06.000Z",
+            "author": {
+                "name": "Cobus Greyling"
+            },
+            "tags": [
+                "ai-agent",
+                "artificial-intelligence",
+                "machine-learning",
+                "large-language-models",
+                "ai"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AI Agents Beyond The Screen",
+                "blogTitle": "Stories by Cobus Greyling on Medium",
+                "blogLink": "https://medium.com/@cobusgreyling?source=rss-b0fbe613be9d------2",
+                "blogLinkMd5Hash": "9ddb53b3d2163228225cac53b3ecb1b6"
+            }
+        },
+        {
+            "id": "https://blog.brainpad.co.jp/entry/2024/10/16/150540",
+            "content_html": "ブレインパッドのダイバーシティ・エクイティ&インクルージョン（DE&I）の取り組みを紹介する連載「DE＆Iシリーズ」の第二弾。今回は、多様性を重んじる当社の企業文化を体現する外国籍メンバーとのクロストークをお届けします。 マーティン・イサクソン 王頴（ワン イン） チャンウォンナラカンパシ（ビル） 新木菜月 XaaSユニットプロダクトマネジャースウェーデン出身 アナリティクスコンサルティングユニットデータサイエンティスト中国出身 データエンジニアリングユニット機械学習エンジニアラオス出身 執行役員 CFOESG 担当 兼コーポレート担当日本出身 データの多様性を体現する、国際色豊かな仲間たち …",
+            "url": "https://blog.brainpad.co.jp/entry/2024/10/16/150540",
+            "title": "【DE＆Iシリーズ】外国籍社員から見たブレインパッドの魅力 | Platinum Data Blog by BrainPad",
+            "summary": "ブレインパッドのダイバーシティ・エクイティ&インクルージョン（DE&I）の取り組みを紹介する連載「DE＆Iシリーズ」の第二弾。今回は、多様性を重んじる当社の企業文化を体現する外国籍メンバーとのクロストークをお届けします。 マーティン・イサクソン 王頴（ワン イン） チャンウォンナラカンパシ（ビル） 新木菜月 XaaSユニットプロダクトマネジャースウェーデン出身 アナリティクスコンサルティングユニッ...",
+            "image": {
+                "type": "jpg",
+                "url": "https://cdn.image.st-hatena.com/image/scale/88da5cc0e17e26d2456fd1eb171b344a7f329baa/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbpblog-tanaka%2F20241011%2F20241011153838.jpg"
+            },
+            "date_modified": "2024-10-16T06:05:40.000Z",
+            "date_published": "2024-10-16T06:05:40.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【DE＆Iシリーズ】外国籍社員から見たブレインパッドの魅力",
+                "blogTitle": "Platinum Data Blog by BrainPad",
+                "blogLink": "https://blog.brainpad.co.jp/",
+                "blogLinkMd5Hash": "ad4cd1fd453efdb9e89c3b2528111d3e"
+            }
+        },
+        {
+            "id": "https://tech.algomatic.jp/entry/events/sponsorship/langchain-meetup-tokyo/03",
+            "content_html": "はじめに こんにちは。AI transformation(AX)の荒井（@yusaku_0426）です。 2024/10/09 に行われた『LangChain Meetup Tokyo #3』にて、弊社からAIエンジニアの伊藤と山中（@gura105）の2名が登壇しましたので、本記事では簡単にイベント概要を振り返ります。 langchain.connpass.com",
+            "url": "https://tech.algomatic.jp/entry/events/sponsorship/langchain-meetup-tokyo/03",
+            "title": "LangChain Meetup Tokyo #3 イベントレポート | Algomatic Tech Blog",
+            "summary": "はじめに こんにちは。AI transformation(AX)の荒井（@yusaku_0426）です。 2024/10/09 に行われた『LangChain Meetup Tokyo #3』にて、弊社からAIエンジニアの伊藤と山中（@gura105）の2名が登壇しましたので、本記事では簡単にイベント概要を振り返ります。 langchain.connpass.com",
+            "image": {
+                "type": "png",
+                "url": "https://cdn.image.st-hatena.com/image/scale/118bfba85e6258830f593659a51d61e546652bd8/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyusaku_arai%2F20241016%2F20241016130544.png"
+            },
+            "date_modified": "2024-10-16T04:03:09.000Z",
+            "date_published": "2024-10-16T04:03:09.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "LangChain Meetup Tokyo #3 イベントレポート",
+                "blogTitle": "Algomatic Tech Blog",
+                "blogLink": "https://tech.algomatic.jp/",
+                "blogLinkMd5Hash": "f337f9dd8c6da366a1cc2e6646357ddd"
+            }
+        },
+        {
+            "id": "https://huggingface.co/blog/gradient_accumulation",
+            "content_html": "",
+            "title": "Fixing Gradient Accumulation | Hugging Face - Blog",
+            "date_modified": "2024-10-16T00:00:00.000Z",
+            "date_published": "2024-10-16T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Fixing Gradient Accumulation",
+                "blogTitle": "Hugging Face - Blog",
+                "blogLink": "https://huggingface.co/blog",
+                "blogLinkMd5Hash": "74810d2448aa16a11162800dffdfe796"
+            }
+        },
+        {
+            "id": "https://zenn.dev/keisukee/articles/20241013_c42fd9586142e1",
+            "content_html": "この記事 is 何 この記事は、構造化データから知識グラフ（KG, Knowledge Graph）を生成し、GraphRAGとしてクエリ応答に応用した結果について、日本語で簡単にまとめたものです。  https://arxiv.org/abs/2409.17580   本題   サマリー RAG（Retrieval Augmented Generation）では、LLMによる回答の生成において、外部データベースからの情報を利用します。この際抽出したドキュメント間の関係性を考慮しないため、回答の質が低下することがあります。そこで登場するのがGraphRAGです。ドキュメント間の関係...",
+            "url": "https://zenn.dev/keisukee/articles/20241013_c42fd9586142e1",
+            "title": "GraphRAG を用いた構造化データ検索の強化: サッカーデータのケーススタディ | Zennの「LLM」のフィード",
+            "summary": "この記事 is 何 この記事は、構造化データから知識グラフ（KG, Knowledge Graph）を生成し、GraphRAGとしてクエリ応答に応用した結果について、日本語で簡単にまとめたものです。  https://arxiv.org/abs/2409.17580   本題   サマリー RAG（Retrieval Augmented Generation）では、LLMによる回答の生成において、...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s---OYutWQx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GraphRAG%2520%25E3%2582%2592%25E7%2594%25A8%25E3%2581%2584%25E3%2581%259F%25E6%25A7%258B%25E9%2580%25A0%25E5%258C%2596%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E6%25A4%259C%25E7%25B4%25A2%25E3%2581%25AE%25E5%25BC%25B7%25E5%258C%2596%253A%2520%25E3%2582%25B5%25E3%2583%2583%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AE%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%2587%25E3%2582%25A3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:keisukee%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvay5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-15T12:47:49.000Z",
+            "date_published": "2024-10-15T12:47:49.000Z",
+            "author": {
+                "name": "keisukee"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GraphRAG を用いた構造化データ検索の強化: サッカーデータのケーススタディ",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://medium.com/p/e577e4690ff9",
+            "content_html": "How accurate is AI? Is AI subject to bias in its answers? Can I trust what AI is telling me? Continue reading on Medium »",
+            "url": "https://medium.com/@musson_fraser/the-top-challenges-facing-humanity-an-experiment-with-ai-e577e4690ff9",
+            "title": "The Top Challenges Facing Humanity — An experiment with AI. | Llm Agent on Medium",
+            "summary": "How accurate is AI? Is AI subject to bias in its answers? Can I trust what AI is telling me? Continue reading on Medium »",
+            "image": {
+                "type": "jpeg",
+                "url": "https://miro.medium.com/v2/resize:fit:1200/1*7-81_KHBXnm-RmS1ttqAVQ.jpeg"
+            },
+            "date_modified": "2024-10-15T10:20:39.000Z",
+            "date_published": "2024-10-15T10:20:39.000Z",
+            "author": {
+                "name": "Fraser Musson"
+            },
+            "tags": [
+                "llm-agent",
+                "ai",
+                "nuclear-war",
+                "artificial-intelligence",
+                "humanity"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The Top Challenges Facing Humanity — An experiment with AI.",
+                "blogTitle": "Llm Agent on Medium",
+                "blogLink": "https://medium.com/tag/llm-agent/latest?source=rss------llm_agent-5",
+                "blogLinkMd5Hash": "9bf461a96d41ee98f113b524b916bc94"
+            }
+        },
+        {
+            "id": "https://zenn.dev/houseofdata/articles/f28212fd0ceac5",
+            "content_html": "プロンプトエンジニアリング支援 本日は、弊社が支援させて頂いた株式会社corte様のユースケースについて紹介させて頂きます。 corte様は、音声認識AIと生成AIを活用した薬局向けの薬歴自動作成アプリを開発・運用されています。 https://www.youtube.com/watch?v=2zQ3lEgIb-w https://hp1.corteai.jp/   薬歴作成業務というペイン 薬局では、薬剤師による患者様とのコミュニケーションから薬歴を作成し、調剤に至るまでの業務があります。 現在、厚生労働省の取り組みもあり、薬局全体にDXの波が訪れています。 そして、ITを積極的に...",
+            "url": "https://zenn.dev/houseofdata/articles/f28212fd0ceac5",
+            "title": "薬歴作成自動化の為のプロンプトエンジニアリング - 株式会社corte様 | Zennの「LLM」のフィード",
+            "summary": "プロンプトエンジニアリング支援 本日は、弊社が支援させて頂いた株式会社corte様のユースケースについて紹介させて頂きます。 corte様は、音声認識AIと生成AIを活用した薬局向けの薬歴自動作成アプリを開発・運用されています。 https://www.youtube.com/watch?v=2zQ3lEgIb-w https://hp1.corteai.jp/   薬歴作成業務というペイン 薬局...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--BPsuV9MO--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2596%25AC%25E6%25AD%25B4%25E4%25BD%259C%25E6%2588%2590%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%25AE%25E7%2582%25BA%25E3%2581%25AE%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2520-%2520%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BEcorte%25E6%25A7%2598%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BEHOUSE%2520OF%2520DATA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2EwZWY2ZDdhNTAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-15T06:20:53.000Z",
+            "date_published": "2024-10-15T06:20:53.000Z",
+            "author": {
+                "name": "株式会社HOUSE OF DATA"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "薬歴作成自動化の為のプロンプトエンジニアリング - 株式会社corte様",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://zenn.dev/intel_developer/articles/496e4330d8bad2",
+            "content_html": "現在インテルでは、AI エキスパートによるオンデマンド形式のウェビナーを公開中です。 https://software.seek.intel.com/openvino-devcon-2024-jp-reg  本ウェビナーでは、生成 AI の未来とロードマップについて、インテルの AI エキスパートによる最新情報を交えつつ、実際のデモを通じて高速かつスマートに LLM の推論をローカル実行する手法や、OpenVINO™ ツールキットを使用して今すぐご自身のマシンで AI 開発を実行する方法を動画で学習できます。 ３つのセミナーに分かれており下記内容となっています。 １：エッジ LLM で高...",
+            "url": "https://zenn.dev/intel_developer/articles/496e4330d8bad2",
+            "title": "OpenVINO™ ツールキット AI プログラミング・ウェビナー オンデマンド公開中 | Zennの「LLM」のフィード",
+            "summary": "現在インテルでは、AI エキスパートによるオンデマンド形式のウェビナーを公開中です。 https://software.seek.intel.com/openvino-devcon-2024-jp-reg  本ウェビナーでは、生成 AI の未来とロードマップについて、インテルの AI エキスパートによる最新情報を交えつつ、実際のデモを通じて高速かつスマートに LLM の推論をローカル実行する手法や...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--Jj_X4P5l--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:OpenVINO%2520%2520%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%25AD%25E3%2583%2583%25E3%2583%2588%2520AI%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25BB%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%2593%25E3%2583%258A%25E3%2583%25BC%2520%25E3%2582%25AA%25E3%2583%25B3%25E3%2583%2587%25E3%2583%259E%25E3%2583%25B3%25E3%2583%2589%25E5%2585%25AC%25E9%2596%258B%25E4%25B8%25AD%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25AB%25E3%2583%2587%25E3%2583%2599%25E3%2583%25AD%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC%25E3%2582%25BE%25E3%2583%25BC%25E3%2583%25B3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZiZThlMTc0MzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-15T03:08:24.000Z",
+            "date_published": "2024-10-15T03:08:24.000Z",
+            "author": {
+                "name": "インテルデベロッパーゾーン"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "OpenVINO™ ツールキット AI プログラミング・ウェビナー オンデマンド公開中",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://zenn.dev/tsurubee/articles/5d84372c3cfca3",
+            "content_html": "2021年にAI分野の最高峰の国際学会であるNeurIPSは、今後のAI・機械学習分野の研究の発展に不可欠な高品質なデータセットとベンチマークの設計・開発などの議論の場として、「Datasets and Benchmarks Track」（以下、D&B Track）を新設した。私はこの研究トラックに2023年と2024年に主著論文を投稿し、2年連続で論文が採択された。論文投稿の過程で、現在の主流であるモデルやアルゴリズムの設計にフォーカスしたModel-centricな研究と、データセットやベンチマークの設計にフォーカスしたData-centricな研究では、研究の新規性や有用性...",
+            "url": "https://zenn.dev/tsurubee/articles/5d84372c3cfca3",
+            "title": "NeurIPS Datasets and Benchmarks Trackでの論文採択を通して得たデータ中心のAI研究の知見 | Zennの「LLM」のフィード",
+            "summary": "2021年にAI分野の最高峰の国際学会であるNeurIPSは、今後のAI・機械学習分野の研究の発展に不可欠な高品質なデータセットとベンチマークの設計・開発などの議論の場として、「Datasets and Benchmarks Track」（以下、D&B Track）を新設した。私はこの研究トラックに2023年と2024年に主著論文を投稿し、2年連続で論文が採択された。論文投稿の過程で、現在の主流で...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--VoozXkF6--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:NeurIPS%2520Datasets%2520and%2520Benchmarks%2520Track%25E3%2581%25A7%25E3%2581%25AE%25E8%25AB%2596%25E6%2596%2587%25E6%258E%25A1%25E6%258A%259E%25E3%2582%2592%25E9%2580%259A%25E3%2581%2597%25E3%2581%25A6%25E5%25BE%2597%25E3%2581%259F%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E4%25B8%25AD%25E5%25BF%2583%25E3%2581%25AEAI...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tsurubee%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSjlLMlZ2SXJ2SDZkUlp3SjdoUEx1Rjl0eGdJeHFQMXlCeXNJYldTVFFGZlZ4d3huaz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-15T00:44:09.000Z",
+            "date_published": "2024-10-15T00:44:09.000Z",
+            "author": {
+                "name": "tsurubee"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "NeurIPS Datasets and Benchmarks Trackでの論文採択を通して得たデータ中心のAI研究の知見",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://zenn.dev/seri_datasci/articles/bf98a711fc1625",
+            "content_html": "はじめに こんにちは、データサイエンティストをしているせりです。 2024/09/12~2024/10/10の期間にSIGNATEで開催された「RAG-1グランプリ」コンペに参加しました。結果は惜しくも138位とメダル圏外だったものの、多くの手法を試して得るものが多かったため、Solutionをまとめておきます。    コンペ概要 このコンペは、与えられたデータセットと問いのリストに基づき、最適なRAGシステムを構築し、その性能や精度を競うというものでした。データセットは複数の小説テキストから構成されていました。 詳細はコンペサイトを見ていただければと思います。 https://si...",
+            "url": "https://zenn.dev/seri_datasci/articles/bf98a711fc1625",
+            "title": "SIGNATE RAG-1グランプリ Solution備忘録 | Zennの「LLM」のフィード",
+            "summary": "はじめに こんにちは、データサイエンティストをしているせりです。 2024/09/12~2024/10/10の期間にSIGNATEで開催された「RAG-1グランプリ」コンペに参加しました。結果は惜しくも138位とメダル圏外だったものの、多くの手法を試して得るものが多かったため、Solutionをまとめておきます。    コンペ概要 このコンペは、与えられたデータセットと問いのリストに基づき、最適な...",
+            "image": {
+                "type": "png",
+                "url": "https://res.cloudinary.com/zenn/image/upload/s--KN_WNdZc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SIGNATE%2520RAG-1%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AA%2520Solution%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%259B%25E3%2582%258A%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTDJoWEpWcTZTc04zNHk4ck5NVHg1RGFXcUR3QVA1ZklGeGZsZ1hIb0M2eERsTHdFTHZEUT1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"
+            },
+            "date_modified": "2024-10-14T14:51:43.000Z",
+            "date_published": "2024-10-14T14:51:43.000Z",
+            "author": {
+                "name": "せり"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "SIGNATE RAG-1グランプリ Solution備忘録",
+                "blogTitle": "Zennの「LLM」のフィード",
+                "blogLink": "https://zenn.dev/topics/llm",
+                "blogLinkMd5Hash": "4c7717c149e83d54826f4ef1ac0fd424"
+            }
+        },
+        {
+            "id": "https://note.com/witty_arnica9845/n/ne3c8c1a14a03",
+            "content_html": "はじめに システム開発者であれば、一度は「システム関連図」を自動化できないかと考えたことがあるはずです。私も、過去の投稿記事でPDFや画像認識を使って自動生成できないか試みましたが、精度や汎用性に限界を感じました。最終的に、Excelのシェープ（円や四角）を利用して関連性を基づき作図する方法に行き着きました。結果としては十分な精度が得られたものの、シェープ同士の関係性を手作業で定義するのは非常に手間がかかり、現実的ではありません。 続きをみる",
+            "url": "https://note.com/witty_arnica9845/n/ne3c8c1a14a03",
+            "title": "Doxygen+gpt-4o+Neo4jによるシステム構成図自動化 | #LangChainタグ",
+            "summary": "はじめに システム開発者であれば、一度は「システム関連図」を自動化できないかと考えたことがあるはずです。私も、過去の投稿記事でPDFや画像認識を使って自動生成できないか試みましたが、精度や汎用性に限界を感じました。最終的に、Excelのシェープ（円や四角）を利用して関連性を基づき作図する方法に行き着きました。結果としては十分な精度が得られたものの、シェープ同士の関係性を手作業で定義するのは非常に手...",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/157956505/rectangle_large_type_2_f9f89b2f1156cc05765b2cdd454f92e2.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-14T13:24:39.000Z",
+            "date_published": "2024-10-14T13:24:39.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Doxygen+gpt-4o+Neo4jによるシステム構成図自動化",
+                "blogTitle": "#LangChainタグ",
+                "blogLink": "https://note.com/hashtag/LangChain",
+                "blogLinkMd5Hash": "7cf67c6e309cf5dfc3c499904206add4"
+            }
+        },
+        {
+            "id": "https://medium.com/p/95ad2865566e",
+            "content_html": "",
+            "url": "https://cobusgreyling.medium.com/language-model-categorisation-95ad2865566e",
+            "title": "Language Model Categorisation | Stories by Cobus Greyling on Medium",
+            "image": {
+                "type": "gif",
+                "url": "https://miro.medium.com/v2/da:true/resize:fit:1183/1*jVROwhs_tC_Hk8b8q60TtQ.gif"
+            },
+            "date_modified": "2024-10-14T12:50:48.000Z",
+            "date_published": "2024-10-14T12:50:48.000Z",
+            "author": {
+                "name": "Cobus Greyling"
+            },
+            "tags": [
+                "ai",
+                "large-language-models",
+                "machine-learning",
+                "artificial-intelligence",
+                "foundation-models"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Language Model Categorisation",
+                "blogTitle": "Stories by Cobus Greyling on Medium",
+                "blogLink": "https://medium.com/@cobusgreyling?source=rss-b0fbe613be9d------2",
+                "blogLinkMd5Hash": "9ddb53b3d2163228225cac53b3ecb1b6"
+            }
+        },
+        {
+            "id": "https://note.com/nyosubro/n/nd62a15135b0d",
+            "content_html": "時間無制限で、無料で使える文字起こしアプリ「無限もじおこし」のアップデート情報です！ バージョンアップはこちらから↓ 続きをみる",
+            "url": "https://note.com/nyosubro/n/nd62a15135b0d",
+            "title": "【無限もじおこし】文字起こし元の音声が再生できるようになりました！（v1.0.4） | にょす",
+            "summary": "時間無制限で、無料で使える文字起こしアプリ「無限もじおこし」のアップデート情報です！ バージョンアップはこちらから↓ 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/157930176/rectangle_large_type_2_e61cb36db7d634c61f70517bf5ae3fc7.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-14T09:37:38.000Z",
+            "date_published": "2024-10-14T09:37:38.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "【無限もじおこし】文字起こし元の音声が再生できるようになりました！（v1.0.4）",
+                "blogTitle": "にょす",
+                "blogLink": "https://note.com/nyosubro",
+                "blogLinkMd5Hash": "0be3e12ac11969b1499194e0da8949cb"
+            }
+        },
+        {
+            "id": "https://note.com/noa813/n/n307d62b5820b",
+            "content_html": "AIモデルClaudeを使えるAutropicのAPIを 2024年10月より個人でも利用できるようになりました。 早速、使ってみよう思ったのですが、 利用開始に至るまでのところで、意外と手こずりました。 続きをみる",
+            "url": "https://note.com/noa813/n/n307d62b5820b",
+            "title": "Anthropic APIを個人で利用するための手順について | #LangChainタグ",
+            "summary": "AIモデルClaudeを使えるAutropicのAPIを 2024年10月より個人でも利用できるようになりました。 早速、使ってみよう思ったのですが、 利用開始に至るまでのところで、意外と手こずりました。 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/157876693/rectangle_large_type_2_57cdc5301c23a54e8c9384624be438d0.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-14T01:41:29.000Z",
+            "date_published": "2024-10-14T01:41:29.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Anthropic APIを個人で利用するための手順について",
+                "blogTitle": "#LangChainタグ",
+                "blogLink": "https://note.com/hashtag/LangChain",
+                "blogLinkMd5Hash": "7cf67c6e309cf5dfc3c499904206add4"
+            }
+        },
+        {
+            "id": "https://note.com/pon_pon_ponkichi/n/n72489ced909d",
+            "content_html": "LangGraphとは 続きをみる",
+            "url": "https://note.com/pon_pon_ponkichi/n/n72489ced909d",
+            "title": "AzureからGPTを使ってみる | LangGraphを使う（基本：直列でつなげる | #LangChainタグ",
+            "summary": "LangGraphとは 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/157821079/rectangle_large_type_2_06689d1e232879d5c610463aabc472dc.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-13T12:39:13.000Z",
+            "date_published": "2024-10-13T12:39:13.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AzureからGPTを使ってみる | LangGraphを使う（基本：直列でつなげる",
+                "blogTitle": "#LangChainタグ",
+                "blogLink": "https://note.com/hashtag/LangChain",
+                "blogLinkMd5Hash": "7cf67c6e309cf5dfc3c499904206add4"
+            }
+        },
+        {
+            "id": "https://note.com/nyosubro/n/n6307d3e14faf",
+            "content_html": "いつも「無限もじおこし」をご利用いただきありがとうございます！ アップデート内容はこちらから一覧で確認することができます。 続きをみる",
+            "url": "https://note.com/nyosubro/n/n6307d3e14faf",
+            "title": "（随時更新）「無限もじおこし」の新機能＆バージョンアップ情報まとめ | にょす",
+            "summary": "いつも「無限もじおこし」をご利用いただきありがとうございます！ アップデート内容はこちらから一覧で確認することができます。 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/d1bdaa34e2e80e80497338f3100cde52c4c0f2c6.png"
+            },
+            "date_modified": "2024-10-13T00:57:38.000Z",
+            "date_published": "2024-10-13T00:57:38.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "（随時更新）「無限もじおこし」の新機能＆バージョンアップ情報まとめ",
+                "blogTitle": "にょす",
+                "blogLink": "https://note.com/nyosubro",
+                "blogLinkMd5Hash": "0be3e12ac11969b1499194e0da8949cb"
+            }
+        },
+        {
+            "id": "https://note.com/hatti8/n/n150828e35a26",
+            "content_html": "Google ColabでSwarmを試したのでまとめました。   続きをみる",
+            "url": "https://note.com/hatti8/n/n150828e35a26",
+            "title": "OpenAIの新しいマルチエージェント用フレームワークSwarmを試す | #LangChainタグ",
+            "summary": "Google ColabでSwarmを試したのでまとめました。   続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/157683644/rectangle_large_type_2_d71a9100415e8392d8dcd8cdf6d26e93.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-12T10:28:11.000Z",
+            "date_published": "2024-10-12T10:28:11.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 82,
+                "originalTitle": "OpenAIの新しいマルチエージェント用フレームワークSwarmを試す",
+                "blogTitle": "#LangChainタグ",
+                "blogLink": "https://note.com/hashtag/LangChain",
+                "blogLinkMd5Hash": "7cf67c6e309cf5dfc3c499904206add4"
+            }
+        },
+        {
+            "id": "https://note.com/life_to_ai/n/n12685b1acb2f",
+            "content_html": "このガイドでは、LangChainライブラリを使ってOpenAI、Google、Anthropicの各AIモデルと連携し、Gradioを利用してストリーミング形式でユーザーと対話できるアプリを構築する方法について解説します。この記事では、基本的なセットアップから、環境変数の設定、モデルの読み込みまでのステップを分かりやすく説明します。 続きをみる",
+            "url": "https://note.com/life_to_ai/n/n12685b1acb2f",
+            "title": "LangChainとGradioを使ったAIストリーミングアプリの構築方法 | #LangChainタグ",
+            "summary": "このガイドでは、LangChainライブラリを使ってOpenAI、Google、Anthropicの各AIモデルと連携し、Gradioを利用してストリーミング形式でユーザーと対話できるアプリを構築する方法について解説します。この記事では、基本的なセットアップから、環境変数の設定、モデルの読み込みまでのステップを分かりやすく説明します。 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/157673478/rectangle_large_type_2_fba40a3aca8decbbceb6f1e737715786.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-12T08:50:49.000Z",
+            "date_published": "2024-10-12T08:50:49.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "LangChainとGradioを使ったAIストリーミングアプリの構築方法",
+                "blogTitle": "#LangChainタグ",
+                "blogLink": "https://note.com/hashtag/LangChain",
+                "blogLinkMd5Hash": "7cf67c6e309cf5dfc3c499904206add4"
+            }
+        },
+        {
+            "id": "https://medium.com/p/0ddf8931a1c6",
+            "content_html": "",
+            "url": "https://cobusgreyling.medium.com/5-levels-of-ai-agents-updated-0ddf8931a1c6",
+            "title": "5 Levels Of AI Agents (Updated) | Stories by Cobus Greyling on Medium",
+            "image": {
+                "type": "gif",
+                "url": "https://miro.medium.com/v2/da:true/resize:fit:1000/1*en1XL_bmSlH5tn2XTJ4wUQ.gif"
+            },
+            "date_modified": "2024-10-11T12:12:02.000Z",
+            "date_published": "2024-10-11T12:12:02.000Z",
+            "author": {
+                "name": "Cobus Greyling"
+            },
+            "tags": [
+                "ai-agent",
+                "agentic-applications",
+                "artificial-intelligence",
+                "ai",
+                "machine-learning"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "5 Levels Of AI Agents (Updated)",
+                "blogTitle": "Stories by Cobus Greyling on Medium",
+                "blogLink": "https://medium.com/@cobusgreyling?source=rss-b0fbe613be9d------2",
+                "blogLinkMd5Hash": "9ddb53b3d2163228225cac53b3ecb1b6"
+            }
+        },
+        {
+            "id": "https://note.com/explaza_inc/n/ncd37d1488c9c",
+            "content_html": "今回も社内で話題になった生成AIに関するニュースをご紹介します。   続きをみる",
+            "url": "https://note.com/explaza_inc/n/ncd37d1488c9c",
+            "title": "[10/05~10/11] 生成AI Weekly News #57｜「State of AI Report」をピックアップ | 株式会社エクスプラザ（公式）",
+            "summary": "今回も社内で話題になった生成AIに関するニュースをご紹介します。   続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/157552666/rectangle_large_type_2_1bf99347c7fcf8a5dcb28979b9766e4b.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-11T08:52:42.000Z",
+            "date_published": "2024-10-11T08:52:42.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "[10/05~10/11] 生成AI Weekly News #57｜「State of AI Report」をピックアップ",
+                "blogTitle": "株式会社エクスプラザ（公式）",
+                "blogLink": "https://note.com/explaza_inc",
+                "blogLinkMd5Hash": "23a8b7f2c5b4e69da5811866267ecbcd"
+            }
+        },
+        {
+            "id": "https://blog.brainpad.co.jp/entry/2024/10/10/150007",
+            "content_html": "こんにちは！人事部 採用広報の村上です。 今回は、2024年8月にグーグル合同会社様のオフィスで実施された、「GDSC Japan Convention」のイベントレポートです。 特に、エンジニアを目指す学生の方は、技術力を高めるためにどんな活動があるのか、また、イベントに参加すると企業とどのように交流できるのかを知ることができますので、ぜひ最後までお読みください。※イベント実施時点（2024年8月30日）の参加イベント名、および、主催団体名を記載しています。なお、2024年10月1日時点、GDSCは、GDG on Campusに名称を変更しています。 GDSC Japan Conventio…",
+            "url": "https://blog.brainpad.co.jp/entry/2024/10/10/150007",
+            "title": "GDSC Japan Conventionイベントレポート！ 新卒1年目エンジニアが外にでて実感した、ITに興味をもつ学生のリアル | Platinum Data Blog by BrainPad",
+            "summary": "こんにちは！人事部 採用広報の村上です。 今回は、2024年8月にグーグル合同会社様のオフィスで実施された、「GDSC Japan Convention」のイベントレポートです。 特に、エンジニアを目指す学生の方は、技術力を高めるためにどんな活動があるのか、また、イベントに参加すると企業とどのように交流できるのかを知ることができますので、ぜひ最後までお読みください。※イベント実施時点（2024年8...",
+            "image": {
+                "type": "jpg",
+                "url": "https://cdn.image.st-hatena.com/image/scale/30f989090ce81a4363ce32abc762e7ea6278f103/backend=imagemagick;height=1300;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbpblog-tanaka%2F20241001%2F20241001164114.jpg"
+            },
+            "date_modified": "2024-10-10T06:00:07.000Z",
+            "date_published": "2024-10-10T06:00:07.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GDSC Japan Conventionイベントレポート！ 新卒1年目エンジニアが外にでて実感した、ITに興味をもつ学生のリアル",
+                "blogTitle": "Platinum Data Blog by BrainPad",
+                "blogLink": "https://blog.brainpad.co.jp/",
+                "blogLinkMd5Hash": "ad4cd1fd453efdb9e89c3b2528111d3e"
+            }
+        },
+        {
+            "id": "https://huggingface.co/blog/huggingface-amd-turin",
+            "content_html": "",
+            "title": "Introducing the AMD 5th Gen EPYC™ CPU | Hugging Face - Blog",
+            "date_modified": "2024-10-10T00:00:00.000Z",
+            "date_published": "2024-10-10T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Introducing the AMD 5th Gen EPYC™ CPU",
+                "blogTitle": "Hugging Face - Blog",
+                "blogLink": "https://huggingface.co/blog",
+                "blogLinkMd5Hash": "74810d2448aa16a11162800dffdfe796"
+            }
+        },
+        {
+            "id": "https://huggingface.co/blog/gradio-5-security",
+            "content_html": "",
+            "title": "A Security Review of Gradio 5 | Hugging Face - Blog",
+            "date_modified": "2024-10-10T00:00:00.000Z",
+            "date_published": "2024-10-10T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "A Security Review of Gradio 5",
+                "blogTitle": "Hugging Face - Blog",
+                "blogLink": "https://huggingface.co/blog",
+                "blogLinkMd5Hash": "74810d2448aa16a11162800dffdfe796"
+            }
+        },
+        {
+            "id": "https://writer.com/?p=48184",
+            "content_html": "Greg Shove, CEO of Section, shares why AI is essential for business growth. Discover how AI acts as advisor, mentor, and bias reducer. The post Beyond ego: Section’s Greg Shove’s journey with AI as a thought partner appeared first on Writer.",
+            "url": "https://writer.com/blog/humans-of-ai-greg-shove/",
+            "title": "Beyond ego: Section’s Greg Shove’s journey with AI as a thought partner | Writer's Room | AI blog",
+            "summary": "Greg Shove, CEO of Section, shares why AI is essential for business growth. Discover how AI acts as advisor, mentor, and bias reducer. The post Beyond ego: Section’s Greg Shove’s journey with AI as a ...",
+            "image": {
+                "type": "image/png",
+                "url": "https://writer.com/wp-content/uploads/2024/10/HoAI-S2E4-Greg-Shove-Post-Beyond-and-Blog-art-1.png"
+            },
+            "date_modified": "2024-10-09T21:00:35.000Z",
+            "date_published": "2024-10-09T21:00:35.000Z",
+            "author": {
+                "name": "Alaura Weaver"
+            },
+            "tags": [
+                "Humans of AI"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Beyond ego: Section’s Greg Shove’s journey with AI as a thought partner",
+                "blogTitle": "Writer's Room | AI blog",
+                "blogLink": "https://writer.com/blog/",
+                "blogLinkMd5Hash": "ebc82a87f43738a6d691488bd248d12b"
+            }
+        },
+        {
+            "id": "66fdd9c349b90d0001d47539",
+            "content_html": "See how Rexera migrated to LangGraph to create a robust quality control agent for real estate workflows, significantly improving their LLM response accuracy.",
+            "url": "https://blog.langchain.dev/customers-rexera/",
+            "title": "How Rexera’s AI agents drive quality control with LangGraph | LangChain Blog",
+            "summary": "See how Rexera migrated to LangGraph to create a robust quality control agent for real estate workflows, significantly improving their LLM response accuracy.",
+            "image": {
+                "type": "png",
+                "url": "https://blog.langchain.dev/content/images/size/w1200/2024/10/Case-study---rexera.png"
+            },
+            "date_modified": "2024-10-09T20:14:27.000Z",
+            "date_published": "2024-10-09T20:14:27.000Z",
+            "author": {
+                "name": "LangChain"
+            },
+            "tags": [
+                "Case Studies"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "How Rexera’s AI agents drive quality control with LangGraph",
+                "blogTitle": "LangChain Blog",
+                "blogLink": "https://blog.langchain.dev/",
+                "blogLinkMd5Hash": "7586a0dfb52ca5bd2be821efd6e27f59"
+            }
+        },
+        {
+            "id": "https://www.microsoft.com/en-us/research/?p=1089033",
+            "content_html": "Simplifying secure decision tree training; Improving accuracy of audio content detection; A novel neurosymbolic system for converting text to tables; New video series: AI for Business Transformation; TEE security protections for container workloads. The post Research Focus: Week of October 7, 2024 appeared first on Microsoft Research.",
+            "url": "https://www.microsoft.com/en-us/research/blog/research-focus-week-of-october-7-2024/",
+            "title": "Research Focus: Week of October 7, 2024 | Microsoft Research Blog - Microsoft Research",
+            "summary": "Simplifying secure decision tree training; Improving accuracy of audio content detection; A novel neurosymbolic system for converting text to tables; New video series: AI for Business Transformation; ...",
+            "image": {
+                "type": "image/jpeg",
+                "url": "https://www.microsoft.com/en-us/research/uploads/prod/2024/09/RF51-FB-LI-1200x627-1.jpg"
+            },
+            "date_modified": "2024-10-09T16:00:00.000Z",
+            "date_published": "2024-10-09T16:00:00.000Z",
+            "author": {
+                "name": "Brenda Potts"
+            },
+            "tags": [
+                "Research Blog"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Research Focus: Week of October 7, 2024",
+                "blogTitle": "Microsoft Research Blog - Microsoft Research",
+                "blogLink": "https://www.microsoft.com/en-us/research/blog/",
+                "blogLinkMd5Hash": "2876bc711fb7fdca7544378d7d726935"
+            }
+        },
+        {
+            "id": "https://writer.com/?p=48122",
+            "content_html": "Find out about our latest frontier model, Palmyra X 004, now with tool calling. Your AI apps can now take action in enterprise systems, tools, data, and even other Writer-built apps. The post Introducing intelligent actions with Palmyra X 004 appeared first on Writer.",
+            "url": "https://writer.com/blog/actions-with-palmyra-x-004/",
+            "title": "Introducing intelligent actions with Palmyra X 004 | Writer's Room | AI blog",
+            "summary": "Find out about our latest frontier model, Palmyra X 004, now with tool calling. Your AI apps can now take action in enterprise systems, tools, data, and even other Writer-built apps. The post Introduc...",
+            "image": {
+                "type": "image/png",
+                "url": "https://writer.com/wp-content/uploads/2024/10/writers-room-palmyra-x-004-share.png"
+            },
+            "date_modified": "2024-10-09T12:45:03.000Z",
+            "date_published": "2024-10-09T12:45:03.000Z",
+            "author": {
+                "name": "Writer Team"
+            },
+            "tags": [
+                "Inside Writer"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Introducing intelligent actions with Palmyra X 004",
+                "blogTitle": "Writer's Room | AI blog",
+                "blogLink": "https://writer.com/blog/",
+                "blogLinkMd5Hash": "ebc82a87f43738a6d691488bd248d12b"
+            }
+        },
+        {
+            "id": "https://medium.com/p/10c79f7cd1f1",
+            "content_html": "",
+            "url": "https://cobusgreyling.medium.com/openai-prompt-caching-10c79f7cd1f1",
+            "title": "OpenAI Prompt Caching | Stories by Cobus Greyling on Medium",
+            "image": {
+                "type": "gif",
+                "url": "https://miro.medium.com/v2/da:true/resize:fit:1200/1*sOwS_u59xEIw5q2bQY0tPw.gif"
+            },
+            "date_modified": "2024-10-09T07:48:45.000Z",
+            "date_published": "2024-10-09T07:48:45.000Z",
+            "author": {
+                "name": "Cobus Greyling"
+            },
+            "tags": [
+                "conversational-ai",
+                "large-language-models",
+                "artificial-intelligence",
+                "generative-ai",
+                "ai"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "OpenAI Prompt Caching",
+                "blogTitle": "Stories by Cobus Greyling on Medium",
+                "blogLink": "https://medium.com/@cobusgreyling?source=rss-b0fbe613be9d------2",
+                "blogLinkMd5Hash": "9ddb53b3d2163228225cac53b3ecb1b6"
+            }
+        },
+        {
+            "id": "https://note.com/nyosubro/n/nf38e8d00e263",
+            "content_html": "ありがたいことに、以下の記事を中心に想像を超える反響がありました！  続きをみる",
+            "url": "https://note.com/nyosubro/n/nf38e8d00e263",
+            "title": "フィードバックを受けて、無限もじおこしをアップデートしました！（v1.0.3） | にょす",
+            "summary": "ありがたいことに、以下の記事を中心に想像を超える反響がありました！  続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/157295463/rectangle_large_type_2_675da102fdf1e4dd7dc7cbea204ec234.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-09T03:39:16.000Z",
+            "date_published": "2024-10-09T03:39:16.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "フィードバックを受けて、無限もじおこしをアップデートしました！（v1.0.3）",
+                "blogTitle": "にょす",
+                "blogLink": "https://note.com/nyosubro",
+                "blogLinkMd5Hash": "0be3e12ac11969b1499194e0da8949cb"
+            }
+        },
+        {
+            "id": "https://huggingface.co/blog/gradio-5",
+            "content_html": "",
+            "title": "Welcome, Gradio 5 | Hugging Face - Blog",
+            "date_modified": "2024-10-09T00:00:00.000Z",
+            "date_published": "2024-10-09T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Welcome, Gradio 5",
+                "blogTitle": "Hugging Face - Blog",
+                "blogLink": "https://huggingface.co/blog",
+                "blogLinkMd5Hash": "74810d2448aa16a11162800dffdfe796"
+            }
+        },
+        {
+            "id": "https://huggingface.co/blog/dask-scaling",
+            "content_html": "",
+            "title": "Scaling AI-based Data Processing with Hugging Face + Dask | Hugging Face - Blog",
+            "date_modified": "2024-10-09T00:00:00.000Z",
+            "date_published": "2024-10-09T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Scaling AI-based Data Processing with Hugging Face + Dask",
+                "blogTitle": "Hugging Face - Blog",
+                "blogLink": "https://huggingface.co/blog",
+                "blogLinkMd5Hash": "74810d2448aa16a11162800dffdfe796"
+            }
+        },
+        {
+            "id": "67056eee82d7b500017cb10e",
+            "content_html": "At Character.AI, we’re constantly working to enhance your experience with our AI Characters. Many of you have shared amazing suggestions for new features and improvements. We want to assure you that we are listening and working hard to implement these changes. Meaningful model improvements take time, especially",
+            "url": "https://blog.character.ai/building-a-better-ai-together-your-role-in-character-ai/",
+            "title": "Building a Better AI Together: Your Role in Character.AI | Character.AI Blog",
+            "summary": "At Character.AI, we’re constantly working to enhance your experience with our AI Characters. Many of you have shared amazing suggestions for new features and improvements. We want to assure you that w...",
+            "image": {
+                "type": "png",
+                "url": "https://blog.character.ai/content/images/size/w1200/2024/10/Building-a-Better-AI-Together.png"
+            },
+            "date_modified": "2024-10-08T21:36:01.000Z",
+            "date_published": "2024-10-08T21:36:01.000Z",
+            "author": {
+                "name": "MarieLovesMatcha"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Building a Better AI Together: Your Role in Character.AI",
+                "blogTitle": "Character.AI Blog",
+                "blogLink": "https://blog.character.ai/",
+                "blogLinkMd5Hash": "9b86d39b44e5324e7350c3b5f5f0c9c8"
+            }
+        },
+        {
+            "id": "67054c799c5d9700014bab56",
+            "content_html": "This is a guest blog post written by Sam and Connor at Unify. Unify is reinventing how go-to-market teams work using generative AI. As part of this transformation, they are launching a new agents feature today (powered by LangGraph and LangSmith). We had the pleasure of learning more about the",
+            "url": "https://blog.langchain.dev/unify-launches-agents-for-account-qualification-using-langgraph-and-langsmith/",
+            "title": "Unify Launches Agents for Account Qualification using LangGraph and LangSmith | LangChain Blog",
+            "summary": "This is a guest blog post written by Sam and Connor at Unify. Unify is reinventing how go-to-market teams work using generative AI. As part of this transformation, they are launching a new agents feat...",
+            "image": {
+                "type": "png",
+                "url": "https://blog.langchain.dev/content/images/size/w1200/2024/10/3.-PlanningAgent-LangGraph.png"
+            },
+            "date_modified": "2024-10-08T17:23:51.000Z",
+            "date_published": "2024-10-08T17:23:51.000Z",
+            "author": {
+                "name": "LangChain"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Unify Launches Agents for Account Qualification using LangGraph and LangSmith",
+                "blogTitle": "LangChain Blog",
+                "blogLink": "https://blog.langchain.dev/",
+                "blogLinkMd5Hash": "7586a0dfb52ca5bd2be821efd6e27f59"
+            }
+        },
+        {
+            "id": "https://www.sequoiacap.com/?p=18162",
+            "content_html": "Images courtesy of VisualElectric.com The post Partnering with Cove: The Next Gen of Assistants appeared first on Sequoia Capital.",
+            "url": "https://www.sequoiacap.com/article/partnering-with-cove-the-next-gen-of-assistants/",
+            "title": "Partnering with Cove: The Next Gen of Assistants | The latest on AI | Sequoia Capital",
+            "summary": "Images courtesy of VisualElectric.com The post Partnering with Cove: The Next Gen of Assistants appeared first on Sequoia Capital.",
+            "image": {
+                "type": "image/jpeg",
+                "url": "https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/Open-Graph_Cove.jpg"
+            },
+            "date_modified": "2024-10-08T17:11:51.000Z",
+            "date_published": "2024-10-08T17:11:51.000Z",
+            "author": {
+                "name": "sbarry"
+            },
+            "tags": [
+                "AI",
+                "Consumer"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Partnering with Cove: The Next Gen of Assistants",
+                "blogTitle": "The latest on AI | Sequoia Capital",
+                "blogLink": "",
+                "blogLinkMd5Hash": "d41d8cd98f00b204e9800998ecf8427e"
+            }
+        },
+        {
+            "id": "6704b7d149b90d0001d47781",
+            "content_html": "Today, we are excited to announce the first steps towards long-term memory support in LangGraph, available both in Python and JavaScript. Long-term memory lets you store and recall information between conversations so your agent can learn from feedback and adapt to user preferences. This feature is part of the OSS",
+            "url": "https://blog.langchain.dev/launching-long-term-memory-support-in-langgraph/",
+            "title": "Launching Long-Term Memory Support in LangGraph | LangChain Blog",
+            "summary": "Today, we are excited to announce the first steps towards long-term memory support in LangGraph, available both in Python and JavaScript. Long-term memory lets you store and recall information between...",
+            "image": {
+                "type": "png",
+                "url": "https://blog.langchain.dev/content/images/size/w1200/2024/10/Long-term-memory-blog-post--3-.png"
+            },
+            "date_modified": "2024-10-08T15:02:03.000Z",
+            "date_published": "2024-10-08T15:02:03.000Z",
+            "author": {
+                "name": "LangChain"
+            },
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 1,
+                "originalTitle": "Launching Long-Term Memory Support in LangGraph",
+                "blogTitle": "LangChain Blog",
+                "blogLink": "https://blog.langchain.dev/",
+                "blogLinkMd5Hash": "7586a0dfb52ca5bd2be821efd6e27f59"
+            }
+        },
+        {
+            "id": "https://medium.com/p/4136e9d375ea",
+            "content_html": "",
+            "url": "https://cobusgreyling.medium.com/demystifying-large-language-model-function-calling-4136e9d375ea",
+            "title": "Demystifying Large Language Model Function Calling | Stories by Cobus Greyling on Medium",
+            "image": {
+                "type": "gif",
+                "url": "https://miro.medium.com/v2/da:true/resize:fit:1200/1*D5aeo04yF2b1jyk3xBCC7g.gif"
+            },
+            "date_modified": "2024-10-08T07:00:22.000Z",
+            "date_published": "2024-10-08T07:00:22.000Z",
+            "author": {
+                "name": "Cobus Greyling"
+            },
+            "tags": [
+                "artificial-intelligence",
+                "ai-agent",
+                "language-model",
+                "large-language-models",
+                "ai"
+            ],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Demystifying Large Language Model Function Calling",
+                "blogTitle": "Stories by Cobus Greyling on Medium",
+                "blogLink": "https://medium.com/@cobusgreyling?source=rss-b0fbe613be9d------2",
+                "blogLinkMd5Hash": "9ddb53b3d2163228225cac53b3ecb1b6"
+            }
+        },
+        {
+            "id": "https://huggingface.co/blog/dynamic_speculation_lookahead",
+            "content_html": "",
+            "title": "Faster Assisted Generation with Dynamic Speculation | Hugging Face - Blog",
+            "date_modified": "2024-10-08T00:00:00.000Z",
+            "date_published": "2024-10-08T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Faster Assisted Generation with Dynamic Speculation",
+                "blogTitle": "Hugging Face - Blog",
+                "blogLink": "https://huggingface.co/blog",
+                "blogLinkMd5Hash": "74810d2448aa16a11162800dffdfe796"
+            }
+        },
+        {
+            "id": "https://note.com/witty_arnica9845/n/nb3a906ccd6b7",
+            "content_html": "背景・目的 以前投稿した記事では、グラフ描画にNeo4j Auraを使用していましたが、無償版の有効期限が切れてしまい、サービスを利用できなくなりました。そこで今回は、Neo4jを自前で構築し、運用することにしました。また、以前の記事では実現できなかった、作成したグラフに対してChainlitで質問を行う機能にも挑戦してみました。 続きをみる",
+            "url": "https://note.com/witty_arnica9845/n/nb3a906ccd6b7",
+            "title": "Neo4jの自前構築に挑戦 - 無償版期限切れの対応 | #LangChainタグ",
+            "summary": "背景・目的 以前投稿した記事では、グラフ描画にNeo4j Auraを使用していましたが、無償版の有効期限が切れてしまい、サービスを利用できなくなりました。そこで今回は、Neo4jを自前で構築し、運用することにしました。また、以前の記事では実現できなかった、作成したグラフに対してChainlitで質問を行う機能にも挑戦してみました。 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/08b733e1cdf426ee1701d69215dff872345c2603.png"
+            },
+            "date_modified": "2024-10-06T12:27:04.000Z",
+            "date_published": "2024-10-06T12:27:04.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Neo4jの自前構築に挑戦 - 無償版期限切れの対応",
+                "blogTitle": "#LangChainタグ",
+                "blogLink": "https://note.com/hashtag/LangChain",
+                "blogLinkMd5Hash": "7cf67c6e309cf5dfc3c499904206add4"
+            }
+        },
+        {
+            "id": "https://note.com/pon_pon_ponkichi/n/n0368aff4f55b",
+            "content_html": "続きをみる",
+            "url": "https://note.com/pon_pon_ponkichi/n/n0368aff4f55b",
+            "title": "AzureからGPTを使ってみる | レスポンスをstreamingで出力する。 | #LangChainタグ",
+            "summary": "続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/156940573/rectangle_large_type_2_fe9a80871da9003917479b751270f9cb.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-06T06:02:49.000Z",
+            "date_published": "2024-10-06T06:02:49.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AzureからGPTを使ってみる | レスポンスをstreamingで出力する。",
+                "blogTitle": "#LangChainタグ",
+                "blogLink": "https://note.com/hashtag/LangChain",
+                "blogLinkMd5Hash": "7cf67c6e309cf5dfc3c499904206add4"
+            }
+        },
+        {
+            "id": "https://note.com/hatti8/n/na2e014e0fe49",
+            "content_html": "続きをみる",
+            "url": "https://note.com/hatti8/n/na2e014e0fe49",
+            "title": "AIによるエージェントシステムの自動設計：ADASを試してみた | #LangChainタグ",
+            "summary": "続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/156828360/rectangle_large_type_2_153cf8be38f84c1386402f732fa76753.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-05T08:02:13.000Z",
+            "date_published": "2024-10-05T08:02:13.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 2,
+                "originalTitle": "AIによるエージェントシステムの自動設計：ADASを試してみた",
+                "blogTitle": "#LangChainタグ",
+                "blogLink": "https://note.com/hashtag/LangChain",
+                "blogLinkMd5Hash": "7cf67c6e309cf5dfc3c499904206add4"
+            }
+        },
+        {
+            "id": "https://note.com/neco_s/n/nde25e7f9115a",
+            "content_html": "[Week of 7/8] LangChain Release NotesSee new use cases for building & deploying with LangGraphblog.langchain.dev LangGraph Cloudを使用した構築とデプロイの新しいユースケース、改良されたLangGraphドキュメント、およびLangSmithの自己改善型評価者の詳細をご覧ください。さらに、エージェントの最新のトレンドや、近日開催予定のエージェントをテーマにしたハッカソンの詳細もご覧いただけます。 続きをみる",
+            "url": "https://note.com/neco_s/n/nde25e7f9115a",
+            "title": "Week of 7/8(2024) LangChain Release Notes | #LangChainタグ",
+            "summary": "[Week of 7/8] LangChain Release NotesSee new use cases for building & deploying with LangGraphblog.langchain.dev LangGraph Cloudを使用した構築とデプロイの新しいユースケース、改良されたLangGraphドキュメント、およびLangSmithの自己改善型評価者の詳細をご覧く...",
+            "image": {
+                "type": "jpeg",
+                "url": "https://assets.st-note.com/production/uploads/images/156799390/rectangle_large_type_2_b6e20a453a7eb598e1fb20ff34b0a1a6.jpeg?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-05T03:18:31.000Z",
+            "date_published": "2024-10-05T03:18:31.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Week of 7/8(2024) LangChain Release Notes",
+                "blogTitle": "#LangChainタグ",
+                "blogLink": "https://note.com/hashtag/LangChain",
+                "blogLinkMd5Hash": "7cf67c6e309cf5dfc3c499904206add4"
+            }
+        },
+        {
+            "id": "https://huggingface.co/blog/improve_parquet_dedupe",
+            "content_html": "",
+            "title": "Improving Parquet Dedupe on Hugging Face Hub | Hugging Face - Blog",
+            "date_modified": "2024-10-05T00:00:00.000Z",
+            "date_published": "2024-10-05T00:00:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Improving Parquet Dedupe on Hugging Face Hub",
+                "blogTitle": "Hugging Face - Blog",
+                "blogLink": "https://huggingface.co/blog",
+                "blogLinkMd5Hash": "74810d2448aa16a11162800dffdfe796"
+            }
+        },
+        {
+            "id": "https://note.com/nyosubro/n/n8f4a670c6953",
+            "content_html": "みなさん、こんにちは！9月は久しぶりに個人開発をしてました。 今回はGeminiを使って、ちょっと変わった文字起こしアプリを開発したので、その裏側をお話ししていきたいと思います。その名も「無限もじおこし」です！ 続きをみる",
+            "url": "https://note.com/nyosubro/n/n8f4a670c6953",
+            "title": "時間無制限、無料の文字起こしアプリを開発したので、アプリ紹介と学びまとめ。 | にょす",
+            "summary": "みなさん、こんにちは！9月は久しぶりに個人開発をしてました。 今回はGeminiを使って、ちょっと変わった文字起こしアプリを開発したので、その裏側をお話ししていきたいと思います。その名も「無限もじおこし」です！ 続きをみる",
+            "image": {
+                "type": "png",
+                "url": "https://assets.st-note.com/production/uploads/images/156779524/rectangle_large_type_2_cb10ca6164cd68814fff20056f83a360.png?fit=bounds&quality=85&width=1280"
+            },
+            "date_modified": "2024-10-04T23:57:21.000Z",
+            "date_published": "2024-10-04T23:57:21.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 443,
+                "originalTitle": "時間無制限、無料の文字起こしアプリを開発したので、アプリ紹介と学びまとめ。",
+                "blogTitle": "にょす",
+                "blogLink": "https://note.com/nyosubro",
+                "blogLinkMd5Hash": "0be3e12ac11969b1499194e0da8949cb"
+            }
+        }
+    ]
+}
