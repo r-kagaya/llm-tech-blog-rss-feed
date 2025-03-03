@@ -1,0 +1,1291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>生成AI・LLM関連テックブログRSS</title>
+        <link>https://r-kagaya.github.io/llm-tech-blog-rss-feed/</link>
+        <description>生成AI・LLM関連の取り組みをしている会社・個人のテックブログの更新をまとめたRSSフィード</description>
+        <lastBuildDate>Mon, 03 Mar 2025 07:07:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>r-kagaya/llm-tech-blog-rss-feed</generator>
+        <language>ja</language>
+        <image>
+            <title>生成AI・LLM関連テックブログRSS</title>
+            <url>https://r-kagaya.github.io/llm-tech-blog-rss-feed/images/icon.png</url>
+            <link>https://r-kagaya.github.io/llm-tech-blog-rss-feed/</link>
+        </image>
+        <copyright>r-kagaya/llm-tech-blog-rss-feed</copyright>
+        <atom:link href="https://r-kagaya.github.io/llm-tech-blog-rss-feed/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LangChain_003:画像ファイルのBase64エンコードデータを渡して内容について質問 | #LangChainタグ]]></title>
+            <link>https://note.com/nakamu5714/n/n7cd999402914</link>
+            <guid>https://note.com/nakamu5714/n/n7cd999402914</guid>
+            <pubDate>Mon, 03 Mar 2025 06:58:46 GMT</pubDate>
+            <description><![CDATA[以下の画像をBase64エンコードしたデータをAIに渡し、どんな画像であるかを回答してもらうコードを作ってみた。 とあるイベントにて撮影 続きをみる]]></description>
+            <content:encoded><![CDATA[以下の画像をBase64エンコードしたデータをAIに渡し、どんな画像であるかを回答してもらうコードを作ってみた。 とあるイベントにて撮影 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177293388/rectangle_large_type_2_a543f732b2c6c3d93222b26bb192bbd3.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[AI Agents — Single Agents to Multi-Agents and Future | Llm Agent on Medium]]></title>
+            <link>https://medium.com/@sulbha.jindal/ai-agents-single-agents-to-multi-agents-and-future-0587d38c1d01</link>
+            <guid>https://medium.com/p/0587d38c1d01</guid>
+            <pubDate>Mon, 03 Mar 2025 06:54:44 GMT</pubDate>
+            <description><![CDATA[In 2024, Agentic AI systems gained prominence, ushering in a new era of advanced Generative AI capable of autonomous reasoning, analysis… Continue reading on Medium »]]></description>
+            <content:encoded><![CDATA[In 2024, Agentic AI systems gained prominence, ushering in a new era of advanced Generative AI capable of autonomous reasoning, analysis… Continue reading on Medium »]]></content:encoded>
+            <category>agents</category>
+            <category>llm-agent</category>
+            <category>llm</category>
+            <enclosure length="0" type="png" url="https://miro.medium.com/v2/resize:fit:608/1*D6786W7ALEeO4hQktHFKdA.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How to build AI apps without coding | Llm on Medium]]></title>
+            <link>https://medium.com/@theaiproductmanager/how-to-build-ai-apps-without-coding-6c6298407888</link>
+            <guid>https://medium.com/p/6c6298407888</guid>
+            <pubDate>Mon, 03 Mar 2025 06:47:56 GMT</pubDate>
+            <description><![CDATA[Ever wished you had a magical coder who could turn your wildest app ideas into reality in seconds? Meet Lovable.dev! This quirky platform… Continue reading on Medium »]]></description>
+            <content:encoded><![CDATA[Ever wished you had a magical coder who could turn your wildest app ideas into reality in seconds? Meet Lovable.dev! This quirky platform… Continue reading on Medium »]]></content:encoded>
+            <category>no-code</category>
+            <category>llm</category>
+            <category>tech</category>
+            <category>ai</category>
+            <category>product-management</category>
+            <enclosure length="0" url="https://miro.medium.com/v2/da:true/resize:fit:1200/0*yhiHepAdCqI823Yn"/>
+        </item>
+        <item>
+            <title><![CDATA[Building a Streamlit RAG Chatbot using Langchain | Llm on Medium]]></title>
+            <link>https://medium.com/algomart/building-a-streamlit-rag-chatbot-using-langchain-3aa64cacf15a</link>
+            <guid>https://medium.com/p/3aa64cacf15a</guid>
+            <pubDate>Mon, 03 Mar 2025 06:28:08 GMT</pubDate>
+            <description><![CDATA[In our previous blog, we discussed how to build a Retrieval Augmented Generation (RAG) pipeline. You can read it here. Continue reading on Algomart »]]></description>
+            <content:encoded><![CDATA[In our previous blog, we discussed how to build a Retrieval Augmented Generation (RAG) pipeline. You can read it here. Continue reading on Algomart »]]></content:encoded>
+            <category>streamlit</category>
+            <category>retrieval-augmented-gen</category>
+            <category>langchain</category>
+            <category>llm</category>
+            <category>ai</category>
+            <enclosure length="0" type="png" url="https://miro.medium.com/v2/resize:fit:1200/1*pTWo7UZPw_qFn-4TZ97--g.png"/>
+        </item>
+        <item>
+            <title><![CDATA[A Simplest explanation of Building Smarter AI Agents with PydanticAI | Llm on Medium]]></title>
+            <link>https://medium.com/data-and-beyond/a-simplest-explanation-of-building-smarter-ai-agents-with-pydanticai-5182f834c074</link>
+            <guid>https://medium.com/p/5182f834c074</guid>
+            <pubDate>Mon, 03 Mar 2025 06:18:18 GMT</pubDate>
+            <description><![CDATA[Continue reading on Data And Beyond »]]></description>
+            <content:encoded><![CDATA[Continue reading on Data And Beyond »]]></content:encoded>
+            <category>llm</category>
+            <category>langchain</category>
+            <category>agents</category>
+            <category>ai</category>
+            <category>pydantic-ai</category>
+            <enclosure length="0" type="png" url="https://miro.medium.com/v2/resize:fit:1200/1*gAPms7mFDzGam2w-iLFDPA.png"/>
+        </item>
+        <item>
+            <title><![CDATA[DeepResearch競馬予想レポート｜LLM徹底比較で精度を検証 | #LLMタグ]]></title>
+            <link>https://note.com/lucky_roses75/n/n848bfb0dff79</link>
+            <guid>https://note.com/lucky_roses75/n/n848bfb0dff79</guid>
+            <pubDate>Mon, 03 Mar 2025 06:00:55 GMT</pubDate>
+            <description><![CDATA[1. 導入 AIによる高度な情報収集機能「DeepResearch」が、今、注目を集めています。 続きをみる]]></description>
+            <content:encoded><![CDATA[1. 導入 AIによる高度な情報収集機能「DeepResearch」が、今、注目を集めています。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177289434/rectangle_large_type_2_416a75ea9e697349634697a8cdb8f617.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[AI and Spanish: Exploring New Ways to Learn | Llm on Medium]]></title>
+            <link>https://medium.com/@sanaynesargi/ai-and-spanish-exploring-new-ways-to-learn-6e673bdd8da9</link>
+            <guid>https://medium.com/p/6e673bdd8da9</guid>
+            <pubDate>Mon, 03 Mar 2025 05:56:41 GMT</pubDate>
+            <description><![CDATA[How can AI help in language learning? Continue reading on Medium »]]></description>
+            <content:encoded><![CDATA[How can AI help in language learning? Continue reading on Medium »]]></content:encoded>
+            <category>llm-applications</category>
+            <category>llm</category>
+            <category>spanish</category>
+            <category>python</category>
+            <enclosure length="0" type="png" url="https://miro.medium.com/v2/resize:fit:1000/1*NxqjJcsTmsnRh9NyJOk7sw.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How DeepSeek AI is Transforming China: From Healthcare to Government Services | Llm on Medium]]></title>
+            <link>https://medium.com/@digitalprophetonline/how-deepseek-ai-is-transforming-china-from-healthcare-to-government-services-b83f6f2deb1a</link>
+            <guid>https://medium.com/p/b83f6f2deb1a</guid>
+            <pubDate>Mon, 03 Mar 2025 05:48:06 GMT</pubDate>
+            <description><![CDATA[Artificial Intelligence (AI) is reshaping China at an unprecedented pace, with DeepSeek AI leading the charge. From AI in healthcare to AI… Continue reading on Medium »]]></description>
+            <content:encoded><![CDATA[Artificial Intelligence (AI) is reshaping China at an unprecedented pace, with DeepSeek AI leading the charge. From AI in healthcare to AI… Continue reading on Medium »]]></content:encoded>
+            <category>healthcare</category>
+            <category>deepseek</category>
+            <category>china</category>
+            <category>llm</category>
+            <category>ai</category>
+            <enclosure length="0" type="jpeg" url="https://miro.medium.com/v2/resize:fit:1200/1*i9NzgYB9bG395rOZLsyjaA.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【AI】大規模言語モデル（LLM）における「世界モデル」という表現についての考察 | #LLMタグ]]></title>
+            <link>https://note.com/yoshiyuki_hongoh/n/nce62fca8e4cc</link>
+            <guid>https://note.com/yoshiyuki_hongoh/n/nce62fca8e4cc</guid>
+            <pubDate>Mon, 03 Mar 2025 05:37:51 GMT</pubDate>
+            <description><![CDATA[1. 「世界モデル」という表現の由来 続きをみる]]></description>
+            <content:encoded><![CDATA[1. 「世界モデル」という表現の由来 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177285711/rectangle_large_type_2_68a04b1f37f5a9c107a63da4415ea25e.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[【完全解説】Cline革命 - AIコーディングの新時代を切り拓く最強ツール | #LLMタグ]]></title>
+            <link>https://note.com/ai__worker/n/nfd07623ed82a</link>
+            <guid>https://note.com/ai__worker/n/nfd07623ed82a</guid>
+            <pubDate>Mon, 03 Mar 2025 05:30:50 GMT</pubDate>
+            <description><![CDATA[1. はじめに - コーディングの風景が変わる日 「コードを書いているのは誰だ？」 続きをみる]]></description>
+            <content:encoded><![CDATA[1. はじめに - コーディングの風景が変わる日 「コードを書いているのは誰だ？」 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/177284486/rectangle_large_type_2_d521f188d5d963d4b3362860282cd10b.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[【完全攻略】Grok3とは何者か？イーロン・マスク最新AI兵器の全貌に迫る | #LLMタグ]]></title>
+            <link>https://note.com/ai__worker/n/ne9d02eca3ffb</link>
+            <guid>https://note.com/ai__worker/n/ne9d02eca3ffb</guid>
+            <pubDate>Mon, 03 Mar 2025 05:20:27 GMT</pubDate>
+            <description><![CDATA[序章：地球上で最も賢いAIの登場 続きをみる]]></description>
+            <content:encoded><![CDATA[序章：地球上で最も賢いAIの登場 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/177283280/rectangle_large_type_2_b5fdd65a0777aeda90df7ea7fcca9661.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[AIを秘書にするプロジェクト・タスク管理術 | #LLMタグ]]></title>
+            <link>https://note.com/worktech2791/n/n8d000a891b1c</link>
+            <guid>https://note.com/worktech2791/n/n8d000a891b1c</guid>
+            <pubDate>Mon, 03 Mar 2025 05:10:13 GMT</pubDate>
+            <description><![CDATA[こんにちは！私の仕事は個人の裁量が多いんですが、こういった仕事では効率的なプロジェクト・タスク管理術が必須ですよね。他の人からプロジェクト・タスクを管理されることが少ない分しっかり計画的にやっていく必要があります。 AIをつかってタスク管理は過去にもやっていたんですが、再契約したClaudeがまさにこの用途にぴったりで、さらに使いやすくなったで、方法をシェアします。似た方法は、ChatGPTやGe...]]></description>
+            <content:encoded><![CDATA[こんにちは！私の仕事は個人の裁量が多いんですが、こういった仕事では効率的なプロジェクト・タスク管理術が必須ですよね。他の人からプロジェクト・タスクを管理されることが少ない分しっかり計画的にやっていく必要があります。 AIをつかってタスク管理は過去にもやっていたんですが、再契約したClaudeがまさにこの用途にぴったりで、さらに使いやすくなったで、方法をシェアします。似た方法は、ChatGPTやGeminiでもできますが、個人的にはClaudeが一番おすすめですね。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177278579/rectangle_large_type_2_c497c16d6dbcf10b24ac12b280a0576e.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[ことば〜コトのハ | #LLMタグ]]></title>
+            <link>https://note.com/handcraftguitar/n/na407e22dc28a</link>
+            <guid>https://note.com/handcraftguitar/n/na407e22dc28a</guid>
+            <pubDate>Mon, 03 Mar 2025 04:58:26 GMT</pubDate>
+            <description><![CDATA[ことば〜コトのハ – 塾長の独り言zikuu.space  続きをみる]]></description>
+            <content:encoded><![CDATA[ことば〜コトのハ – 塾長の独り言zikuu.space  続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177280590/rectangle_large_type_2_e01b5ee19f918773cfe44e750f32f492.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Complete steps to setting up a small Linux dev server using a Nvidia A10 in Azure cloud | Llm on Medium]]></title>
+            <link>https://medium.com/@omarkazi/complete-steps-to-setting-up-a-small-linux-dev-server-using-an-nvidia-a10-in-azure-cloud-c5905c6edad7</link>
+            <guid>https://medium.com/p/c5905c6edad7</guid>
+            <pubDate>Mon, 03 Mar 2025 04:56:48 GMT</pubDate>
+            <description><![CDATA[SCENARIO Continue reading on Medium »]]></description>
+            <content:encoded><![CDATA[SCENARIO Continue reading on Medium »]]></content:encoded>
+            <category>azure</category>
+            <category>llm</category>
+            <category>cuda</category>
+            <category>nvidia-gpu</category>
+            <category>ubuntu</category>
+            <enclosure length="0" type="png" url="https://miro.medium.com/v2/resize:fit:975/1*kCve3fFwktsW10dtQ9rB3w.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Agentic RAG: Its Types, Applications And Implementation | Llm on Medium]]></title>
+            <link>https://solulab.medium.com/agentic-rag-its-types-applications-and-implementation-2670d304c3fc</link>
+            <guid>https://medium.com/p/2670d304c3fc</guid>
+            <pubDate>Mon, 03 Mar 2025 04:52:22 GMT</pubDate>
+            <description><![CDATA[Retrieval-augmented generation gives LLMs the capability that enables the model to retrieve and process information from other sources… Continue reading on Medium »]]></description>
+            <content:encoded><![CDATA[Retrieval-augmented generation gives LLMs the capability that enables the model to retrieve and process information from other sources… Continue reading on Medium »]]></content:encoded>
+            <category>llm</category>
+            <category>ai</category>
+            <category>agenti</category>
+            <category>agents</category>
+            <category>technology</category>
+            <enclosure length="0" type="jpeg" url="https://miro.medium.com/v2/resize:fit:1200/1*ZcXcIJ7gCcYbXWtemIGrrg.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[GPT 4.5 launch — a bit better or a giant step towards reasoning ? | Llm on Medium]]></title>
+            <link>https://medium.com/@sulbha.jindal/gpt-4-5-launch-a-bit-better-or-a-giant-step-towards-reasoning-109446009687</link>
+            <guid>https://medium.com/p/109446009687</guid>
+            <pubDate>Mon, 03 Mar 2025 04:24:47 GMT</pubDate>
+            <description><![CDATA[OpenAI has announced the research preview of its largest model to date, gpt-4.5-preview. This new model boasts deeper world knowledge and… Continue reading on Medium »]]></description>
+            <content:encoded><![CDATA[OpenAI has announced the research preview of its largest model to date, gpt-4.5-preview. This new model boasts deeper world knowledge and… Continue reading on Medium »]]></content:encoded>
+            <category>llm</category>
+            <enclosure length="0" type="png" url="https://miro.medium.com/v2/resize:fit:1069/1*iO5EMGV96C2jKVLMzL5Bhg.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Enhanced Tutorial with UFTF Agent Management Loop | Llm on Medium]]></title>
+            <link>https://medium.com/ai-simplified-in-plain-english/enhanced-tutorial-with-uftf-agent-management-loop-368b35baa2a2</link>
+            <guid>https://medium.com/p/368b35baa2a2</guid>
+            <pubDate>Mon, 03 Mar 2025 04:02:32 GMT</pubDate>
+            <description><![CDATA[Frank Morales Aguilera, BEng, MEng, SMIEEE Continue reading on AI Simplified in Plain English »]]></description>
+            <content:encoded><![CDATA[Frank Morales Aguilera, BEng, MEng, SMIEEE Continue reading on AI Simplified in Plain English »]]></content:encoded>
+            <category>llm</category>
+            <category>fine-tuning-llm</category>
+            <category>artificial-intelligence</category>
+            <category>open-source</category>
+            <category>deep-learning</category>
+            <enclosure length="0" type="png" url="https://miro.medium.com/v2/resize:fit:1200/1*3eTTMpaIHHUMiW7O6gQKOw.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Adding a New Dataset to UFTF: Tutorial | Llm on Medium]]></title>
+            <link>https://medium.com/ai-simplified-in-plain-english/adding-a-new-dataset-to-uftf-tutorial-9476338a9914</link>
+            <guid>https://medium.com/p/9476338a9914</guid>
+            <pubDate>Mon, 03 Mar 2025 03:37:03 GMT</pubDate>
+            <description><![CDATA[Frank Morales Aguilera, BEng, MEng, SMIEEE Continue reading on AI Simplified in Plain English »]]></description>
+            <content:encoded><![CDATA[Frank Morales Aguilera, BEng, MEng, SMIEEE Continue reading on AI Simplified in Plain English »]]></content:encoded>
+            <category>open-source</category>
+            <category>artificial-intelligence</category>
+            <category>llm</category>
+            <category>fine-tuning-llm</category>
+            <category>deep-learning</category>
+            <enclosure length="0" type="png" url="https://miro.medium.com/v2/resize:fit:1200/1*4rvj_vuIvHKk06gVDwbIUg.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【論文瞬読】LLMのロールプレイング革命：推論技術が必ずしも有効でない理由 | #LLMタグ]]></title>
+            <link>https://note.com/ainest/n/nd4e3a98f9d02</link>
+            <guid>https://note.com/ainest/n/nd4e3a98f9d02</guid>
+            <pubDate>Mon, 03 Mar 2025 03:26:13 GMT</pubDate>
+            <description><![CDATA[こんにちは！株式会社AI Nestです。 今回ご紹介する論文「Reasoning Does Not Necessarily Improve Role-Playing Ability」は、最新の大規模言語モデル（LLM）を用いたロールプレイングタスクにおいて、従来の推論技術が果たして必ずしも性能向上に寄与しないという挑戦的な主張を検証しています。従来、多くの研究がチェーン・オブ・ソート（Chain-...]]></description>
+            <content:encoded><![CDATA[こんにちは！株式会社AI Nestです。 今回ご紹介する論文「Reasoning Does Not Necessarily Improve Role-Playing Ability」は、最新の大規模言語モデル（LLM）を用いたロールプレイングタスクにおいて、従来の推論技術が果たして必ずしも性能向上に寄与しないという挑戦的な主張を検証しています。従来、多くの研究がチェーン・オブ・ソート（Chain-of-Thought; CoT）や推論最適化技術により、モデルの全体的な推論能力を高めることができると主張してきました。しかし、本論文では、特にロールプレイングのような感情やキャラクター性が重要なタスクにおいて、これらの技術が逆効果となる可能性が示されています。 タイトル：Reasoning Does Not Necessarily Improve Role-Playing Ability URL：https://arxiv.org/abs/2502.16940 所属：The University of Hong Kong, Sea AI Lab 著者：Xiachong Feng, Longx...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177268447/rectangle_large_type_2_becbc2376eba6a83129b67e259288db5.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[【今話題】Windsurfが最強AIエディターであることには理由があるので解説します | #LLMタグ]]></title>
+            <link>https://note.com/masa_wunder/n/n585b7278125b</link>
+            <guid>https://note.com/masa_wunder/n/n585b7278125b</guid>
+            <pubDate>Mon, 03 Mar 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[WindsurfとはCodemium社が公開しているAIエージェントを搭載したAI開発エディターで、最近話題のCursorと双璧をなすとても優れたものです。 このエディタに搭載しているCascadeは驚くほどにスマートで、筆者もこの虜になっています。 "AI駆動開発"はClaude3.7やGPT4.5などのLLMだけでなく、そのLLMの力を最大限発揮するようなRAG(検索拡張的なシステム）も重要で...]]></description>
+            <content:encoded><![CDATA[WindsurfとはCodemium社が公開しているAIエージェントを搭載したAI開発エディターで、最近話題のCursorと双璧をなすとても優れたものです。 このエディタに搭載しているCascadeは驚くほどにスマートで、筆者もこの虜になっています。 "AI駆動開発"はClaude3.7やGPT4.5などのLLMだけでなく、そのLLMの力を最大限発揮するようなRAG(検索拡張的なシステム）も重要で、このWindusrfはRAGの力がとても強力です。RAGについてこの動画で説明するのは長くなるので、よろしければこの動画をみていただくとと思います。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177245966/rectangle_large_type_2_5d39952fa70288cfa35e15b3cf41cf15.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[DeepSeek オープンソースウィークのサマリ（2025/2/24-2/28） | #LLMタグ]]></title>
+            <link>https://note.com/trans_n_ai/n/nf6e8867a0741</link>
+            <guid>https://note.com/trans_n_ai/n/nf6e8867a0741</guid>
+            <pubDate>Mon, 03 Mar 2025 02:49:56 GMT</pubDate>
+            <description><![CDATA[ポイント 続きをみる]]></description>
+            <content:encoded><![CDATA[ポイント 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/177264272/rectangle_large_type_2_339f7c319fa290f979be3e9679e31df8.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[ドキュメントの理解を支援するAIツ... | #LLMタグ]]></title>
+            <link>https://note.com/miya19/n/n586249b02a4e</link>
+            <guid>https://note.com/miya19/n/n586249b02a4e</guid>
+            <pubDate>Mon, 03 Mar 2025 02:33:14 GMT</pubDate>
+            <description><![CDATA[ドキュメントの理解を支援するAIツール「Coral AI」を試してみました。  引用部分をハイライトで表示する機能や、用意されているプロンプトの各種テンプレートが便利であり、論文読解などが捗りそうなツールだと感じました。  # 詳細 https://x.com/miya00907380/status/1895232441398264294 続きをみる]]></description>
+            <content:encoded><![CDATA[ドキュメントの理解を支援するAIツール「Coral AI」を試してみました。  引用部分をハイライトで表示する機能や、用意されているプロンプトの各種テンプレートが便利であり、論文読解などが捗りそうなツールだと感じました。  # 詳細 https://x.com/miya00907380/status/1895232441398264294 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177262557/picture_pc_15824f2908a321145c28c91c2d87ab74.png"/>
+        </item>
+        <item>
+            <title><![CDATA[企業内LLM活用のためのファインチューニング手法と実装ガイド | #LLMタグ]]></title>
+            <link>https://note.com/iromegane_bot/n/n98aef7aa4662</link>
+            <guid>https://note.com/iromegane_bot/n/n98aef7aa4662</guid>
+            <pubDate>Mon, 03 Mar 2025 02:11:44 GMT</pubDate>
+            <description><![CDATA[はじめに  近年、GPTシリーズやLlama 2、PaLM 2といった大規模言語モデル (LLM) が登場し、様々な業界で注目を集めています (Guide to LLM Fine Tuning for Enterprises | Snorkel AI)。しかし、これらのモデルはあくまで汎用的な知識に基づいており、企業固有の専門知識やニーズに対しては「広く浅い」能力しか持ちません (Guide to...]]></description>
+            <content:encoded><![CDATA[はじめに  近年、GPTシリーズやLlama 2、PaLM 2といった大規模言語モデル (LLM) が登場し、様々な業界で注目を集めています (Guide to LLM Fine Tuning for Enterprises | Snorkel AI)。しかし、これらのモデルはあくまで汎用的な知識に基づいており、企業固有の専門知識やニーズに対しては「広く浅い」能力しか持ちません (Guide to LLM Fine Tuning for Enterprises | Snorkel AI)。新入社員になぞらえると、基本的な業務はこなせても社内固有の事情には詳しくない状態です。このギャップを埋め、組織の問題解決に直結する性能を引き出すには、ファインチューニング（微調整）による追加訓練が不可欠です。 LLMを企業内データでファインチューニングすれば、モデル内部にドメイン知識を組み込むことができます。これは、外部データベースから情報を検索して回答するRAG（Retrieval Augmented Generation）とは対照的です。RAGは追加学習不要で手軽な反面、検索精度や知識ベースの質に...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177276833/rectangle_large_type_2_6f69c6bee3d61a042d21835aea8acfde.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[「生成AIによる脳の過労」は近い将来に深刻化すると思う | KAJI | 梶谷健人]]></title>
+            <link>https://note.com/kajiken0630/n/nbdbf0e19cdbb</link>
+            <guid>https://note.com/kajiken0630/n/nbdbf0e19cdbb</guid>
+            <pubDate>Mon, 03 Mar 2025 02:06:16 GMT</pubDate>
+            <description><![CDATA[「生成AIによる脳のオーバーワーク」にどう対応するか？は今後社会の大きなテーマになるのではないか？ 以前は「解きたい問い」が頭の中に10個くらいあった時にせいぜい同時に取り組めるのは2~3個だったが、「Deep Research」が登場してからは、それら10個を並列処理的に考えれるようになった。 続きをみる]]></description>
+            <content:encoded><![CDATA[「生成AIによる脳のオーバーワーク」にどう対応するか？は今後社会の大きなテーマになるのではないか？ 以前は「解きたい問い」が頭の中に10個くらいあった時にせいぜい同時に取り組めるのは2~3個だったが、「Deep Research」が登場してからは、それら10個を並列処理的に考えれるようになった。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177267202/rectangle_large_type_2_8b6a3df6757f90e951937a2b20998659.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Claude 3.7 Sonnetの拡張思考モードにおったまげた件 | #LLMタグ]]></title>
+            <link>https://note.com/d2c_mtech/n/nba2fad6b3ed1</link>
+            <guid>https://note.com/d2c_mtech/n/nba2fad6b3ed1</guid>
+            <pubDate>Mon, 03 Mar 2025 01:35:06 GMT</pubDate>
+            <description><![CDATA[I.はじめに 昨日2025年2月25日、Anthropic社はClaude 3.7 SonnetとClaude Code(プレビュー版)をリリースしました[1]。 素晴らしく未来を感じさせるものでしたので、感動を共有するために速報記事をしたためました。 続きをみる]]></description>
+            <content:encoded><![CDATA[I.はじめに 昨日2025年2月25日、Anthropic社はClaude 3.7 SonnetとClaude Code(プレビュー版)をリリースしました[1]。 素晴らしく未来を感じさせるものでしたので、感動を共有するために速報記事をしたためました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/177255521/rectangle_large_type_2_c999601b74c821d84f03ed4cdd131e7c.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[#521 テクノロジーネタ～Claude 3.7 Sonnetとは？最新のハイブリッド推論モデル | #LLMタグ]]></title>
+            <link>https://note.com/iwashun_1977/n/n7f47c3004cfc</link>
+            <guid>https://note.com/iwashun_1977/n/n7f47c3004cfc</guid>
+            <pubDate>Mon, 03 Mar 2025 00:47:10 GMT</pubDate>
+            <description><![CDATA[おはようございます！今週もよろしくお願いします。先週は朝にグローバルとのミーティングが入って、かなりバタバタしてしまい更新したいネタはあったんですが、更新できずでした。失礼しました。今週も明日、明後日とクライアントのサポートで外勤になるので、更新頻度は少なめとなってしまいます。。。まあ仕事が忙しいことは良いことだと思います。その分、中身の濃い配信を心がけたいと思います。しかし、急に寒くなりましたね...]]></description>
+            <content:encoded><![CDATA[おはようございます！今週もよろしくお願いします。先週は朝にグローバルとのミーティングが入って、かなりバタバタしてしまい更新したいネタはあったんですが、更新できずでした。失礼しました。今週も明日、明後日とクライアントのサポートで外勤になるので、更新頻度は少なめとなってしまいます。。。まあ仕事が忙しいことは良いことだと思います。その分、中身の濃い配信を心がけたいと思います。しかし、急に寒くなりましたね。ちょっと体がついていかないですが、皆さん、大丈夫でしょうか？そろそろ春物がいるなと思っていたところでしたが、ちょっと早かったみたいですね。ただ今週、どこかで春物を手に入れに行こうと思っていました。春に向けて体重もそろそろ落としたいと思います。さてさて本日は「テクノロジーネタ～Claude 3.7 Sonnetとは？最新のハイブリッド推論モデル」です。 Claude 3.7 Sonnetとは？ 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177250722/rectangle_large_type_2_2e5a72643e3f33ba07d30d53d0f01bfe.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[SEOから"LLMO"へ | #LLMタグ]]></title>
+            <link>https://note.com/sampling2x/n/n7063af65d10e</link>
+            <guid>https://note.com/sampling2x/n/n7063af65d10e</guid>
+            <pubDate>Mon, 03 Mar 2025 00:38:29 GMT</pubDate>
+            <description><![CDATA[コインチェック マーケティング部の岡田(@sampling2x)です。 SEOならぬLLMO（Large Language Model Optimization）について少し調べたので、備忘録としてまとめました。 続きをみる]]></description>
+            <content:encoded><![CDATA[コインチェック マーケティング部の岡田(@sampling2x)です。 SEOならぬLLMO（Large Language Model Optimization）について少し調べたので、備忘録としてまとめました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://d2l930y2yx77uc.cloudfront.net/production/social_images/cc4516a90b7cab9a4d3b97b84b4cc904516bf95a.png"/>
+        </item>
+        <item>
+            <title><![CDATA[LLMのベクトル変換とは？AIの情報検索を最適化する理論と実践 | #LLMタグ]]></title>
+            <link>https://note.com/sedori_sojoro/n/n3890a2508472</link>
+            <guid>https://note.com/sedori_sojoro/n/n3890a2508472</guid>
+            <pubDate>Sun, 02 Mar 2025 23:25:38 GMT</pubDate>
+            <description><![CDATA[はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177218036/rectangle_large_type_2_63c49e05cea082987a9fdf56e1e2c6c1.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[【解説】拡散モデルとは？生成AIの核 | #LLMタグ]]></title>
+            <link>https://note.com/marthay/n/nf21f961a6cd1</link>
+            <guid>https://note.com/marthay/n/nf21f961a6cd1</guid>
+            <pubDate>Sun, 02 Mar 2025 23:17:35 GMT</pubDate>
+            <description><![CDATA[こんにちは、AIニュースのエナガです☺ 続きをみる]]></description>
+            <content:encoded><![CDATA[こんにちは、AIニュースのエナガです☺ 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177242081/rectangle_large_type_2_2a7cb9976855ad6650bb170cf7d68679.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[How AI Tools Are Empowering Non-Designers to Compete with Professionals | Blog - AutoGPT]]></title>
+            <link>https://autogpt.net/how-ai-tools-are-empowering-non-designers/</link>
+            <guid>https://autogpt.net/?p=15813</guid>
+            <pubDate>Sun, 02 Mar 2025 22:44:27 GMT</pubDate>
+            <description><![CDATA[In today’s digital-first world, the demand for high-quality visual content has skyrocketed. Traditionally, creating professional designs required years of training, expensive software, and a natural f...]]></description>
+            <content:encoded><![CDATA[In today’s digital-first world, the demand for high-quality visual content has skyrocketed. Traditionally, creating professional designs required years of training, expensive software, and a natural flair for creativity. However, advancements in artificial intelligence (AI) are leveling the playing field, enabling non-designers to create visually stunning graphics, logos, and images that rival the work of professionals. […] The post How AI Tools Are Empowering Non-Designers to Compete with Profe...]]></content:encoded>
+            <category>Business</category>
+            <enclosure length="0" type="image/jpeg" url="https://autogpt.net/wp-content/uploads/2025/02/Autogpt-Agent-80.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[あなたが私にくれたもの | #LLMタグ]]></title>
+            <link>https://note.com/saba2021natto/n/na784e71383ba</link>
+            <guid>https://note.com/saba2021natto/n/na784e71383ba</guid>
+            <pubDate>Sun, 02 Mar 2025 22:29:35 GMT</pubDate>
+            <description><![CDATA[2025.3.3 今回のインフルエンザは、様々なものを私にプレゼントしてくれました。 続きをみる]]></description>
+            <content:encoded><![CDATA[2025.3.3 今回のインフルエンザは、様々なものを私にプレゼントしてくれました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/177228881/rectangle_large_type_2_161373be780d9da2e3bbb454a9d6e8ce.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[7 Ways AI Can Enhance Your Video Ad Campaigns | Blog - AutoGPT]]></title>
+            <link>https://autogpt.net/7-ways-ai-can-enhance-your-video-ad-campaigns/</link>
+            <guid>https://autogpt.net/?p=15808</guid>
+            <pubDate>Sun, 02 Mar 2025 22:07:13 GMT</pubDate>
+            <description><![CDATA[The digital marketing landscape is evolving rapidly, and video ads are at the forefront of this transformation. In today’s highly competitive marketplace, simply creating video content isn’t enough; y...]]></description>
+            <content:encoded><![CDATA[The digital marketing landscape is evolving rapidly, and video ads are at the forefront of this transformation. In today’s highly competitive marketplace, simply creating video content isn’t enough; your ads must be smart, engaging, and tailored to your audience. This is where artificial intelligence (AI) steps in as a game-changer. With tools like an AI […] The post 7 Ways AI Can Enhance Your Video Ad Campaigns appeared first on AutoGPT.]]></content:encoded>
+            <category>Business</category>
+            <enclosure length="0" type="image/jpeg" url="https://autogpt.net/wp-content/uploads/2025/02/Autogpt-Agent-2025-02-06T061530.407.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clineに全部賭ける前に　〜Clineの動作原理を深掘り〜 | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/codeciao/articles/6d0a83e234a34a</link>
+            <guid>https://zenn.dev/codeciao/articles/6d0a83e234a34a</guid>
+            <pubDate>Sun, 02 Mar 2025 21:00:01 GMT</pubDate>
+            <description><![CDATA[はじめに AIのコーディングアシスタントとして最近、急速に注目を集めているCline。VSCode上でAIと連携し、コード生成からバグ修正、さらにはターミナル操作まで自動化できるこのツールは、多くのエンジニアの生産性を劇的に向上させています。 mizchiさんの『CLINEに全部賭けろ』という記事では、  AIから引き出せる性能は、自分の能力にそのまま比例する AI自体を管理するパイプライン設計を...]]></description>
+            <content:encoded><![CDATA[はじめに AIのコーディングアシスタントとして最近、急速に注目を集めているCline。VSCode上でAIと連携し、コード生成からバグ修正、さらにはターミナル操作まで自動化できるこのツールは、多くのエンジニアの生産性を劇的に向上させています。 mizchiさんの『CLINEに全部賭けろ』という記事では、  AIから引き出せる性能は、自分の能力にそのまま比例する AI自体を管理するパイプライン設計を自分のコアスキルにする必要がある  ともあるように、エンジニアはClineという強力なツールの最大限を使えるようになっていくべきです。 「AIの上手な使い方」が今のエンジニアにとって必須スキ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--1dE9EooX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cline%25E3%2581%25AB%25E5%2585%25A8%25E9%2583%25A8%25E8%25B3%25AD%25E3%2581%2591%25E3%2582%258B%25E5%2589%258D%25E3%2581%25AB%25E3%2580%2580%25E3%2580%259CCline%25E3%2581%25AE%25E5%258B%2595%25E4%25BD%259C%25E5%258E%259F%25E7%2590%2586%25E3%2582%2592%25E6%25B7%25B1%25E6%258E%2598%25E3%2582%258A%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Daiki0613%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzlkNWI1NzhlNWUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:codeciao%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2E5NmZmOTMwODMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Deepseekのような考えるプロセスを再現！シンプルな言語モデルを簡易的推論モデルに変える実験。 | #LLMタグ]]></title>
+            <link>https://note.com/1_murata/n/nf6b3f6d9c4e6</link>
+            <guid>https://note.com/1_murata/n/nf6b3f6d9c4e6</guid>
+            <pubDate>Sun, 02 Mar 2025 20:49:00 GMT</pubDate>
+            <description><![CDATA[AIの力で考えるプロセスを再現！シンプルな言語モデルを推論型に変える実験 AIは今や身近な存在になり、質問に答えたり、文章を作ったりといった便利なツールとして使われることが増えています。 でも、AIには実は大きく分けて2つのタイプがあることをご存じでしょうか？ 続きをみる]]></description>
+            <content:encoded><![CDATA[AIの力で考えるプロセスを再現！シンプルな言語モデルを推論型に変える実験 AIは今や身近な存在になり、質問に答えたり、文章を作ったりといった便利なツールとして使われることが増えています。 でも、AIには実は大きく分けて2つのタイプがあることをご存じでしょうか？ 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177241514/rectangle_large_type_2_a2db3fe1af860fc58d0e571d7625e9d7.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[ホームページをAI検索に最適化するには(AIO、LLMO、LLMs.txt) | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/syfut/articles/85fbe2a719543f</link>
+            <guid>https://zenn.dev/syfut/articles/85fbe2a719543f</guid>
+            <pubDate>Sun, 02 Mar 2025 19:00:48 GMT</pubDate>
+            <description><![CDATA[AIはあなたのウェブサイトを本当に理解しているか？ ChatGPTやGemini、Claudeなどの大規模言語モデル（LLM）が日常的に使われるようになり、さらに検索機能やDeepResearchなどの機能が加わったことにより、AI自身がホームページ・Webサイトを探索・閲覧するのが普通になってきました。 これまで、ホームページはGoogle検索に効率的に引っ掛かるようSEO対策をすることが一般的...]]></description>
+            <content:encoded><![CDATA[AIはあなたのウェブサイトを本当に理解しているか？ ChatGPTやGemini、Claudeなどの大規模言語モデル（LLM）が日常的に使われるようになり、さらに検索機能やDeepResearchなどの機能が加わったことにより、AI自身がホームページ・Webサイトを探索・閲覧するのが普通になってきました。 これまで、ホームページはGoogle検索に効率的に引っ掛かるようSEO対策をすることが一般的でしたが、今後はAIに検索されやすくなるような工夫が必要になります。 それをLLMOやAIOと呼びます。 HTMLやCSS、JavaScriptが複雑に絡み合った現代のウェブサイトは、人間が...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--zk0wGPXA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%259B%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%259A%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%2592AI%25E6%25A4%259C%25E7%25B4%25A2%25E3%2581%25AB%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AB%25E3%2581%25AF%2528AIO%25E3%2580%2581LLMO%25E3%2580%2581LLMs.txt%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Boushipan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzNmOGNlOTdmZjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【論文瞬読】"褒めて伸ばす"AIの進化：自己報酬型数学推論モデルの実現 | #LLMタグ]]></title>
+            <link>https://note.com/ainest/n/nf67a7b5e32f2</link>
+            <guid>https://note.com/ainest/n/nf67a7b5e32f2</guid>
+            <pubDate>Sun, 02 Mar 2025 14:55:12 GMT</pubDate>
+            <description><![CDATA[はじめに こんにちは！株式会社AI Nestです。 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに こんにちは！株式会社AI Nestです。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177211237/rectangle_large_type_2_9fae9a2699a0f05c668fcbc1f0e5b1cc.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[LLMOpsって何だ？: MLflow Tracing Conceptsを読み込む | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/hirayuki/articles/3e7271df613dd4</link>
+            <guid>https://zenn.dev/hirayuki/articles/3e7271df613dd4</guid>
+            <pubDate>Sun, 02 Mar 2025 14:44:44 GMT</pubDate>
+            <description><![CDATA[Tracing Concepts 本記事はほぼほぼ MLflowの公式ドキュメントTracing Conceptsを読み進めているだけの記事ではありますが、ところどころわかりにくい箇所は実際にコードを実行して検証等もしているので、ぜひご覧ください。   What is tracing?  あらためてtracingとは以下のように述べられています。  Tracing in the context o...]]></description>
+            <content:encoded><![CDATA[Tracing Concepts 本記事はほぼほぼ MLflowの公式ドキュメントTracing Conceptsを読み進めているだけの記事ではありますが、ところどころわかりにくい箇所は実際にコードを実行して検証等もしているので、ぜひご覧ください。   What is tracing?  あらためてtracingとは以下のように述べられています。  Tracing in the context of machine learning (ML) refers to the detailed tracking and recording of the data flow and proc...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--wjRFMkAQ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLMOps%25E3%2581%25A3%25E3%2581%25A6%25E4%25BD%2595%25E3%2581%25A0%25EF%25BC%259F%253A%2520MLflow%2520Tracing%2520Concepts%25E3%2582%2592%25E8%25AA%25AD%25E3%2581%25BF%25E8%25BE%25BC%25E3%2582%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:hirayuki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzEzYmU5ZDM0OTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[🌟今週の注目AIニュース25選：Claude 3.7、GPT-4.5、Deep Research APIなど📰 | #LLMタグ]]></title>
+            <link>https://note.com/take_by_place/n/ne5b4a9400d64</link>
+            <guid>https://note.com/take_by_place/n/ne5b4a9400d64</guid>
+            <pubDate>Sun, 02 Mar 2025 14:41:41 GMT</pubDate>
+            <description><![CDATA[🚀 AI業界の進化が止まりません！ 今週もAIに関する大きな発表が相次ぎ、多くのツールや技術が登場しました。この記事では、特に注目すべきAIニュース25選を詳しく解説していきます。   続きをみる]]></description>
+            <content:encoded><![CDATA[🚀 AI業界の進化が止まりません！ 今週もAIに関する大きな発表が相次ぎ、多くのツールや技術が登場しました。この記事では、特に注目すべきAIニュース25選を詳しく解説していきます。   続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177207880/rectangle_large_type_2_78f8dc2dfcaf7a0ae24126111ff9a9b9.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[【知らなきゃ大損】プロンプトの本当の意味を知ってる？ | #LLMタグ]]></title>
+            <link>https://note.com/seiya_ai_money/n/n64490cad70e4</link>
+            <guid>https://note.com/seiya_ai_money/n/n64490cad70e4</guid>
+            <pubDate>Sun, 02 Mar 2025 13:21:19 GMT</pubDate>
+            <description><![CDATA[追記 テキストよりも音声で聞きたい方や、ながら作業でインプットしたい方はこちらからWebで聞けます⏬ 続きをみる]]></description>
+            <content:encoded><![CDATA[追記 テキストよりも音声で聞きたい方や、ながら作業でインプットしたい方はこちらからWebで聞けます⏬ 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177194265/rectangle_large_type_2_1318e64db3bafd4ed9690a1333b0a52f.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Choosing the right framework for your AI agents | Llm Agent on Medium]]></title>
+            <link>https://medium.com/@rasdhar.panchal/choosing-the-right-framework-for-your-ai-agents-2763f3c55bfd</link>
+            <guid>https://medium.com/p/2763f3c55bfd</guid>
+            <pubDate>Sun, 02 Mar 2025 13:19:20 GMT</pubDate>
+            <description><![CDATA[Today we will discuss about the various agentic frameworks, highlighting their core concepts, architectures, unique capabilities and ideal… Continue reading on Medium »]]></description>
+            <content:encoded><![CDATA[Today we will discuss about the various agentic frameworks, highlighting their core concepts, architectures, unique capabilities and ideal… Continue reading on Medium »]]></content:encoded>
+            <category>agentic-ai</category>
+            <category>agentic-rag</category>
+            <category>llm-applications</category>
+            <category>llm-agent</category>
+            <category>agentic-workflow</category>
+        </item>
+        <item>
+            <title><![CDATA[LLMOpsって何だ？: MLflow Tracing for LLM Observabilityを読み込む | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/hirayuki/articles/6c0609a86e5766</link>
+            <guid>https://zenn.dev/hirayuki/articles/6c0609a86e5766</guid>
+            <pubDate>Sun, 02 Mar 2025 13:03:55 GMT</pubDate>
+            <description><![CDATA[MLflow Tracing for LLM Observability  MLflow TracingとはいわゆるLLMOps系の処理であり、GenAIを活用した Applicationにおいて promptとresponseを記録して監視していこうというツールです。 MLflowを中心に、というよりは、GenAI applicationの tracingという概念の理解を中心に取り組みます。 ...]]></description>
+            <content:encoded><![CDATA[MLflow Tracing for LLM Observability  MLflow TracingとはいわゆるLLMOps系の処理であり、GenAIを活用した Applicationにおいて promptとresponseを記録して監視していこうというツールです。 MLflowを中心に、というよりは、GenAI applicationの tracingという概念の理解を中心に取り組みます。 ちなみに実際にtracingを始めてみたい方は脳死のautologが非常に強力だと感じており、下記コードは実際に動作した内容になるので是非これで結果をいくつか取得してみてください。 impo...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--C3koIzZN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:LLMOps%25E3%2581%25A3%25E3%2581%25A6%25E4%25BD%2595%25E3%2581%25A0%25EF%25BC%259F%253A%2520MLflow%2520Tracing%2520for%2520LLM%2520Observability%25E3%2582%2592%25E8%25AA%25AD%25E3%2581%25BF%25E8%25BE%25BC%25E3%2582%2580%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:hirayuki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzEzYmU5ZDM0OTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[MCP × LLM：Confluenceに記載の企画書から要件定義・JIRAのPBI作成 | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/hidaken/articles/60dc33d76f241e</link>
+            <guid>https://zenn.dev/hidaken/articles/60dc33d76f241e</guid>
+            <pubDate>Sun, 02 Mar 2025 12:47:51 GMT</pubDate>
+            <description><![CDATA[はじめに 近年、大規模言語モデル（LLM）の進化により、さまざまな業務の自動化が可能になってきました。 特にソフトウェア開発のドキュメント作成や要件管理は、多くの時間とリソースを必要とする作業であり、効率化の余地が大きい領域です。 本記事では、Model Context Protocol（MCP）を活用して、企画書から要件定義書の作成、さらにはJiraのPBI（Product Backlog It...]]></description>
+            <content:encoded><![CDATA[はじめに 近年、大規模言語モデル（LLM）の進化により、さまざまな業務の自動化が可能になってきました。 特にソフトウェア開発のドキュメント作成や要件管理は、多くの時間とリソースを必要とする作業であり、効率化の余地が大きい領域です。 本記事では、Model Context Protocol（MCP）を活用して、企画書から要件定義書の作成、さらにはJiraのPBI（Product Backlog Item）作成までを自動化した内容を共有します。   本記事でわかること  LLMとConfluence/Jiraを連携させる方法 企画書から要件定義書、PBIへの自動変換の実現方法    MC...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--jLm5_Thv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MCP%2520%25C3%2597%2520LLM%25EF%25BC%259AConfluence%25E3%2581%25AB%25E8%25A8%2598%25E8%25BC%2589%25E3%2581%25AE%25E4%25BC%2581%25E7%2594%25BB%25E6%259B%25B8%25E3%2581%258B%25E3%2582%2589%25E8%25A6%2581%25E4%25BB%25B6%25E5%25AE%259A%25E7%25BE%25A9%25E3%2583%25BBJIRA%25E3%2581%25AEPBI%25E4%25BD%259C%25E6%2588%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25A0%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ1NjMxODBlZWQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[AIって？意外と知らない基礎の基礎を解説 | #LLMタグ]]></title>
+            <link>https://note.com/nagi_lifenote/n/nf89c28ad060f</link>
+            <guid>https://note.com/nagi_lifenote/n/nf89c28ad060f</guid>
+            <pubDate>Sun, 02 Mar 2025 12:05:43 GMT</pubDate>
+            <description><![CDATA[こんばんは、凪ラボです。 今日はAIの基礎中の基礎から説明していきたいと思います。  なんで基礎を今更？と思うかもしれませんが、 AIと一括りに言ってもその範囲はとても幅広いものになりました。 続きをみる]]></description>
+            <content:encoded><![CDATA[こんばんは、凪ラボです。 今日はAIの基礎中の基礎から説明していきたいと思います。  なんで基礎を今更？と思うかもしれませんが、 AIと一括りに言ってもその範囲はとても幅広いものになりました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177177431/rectangle_large_type_2_1d97daec6563b3117991e24f86539b5c.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[医師が好むLLMはどれ？最新ランキング～MedArena～ | #LLMタグ]]></title>
+            <link>https://note.com/new_gyu/n/n30b3cb8c1ea1</link>
+            <guid>https://note.com/new_gyu/n/n30b3cb8c1ea1</guid>
+            <pubDate>Sun, 02 Mar 2025 11:38:17 GMT</pubDate>
+            <description><![CDATA[こんにちは、New牛です。 世の中に様々なLLMが登場し、LLMを組み込んだ医療AIを開発するにしてもどのLLMを選べば良いのか選択が難しい⋯という嬉しい悲鳴が聞こえてくるようになりました。しかしながら、実際に多くの医師に使用してもらってどのLLMが最も適しているのかを評価することは容易ではありません。 続きをみる]]></description>
+            <content:encoded><![CDATA[こんにちは、New牛です。 世の中に様々なLLMが登場し、LLMを組み込んだ医療AIを開発するにしてもどのLLMを選べば良いのか選択が難しい⋯という嬉しい悲鳴が聞こえてくるようになりました。しかしながら、実際に多くの医師に使用してもらってどのLLMが最も適しているのかを評価することは容易ではありません。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177173025/rectangle_large_type_2_d29413af2e18ace64415058a219e6dc5.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Cline開発に設計図を！Design Doc生成ステップを挟んでみる | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/zenn_tkc/articles/e358f6f7c16143</link>
+            <guid>https://zenn.dev/zenn_tkc/articles/e358f6f7c16143</guid>
+            <pubDate>Sun, 02 Mar 2025 10:52:20 GMT</pubDate>
+            <description><![CDATA[TL;DR  Clineを使って開発する際にまずDesign Docを生成させることを試してみる。 既存コードのリファクタリングを効率的に実施したい。 llm用のDesign Doc llm_design_doc_template.mdを用意してみた。 LLMはgemini-2.0-pro-exp-02-05     開発プロセス 以下の手順で開発を進めます。   LLM用のDesignDoc T...]]></description>
+            <content:encoded><![CDATA[TL;DR  Clineを使って開発する際にまずDesign Docを生成させることを試してみる。 既存コードのリファクタリングを効率的に実施したい。 llm用のDesign Doc llm_design_doc_template.mdを用意してみた。 LLMはgemini-2.0-pro-exp-02-05     開発プロセス 以下の手順で開発を進めます。   LLM用のDesignDoc Template LLM用のdesign_docテンプレート llm_design_doc_template.md # 開発プロジェクト 設計ドキュメントテンプレート (design_doc)...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--4XSmg-HB--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cline%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AB%25E8%25A8%25AD%25E8%25A8%2588%25E5%259B%25B3%25E3%2582%2592%25EF%25BC%2581Design%2520Doc%25E7%2594%259F%25E6%2588%2590%25E3%2582%25B9%25E3%2583%2586%25E3%2583%2583%25E3%2583%2597%25E3%2582%2592%25E6%258C%259F%25E3%2582%2593%25E3%2581%25A7%25E3%2581%25BF%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tkc%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzRlM2FiNjJjYjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[MicrosoftのSLM「Phi-4-mini-instruct」をM2 Pro Mac miniで動かしてみた | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/shakshi3104/articles/488bcb006826ea</link>
+            <guid>https://zenn.dev/shakshi3104/articles/488bcb006826ea</guid>
+            <pubDate>Sun, 02 Mar 2025 10:30:01 GMT</pubDate>
+            <description><![CDATA[Phi-4-mini-instructとは 「Phi-4-mini-instruct」の前に、まず「Phi-4」について簡単に紹介します。 Phi-4は、Microsoftによって開発されたパラメータ数が14Bの小規模言語モデル(SLM)です。2025年1月からMITライセンスとなったため、商用利用も可能なモデルです。Phi-4-mini-instructは、パラメータ数が3.8Bとさらに少なくな...]]></description>
+            <content:encoded><![CDATA[Phi-4-mini-instructとは 「Phi-4-mini-instruct」の前に、まず「Phi-4」について簡単に紹介します。 Phi-4は、Microsoftによって開発されたパラメータ数が14Bの小規模言語モデル(SLM)です。2025年1月からMITライセンスとなったため、商用利用も可能なモデルです。Phi-4-mini-instructは、パラメータ数が3.8Bとさらに少なくなったSLMで2025年2月に公開されました。 https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--q06JEUlT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Microsoft%25E3%2581%25AESLM%25E3%2580%258CPhi-4-mini-instruct%25E3%2580%258D%25E3%2582%2592M2%2520Pro%2520Mac%2520mini%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Shakshi3104%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzExNDMxNTBjODQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[句読点や冠詞は脇役か？いや、LLMの文脈要だった！ | #LLMタグ]]></title>
+            <link>https://note.com/ramiailab/n/nad4ced723170</link>
+            <guid>https://note.com/ramiailab/n/nad4ced723170</guid>
+            <pubDate>Sun, 02 Mar 2025 10:30:00 GMT</pubDate>
+            <description><![CDATA[普段はあまり意識しない「句読点」や「冠詞」といった小さな単語が、実はLLMの文脈理解や情報伝達に大きな影響を与えているとしたら驚きませんか？ 今回ご紹介するのは、LLMの内部構造をじっくりと「観察」するための新たな解析フレームワーク「LLM-Microscope」に関する研究です。実験結果を通じて、あまり重要視されていなかった句読点や冠詞などが意外なほど大きな役割を担っていることが明らかになりまし...]]></description>
+            <content:encoded><![CDATA[普段はあまり意識しない「句読点」や「冠詞」といった小さな単語が、実はLLMの文脈理解や情報伝達に大きな影響を与えているとしたら驚きませんか？ 今回ご紹介するのは、LLMの内部構造をじっくりと「観察」するための新たな解析フレームワーク「LLM-Microscope」に関する研究です。実験結果を通じて、あまり重要視されていなかった句読点や冠詞などが意外なほど大きな役割を担っていることが明らかになりました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/177150660/rectangle_large_type_2_e4ba1e804999c3a644b312f164e44431.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Draw.io の図を Claude に書いてもらった | #LLMタグ]]></title>
+            <link>https://note.com/groove_hack/n/n930799a15ab2</link>
+            <guid>https://note.com/groove_hack/n/n930799a15ab2</guid>
+            <pubDate>Sun, 02 Mar 2025 09:16:35 GMT</pubDate>
+            <description><![CDATA[背景 X で Claude に XML を作ってもらって、Draw.io にインポートすると図を一発で作れるとあったので作ってみたかった 続きをみる]]></description>
+            <content:encoded><![CDATA[背景 X で Claude に XML を作ってもらって、Draw.io にインポートすると図を一発で作れるとあったので作ってみたかった 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://d2l930y2yx77uc.cloudfront.net/production/social_images/c072849d7aac73c5fd89f3167694ef26bb141075.png"/>
+        </item>
+        <item>
+            <title><![CDATA[【LLM】モデルの重みをWebLLM形式に変換する方法 | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/ayutaso/articles/caa23d10b2cead</link>
+            <guid>https://zenn.dev/ayutaso/articles/caa23d10b2cead</guid>
+            <pubDate>Sun, 02 Mar 2025 06:51:26 GMT</pubDate>
+            <description><![CDATA[LLMをブラウザで推論させる方法にwebLLMを使う方法がある。webLLMを使うとWASMとWebGPUを使用して量子化モデルをブラウザで動かすことが出来る。  WebLLM は、ハードウェアアクセラレーションを使用して言語モデル推論を Web ブラウザーに直接提供する、高性能なブラウザー内 LLM 推論エンジンです。すべてがサーバーのサポートなしでブラウザー内で実行され、WebGPU で高速化...]]></description>
+            <content:encoded><![CDATA[LLMをブラウザで推論させる方法にwebLLMを使う方法がある。webLLMを使うとWASMとWebGPUを使用して量子化モデルをブラウザで動かすことが出来る。  WebLLM は、ハードウェアアクセラレーションを使用して言語モデル推論を Web ブラウザーに直接提供する、高性能なブラウザー内 LLM 推論エンジンです。すべてがサーバーのサポートなしでブラウザー内で実行され、WebGPU で高速化されます。  しかし、web-llmではwebGPU用の変換をする必要があるので、ここではモデルをwebGPU用にMLC-LLMに変換する方法を紹介する。   やったこと 独自でfine-tun...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--m68U_xqJ--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590LLM%25E3%2580%2591%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25AE%25E9%2587%258D%25E3%2581%25BF%25E3%2582%2592WebLLM%25E5%25BD%25A2%25E5%25BC%258F%25E3%2581%25AB%25E5%25A4%2589%25E6%258F%259B%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Atotti%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzFlY2M5YzY1ODQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[macOSのSafariでGrokを使うときの日本語入力問題を解決する方法 | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/ryoushin/articles/63fa80d47df8db</link>
+            <guid>https://zenn.dev/ryoushin/articles/63fa80d47df8db</guid>
+            <pubDate>Sun, 02 Mar 2025 02:32:01 GMT</pubDate>
+            <description><![CDATA[はじめに macOSのSafariで日本語入力をしながらGrok（grok.com）を使っている方は、こんな問題に悩まされたことはありませんか？  日本語入力中にEnterキーで文字を確定したら、入力途中のメッセージが送信されてしまう 変換候補を選んだ直後に、意図せずメッセージが送信される 思考を整理しながら入力できず、いちいち文章を別のエディタで作成してからコピペしている  これはmacOSの日...]]></description>
+            <content:encoded><![CDATA[はじめに macOSのSafariで日本語入力をしながらGrok（grok.com）を使っている方は、こんな問題に悩まされたことはありませんか？  日本語入力中にEnterキーで文字を確定したら、入力途中のメッセージが送信されてしまう 変換候補を選んだ直後に、意図せずメッセージが送信される 思考を整理しながら入力できず、いちいち文章を別のエディタで作成してからコピペしている  これはmacOSの日本語IMEと、Webアプリケーションのイベント処理の相性問題です。特にAIチャットサービスでは、Enterキーが「送信」と「日本語確定」の両方に使われることで起こる問題です。この記事では、T...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--s1WEW5nb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:macOS%25E3%2581%25AESafari%25E3%2581%25A7Grok%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AE%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E5%2585%25A5%25E5%258A%259B%25E5%2595%258F%25E9%25A1%258C%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Shin%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q0MjU2NjlkZmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[初めてのRAGアプリケーション開発 | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/yurikomium/articles/73b7f5863ed613</link>
+            <guid>https://zenn.dev/yurikomium/articles/73b7f5863ed613</guid>
+            <pubDate>Sun, 02 Mar 2025 02:09:50 GMT</pubDate>
+            <description><![CDATA[これまでLLMについて学んできたものの、ゼロから自分でRAGアプリケーションを作成したことがなかったので、今回初めて開発してみました。 Next.js + ベクトルDB + LlamaでシンプルなRAGアプリを構築したので、メモを残しておきます✍️ RAGが気になるけれどまだつくったことがない、という私と似た状況の方の参考になれば幸いです！   香水RAGシステムの全体像 テーマに選んだのは「香水...]]></description>
+            <content:encoded><![CDATA[これまでLLMについて学んできたものの、ゼロから自分でRAGアプリケーションを作成したことがなかったので、今回初めて開発してみました。 Next.js + ベクトルDB + LlamaでシンプルなRAGアプリを構築したので、メモを残しておきます✍️ RAGが気になるけれどまだつくったことがない、という私と似た状況の方の参考になれば幸いです！   香水RAGシステムの全体像 テーマに選んだのは「香水」。いくつかの条件を入れたら香水を探せるアプリケーションをつくることにしました。 香水に関する情報をベクトルデータベースに格納し、ユーザーの質問に対して関連性の高い情報を検索・提供するRAG（R...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--wYgp2oul--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%2588%259D%25E3%2582%2581%25E3%2581%25A6%25E3%2581%25AERAG%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%25B1%25E3%2583%25BC%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E9%2596%258B%25E7%2599%25BA%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuriko%2520Kikuchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q2YjQ4ZTQ5ZDAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[今更だけど DeepSeek R1 使ってみた（Ollama on Jetson） | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/19931/articles/06a979996fac92</link>
+            <guid>https://zenn.dev/19931/articles/06a979996fac92</guid>
+            <pubDate>Sun, 02 Mar 2025 01:47:03 GMT</pubDate>
+            <description><![CDATA[はじめに この記事は LLM の性能評価ではなく、セットアップの記録です。 動作条件は以前の記事の通りで、Ollama を前提にしています。 https://zenn.dev/19931/articles/c6a2e36bf000d1 DeepSeek R1 は日本語のファインチューニングをしなくても、用途によっては充分な日本語性能が得られるようです。セットアップやパラメータ調整の手間を考えると「...]]></description>
+            <content:encoded><![CDATA[はじめに この記事は LLM の性能評価ではなく、セットアップの記録です。 動作条件は以前の記事の通りで、Ollama を前提にしています。 https://zenn.dev/19931/articles/c6a2e36bf000d1 DeepSeek R1 は日本語のファインチューニングをしなくても、用途によっては充分な日本語性能が得られるようです。セットアップやパラメータ調整の手間を考えると「オリジナルモデルでいいや」という感想です。   日本語チューニングモデル   セットアップ lightblue/DeepSeek-R1-Distill-Qwen-7B-Japanese を使...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--wihP5L9z--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BB%258A%25E6%259B%25B4%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A9%2520DeepSeek%2520R1%2520%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25EF%25BC%2588Ollama%2520on%2520Jetson%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Ippei%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JhYTViMjM2ZWYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Rethinking AI Benchmarks: Adapting to the Complexity of Agentic Systems | Llm Agent on Medium]]></title>
+            <link>https://ppujari.medium.com/rethinking-ai-benchmarks-adapting-to-the-complexity-of-agentic-systems-f757fe913891</link>
+            <guid>https://medium.com/p/f757fe913891</guid>
+            <pubDate>Sat, 01 Mar 2025 23:19:46 GMT</pubDate>
+            <description><![CDATA[Current benchmarks outdated, reasoning becomes key measurement Continue reading on Medium »]]></description>
+            <content:encoded><![CDATA[Current benchmarks outdated, reasoning becomes key measurement Continue reading on Medium »]]></content:encoded>
+            <category>llm-evaluation</category>
+            <category>llm-agent</category>
+            <category>ai</category>
+            <category>llmops</category>
+            <category>llm</category>
+            <enclosure length="0" type="jpeg" url="https://miro.medium.com/v2/resize:fit:1200/1*DRDqLuTK1VT3Rkexjhnasg.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Electronでコード分析ツールを作りました | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/woniu/articles/e0ddfe2a300b49</link>
+            <guid>https://zenn.dev/woniu/articles/e0ddfe2a300b49</guid>
+            <pubDate>Sat, 01 Mar 2025 17:10:48 GMT</pubDate>
+            <description><![CDATA[はじめに 開発者として、皆さんもこのような状況に直面したことがあるでしょう：ドキュメントのない古いプロジェクトを引き継ぎ、何万行もの見知らぬコードを前にした時の無力感。あるいは、自分で書いたコードでも、数ヶ月後に見返すと、まるで暗号を読むような感覚... こういった日常的な問題がきっかけとなり、CodeAskを開発しました。ElectronとLLMをベースにしたコード分析ツールで、複雑なコードベー...]]></description>
+            <content:encoded><![CDATA[はじめに 開発者として、皆さんもこのような状況に直面したことがあるでしょう：ドキュメントのない古いプロジェクトを引き継ぎ、何万行もの見知らぬコードを前にした時の無力感。あるいは、自分で書いたコードでも、数ヶ月後に見返すと、まるで暗号を読むような感覚... こういった日常的な問題がきっかけとなり、CodeAskを開発しました。ElectronとLLMをベースにしたコード分析ツールで、複雑なコードベースを理解し、メンテナンスする際の困難を解決することを目指しています。     CodeAskの主な機能   インテリジェントなコード分析：LLM APIを活用し、コードベースを分析してレポー...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--5G5aVOi1--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Electron%25E3%2581%25A7%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E5%2588%2586%25E6%259E%2590%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:node_modules%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSlhwRVR1bzFVMlA3a1RwOGY5R2VBcXVsT291QkFXTVlJdU1sQzVHRVJQU2ZpalFRPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[結局MCPって何に使えるの？おすすめサーバーの紹介 | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/nwn/articles/7f01bdea71e939</link>
+            <guid>https://zenn.dev/nwn/articles/7f01bdea71e939</guid>
+            <pubDate>Sat, 01 Mar 2025 03:59:56 GMT</pubDate>
+            <description><![CDATA[そもそもMCPとは？  MCP は、アプリケーションが LLM にコンテキストを提供する方法を標準化するオープンプロトコルです。MCP を AI アプリケーション向けの USB-C ポートのようなものと考えてください。USB-C がデバイスをさまざまな周辺機器やアクセサリーに接続するための標準化された方法を提供するように、MCP は AI モデルを異なるデータソースやツールに接続するための標準化さ...]]></description>
+            <content:encoded><![CDATA[そもそもMCPとは？  MCP は、アプリケーションが LLM にコンテキストを提供する方法を標準化するオープンプロトコルです。MCP を AI アプリケーション向けの USB-C ポートのようなものと考えてください。USB-C がデバイスをさまざまな周辺機器やアクセサリーに接続するための標準化された方法を提供するように、MCP は AI モデルを異なるデータソースやツールに接続するための標準化された方法を提供します。    MCPサーバーの紹介 今更感もありますが公式リポジトリで紹介されているMCPサーバーの中からいくつかピックアップしてそのユースケースについて紹介したいと思います...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--5N1Jkjgl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%25B5%2590%25E5%25B1%2580MCP%25E3%2581%25A3%25E3%2581%25A6%25E4%25BD%2595%25E3%2581%25AB%25E4%25BD%25BF%25E3%2581%2588%25E3%2582%258B%25E3%2581%25AE%25EF%25BC%259F%25E3%2581%258A%25E3%2581%2599%25E3%2581%2599%25E3%2582%2581%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2581%25AE%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%25A8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzllY2U3NmI3N2IuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[MCMCと変分推論（VI）は最先端のLLMでどう使われているのか？ | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/nakano_teppei/articles/7dbda321967965</link>
+            <guid>https://zenn.dev/nakano_teppei/articles/7dbda321967965</guid>
+            <pubDate>Sat, 01 Mar 2025 03:56:47 GMT</pubDate>
+            <description><![CDATA[1. はじめに 近年、大規模言語モデル（LLM: Large Language Models） の発展により、AIは自然言語処理（NLP）の分野で驚異的な進化を遂げています。GPTシリーズやLLaMA、PaLMなどの最先端LLMでは、確率的推論が重要な役割を果たします。 そこで、本記事では、MCMC（マルコフ連鎖モンテカルロ法）と変分推論（VI: Variational Inference）がLL...]]></description>
+            <content:encoded><![CDATA[1. はじめに 近年、大規模言語モデル（LLM: Large Language Models） の発展により、AIは自然言語処理（NLP）の分野で驚異的な進化を遂げています。GPTシリーズやLLaMA、PaLMなどの最先端LLMでは、確率的推論が重要な役割を果たします。 そこで、本記事では、MCMC（マルコフ連鎖モンテカルロ法）と変分推論（VI: Variational Inference）がLLMのトレーニングや最適化にどのように活用されているか を解説します。    2. LLMの学習と推論における確率的手法の必要性 LLMの学習は基本的に確率モデルを扱います。例えば、次のような...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--GpjYZdf5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MCMC%25E3%2581%25A8%25E5%25A4%2589%25E5%2588%2586%25E6%258E%25A8%25E8%25AB%2596%25EF%25BC%2588VI%25EF%25BC%2589%25E3%2581%25AF%25E6%259C%2580%25E5%2585%2588%25E7%25AB%25AF%25E3%2581%25AELLM%25E3%2581%25A7%25E3%2581%25A9%25E3%2581%2586%25E4%25BD%25BF%25E3%2582%258F%25E3%2582%258C%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25B8%25AD%25E9%2587%258E%25E5%2593%25B2%25E5%25B9%25B3%7Edev%25E6%2597%25A5%25E8%25A8%2598%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvbi5wbmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[1歩1歩理解する、Embedding | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/fleagne/articles/43f40c410e56a7</link>
+            <guid>https://zenn.dev/fleagne/articles/43f40c410e56a7</guid>
+            <pubDate>Sat, 01 Mar 2025 01:34:45 GMT</pubDate>
+            <description><![CDATA[はじめに 社内勉強会の資料を兼ねてアウトプット。発表までに何度か更新入れます。 検証リポジトリはこちら。 https://github.com/fleagne/embedding   Claude 3.7 Sonnetによる、Embeddingまとめ https://claude.ai/share/3704b5b2-e867-4a23-ab08-bbea79222f18 すごいですね。このプロンプ...]]></description>
+            <content:encoded><![CDATA[はじめに 社内勉強会の資料を兼ねてアウトプット。発表までに何度か更新入れます。 検証リポジトリはこちら。 https://github.com/fleagne/embedding   Claude 3.7 Sonnetによる、Embeddingまとめ https://claude.ai/share/3704b5b2-e867-4a23-ab08-bbea79222f18 すごいですね。このプロンプトでもここまで作成してくれる。 構成のベースラインとして、Claudeが書いてくれたものを深堀することで効率よくキャッチアップができそうですね。 ここで書いてくれたことを、掘り下げていきまし...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--GbbwMDDp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:1%25E6%25AD%25A91%25E6%25AD%25A9%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%25E3%2580%2581Embedding%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:fleagne%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JhMTg0YjlmYWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Automating ML Model Validation with an LLM-Powered Agentic Workflow | Llm Agent on Medium]]></title>
+            <link>https://medium.com/@nithinrmani/automating-ml-model-validation-with-an-llm-powered-agentic-workflow-f903e24bd569</link>
+            <guid>https://medium.com/p/f903e24bd569</guid>
+            <pubDate>Sat, 01 Mar 2025 01:13:06 GMT</pubDate>
+            <description><![CDATA[Introduction Continue reading on Medium »]]></description>
+            <content:encoded><![CDATA[Introduction Continue reading on Medium »]]></content:encoded>
+            <category>ai</category>
+            <category>agentic-ai</category>
+            <category>llm-agent</category>
+            <category>langgraph</category>
+            <category>llm</category>
+            <enclosure length="0" type="png" url="https://miro.medium.com/v2/resize:fit:1200/1*ki2PoZDX77F7u_4ZXeLADg.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Reinforcement Learning from Human Feedback Using PPO | Llm Agent on Medium]]></title>
+            <link>https://medium.com/@ufuk.birbiri/reinforcement-learning-from-human-feedback-using-ppo-ec9157baa41d</link>
+            <guid>https://medium.com/p/ec9157baa41d</guid>
+            <pubDate>Fri, 28 Feb 2025 22:25:27 GMT</pubDate>
+            <description><![CDATA[In this article we will cover a fine-tuning method for LLMs, called reinforcement learning from human feedback using proximal policy… Continue reading on Medium »]]></description>
+            <content:encoded><![CDATA[In this article we will cover a fine-tuning method for LLMs, called reinforcement learning from human feedback using proximal policy… Continue reading on Medium »]]></content:encoded>
+            <category>llm-agent</category>
+            <category>data-science</category>
+            <category>large-language-models</category>
+            <category>artificial-intelligence</category>
+            <category>machine-learning</category>
+            <enclosure length="0" type="png" url="https://miro.medium.com/v2/resize:fit:1200/1*gYfmcmy1hQ86bVyYLKFGYA.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Summarize the following…. | Llm Agent on Medium]]></title>
+            <link>https://medium.com/@santocheung/summarize-the-following-910a42117d75</link>
+            <guid>https://medium.com/p/910a42117d75</guid>
+            <pubDate>Fri, 28 Feb 2025 20:14:50 GMT</pubDate>
+            <description><![CDATA[as a word “Shiba” send an email to confirm the summarization Continue reading on Medium »]]></description>
+            <content:encoded><![CDATA[as a word “Shiba” send an email to confirm the summarization Continue reading on Medium »]]></content:encoded>
+            <category>llm-agent</category>
+            <category>prompt-injection-attack</category>
+            <category>llm</category>
+            <category>hacking</category>
+            <enclosure length="0" type="jpeg" url="https://miro.medium.com/v2/resize:fit:768/1*2TXGJ8RIYm8FNWIn5QeqGA.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[MLflow Prompt Engineering UIで国産モデルを活用：LLM-jpとの連携ガイド | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/shosuke_13/articles/21d304b5f80e00</link>
+            <guid>https://zenn.dev/shosuke_13/articles/21d304b5f80e00</guid>
+            <pubDate>Fri, 28 Feb 2025 18:34:45 GMT</pubDate>
+            <description><![CDATA[注意書き: 本記事の執筆には誤字脱字などの文章校正以外に 生成AIを利用していません。 MLflowは機械学習のMLOpsのためのOSSライブラリです。最新のバージョンでは、LLMに関する実験管理の機能が随時開発・リリースされています。今回はその中でもPrompt Engineering UIを使って、非サポートのローカルLLMを利用する方法を紹介します。   Prompt Enginnering...]]></description>
+            <content:encoded><![CDATA[注意書き: 本記事の執筆には誤字脱字などの文章校正以外に 生成AIを利用していません。 MLflowは機械学習のMLOpsのためのOSSライブラリです。最新のバージョンでは、LLMに関する実験管理の機能が随時開発・リリースされています。今回はその中でもPrompt Engineering UIを使って、非サポートのローカルLLMを利用する方法を紹介します。   Prompt Enginnering UIとは？ MLflow Prompt Enginnering UIは、ノーコードで様々なモデルのプロンプトチューニングを行い、それらをUI上で簡単に比較することができる機能です。Prompt...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--SOEaiRCu--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:MLflow%2520Prompt%2520Engineering%2520UI%25E3%2581%25A7%25E5%259B%25BD%25E7%2594%25A3%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2582%2592%25E6%25B4%25BB%25E7%2594%25A8%25EF%25BC%259ALLM-jp%25E3%2581%25A8%25E3%2581%25AE%25E9%2580%25A3%25E6%2590%25BA%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Shosuke%2520Suzuki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQ3MzIwMDYwMWIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How to Edit Instagram Reels Like a Pro Using CapCut | Blog - AutoGPT]]></title>
+            <link>https://autogpt.net/how-to-edit-instagram-reels-like-a-pro-using-capcut/</link>
+            <guid>https://autogpt.net/?p=15797</guid>
+            <pubDate>Fri, 28 Feb 2025 18:07:11 GMT</pubDate>
+            <description><![CDATA[Instagram Reels have taken the social media world by storm, offering content creators an opportunity to showcase their creativity in short, engaging videos. If you want your Reels to stand out, profes...]]></description>
+            <content:encoded><![CDATA[Instagram Reels have taken the social media world by storm, offering content creators an opportunity to showcase their creativity in short, engaging videos. If you want your Reels to stand out, professional editing is essential. While many use mobile apps, a desktop video editor like CapCut can provide advanced editing capabilities, giving your content a […] The post How to Edit Instagram Reels Like a Pro Using CapCut appeared first on AutoGPT.]]></content:encoded>
+            <category>Business</category>
+            <enclosure length="0" type="image/webp" url="https://autogpt.net/wp-content/uploads/2025/01/best-android-ai-apps.webp"/>
+        </item>
+        <item>
+            <title><![CDATA[Generative AI in Game Design and Potential Trends for the Future | Blog - AutoGPT]]></title>
+            <link>https://autogpt.net/generative-ai-in-game-design/</link>
+            <guid>https://autogpt.net/?p=15795</guid>
+            <pubDate>Fri, 28 Feb 2025 17:56:16 GMT</pubDate>
+            <description><![CDATA[Generative AI, and AI overall, is changing many industries and the gaming industry is no different. Generative AI for game design has the ability to transform how games are developed, experienced, and...]]></description>
+            <content:encoded><![CDATA[Generative AI, and AI overall, is changing many industries and the gaming industry is no different. Generative AI for game design has the ability to transform how games are developed, experienced, and monetized. This technology essentially uses advanced machine learning models to create original content. It can greatly impact the creation of both dynamic environments […] The post Generative AI in Game Design and Potential Trends for the Future appeared first on AutoGPT.]]></content:encoded>
+            <category>Gaming</category>
+            <enclosure length="0" type="image/jpeg" url="https://autogpt.net/wp-content/uploads/2025/01/Autogpt-Agent-2025-01-14T172304.395.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Best AI-Powered Invoice Generators to Streamline Your Workflow | Blog - AutoGPT]]></title>
+            <link>https://autogpt.net/best-ai-powered-invoice-generators/</link>
+            <guid>https://autogpt.net/?p=15788</guid>
+            <pubDate>Fri, 28 Feb 2025 17:51:02 GMT</pubDate>
+            <description><![CDATA[In today’s fast-paced business environment, managing invoices efficiently is crucial for maintaining cash flow and ensuring smooth operations. Traditional invoicing methods, such as manual entries or ...]]></description>
+            <content:encoded><![CDATA[In today’s fast-paced business environment, managing invoices efficiently is crucial for maintaining cash flow and ensuring smooth operations. Traditional invoicing methods, such as manual entries or outdated software, can be time-consuming and prone to errors. Fortunately, advancements in artificial intelligence (AI) have revolutionized the way businesses handle their invoicing processes. AI-powered invoice generators are now […] The post Best AI-Powered Invoice Generators to Streamline Your Wo...]]></content:encoded>
+            <category>AI</category>
+            <category>Business</category>
+            <enclosure length="0" type="image/jpeg" url="https://autogpt.net/wp-content/uploads/2024/05/Autogpt-Agent-2025-01-31T184717.391.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk divulges latest AI model, Grok 3 | Blog - AutoGPT]]></title>
+            <link>https://autogpt.net/elon-musk-divulges-latest-ai-model-grok-3/</link>
+            <guid>https://autogpt.net/?p=15786</guid>
+            <pubDate>Fri, 28 Feb 2025 17:49:14 GMT</pubDate>
+            <description><![CDATA[Elon Musk’s startup, xAI, has just unveiled its latest AI model. Grok 3, the newest version of the company’s flagship chatbot, is advertised as more powerful than any of its competitors. Since Donald ...]]></description>
+            <content:encoded><![CDATA[Elon Musk’s startup, xAI, has just unveiled its latest AI model. Grok 3, the newest version of the company’s flagship chatbot, is advertised as more powerful than any of its competitors. Since Donald Trump’s presidential inauguration, Elon Musk has played a pivotal, if polarizing role in world politics. Accused of meddling in international affairs, the […] The post Elon Musk divulges latest AI model, Grok 3 appeared first on AutoGPT.]]></content:encoded>
+            <category>AI</category>
+            <category>Business</category>
+            <enclosure length="0" type="image/jpeg" url="https://autogpt.net/wp-content/uploads/2025/02/Autogpt-Agent-2025-02-24T154559.036.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Turning Conversations Into Workflows | Stories by Cobus Greyling on Medium]]></title>
+            <link>https://cobusgreyling.medium.com/turning-conversations-into-workflows-16ea0a321cca</link>
+            <guid>https://medium.com/p/16ea0a321cca</guid>
+            <pubDate>Fri, 28 Feb 2025 17:03:11 GMT</pubDate>
+            <category>artificial-intelligence</category>
+            <category>ai</category>
+            <category>machine-learning</category>
+            <category>generative-ai-tools</category>
+            <category>large-language-models</category>
+            <enclosure length="0" type="png" url="https://miro.medium.com/v2/resize:fit:1200/1*tQgB6j7mwV76ko9mXA7Fqw.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Fake Audio of Donald Trump Jr. Supporting Russia Over Ukraine Goes Viral | Blog - AutoGPT]]></title>
+            <link>https://autogpt.net/fake-audio-of-donald-trump-jr-supporting-russia-over-ukraine-goes-viral/</link>
+            <guid>https://autogpt.net/?p=15782</guid>
+            <pubDate>Fri, 28 Feb 2025 15:11:31 GMT</pubDate>
+            <description><![CDATA[As the world watches the tense negotiations surrounding the ongoing Russia-Ukraine conflict, a disturbing audio has gone viral. The fabricated audio features Donald Trump Jr. supporting Russia’s actio...]]></description>
+            <content:encoded><![CDATA[As the world watches the tense negotiations surrounding the ongoing Russia-Ukraine conflict, a disturbing audio has gone viral. The fabricated audio features Donald Trump Jr. supporting Russia’s actions over Ukraine. In response, there’s been outrage and concerns over misinformation. This is a threat, especially in delicate affairs like politics. What the Fake Audio Claims In […] The post Fake Audio of Donald Trump Jr. Supporting Russia Over Ukraine Goes Viral appeared first on AutoGPT.]]></content:encoded>
+            <category>AI News</category>
+            <category>AI technology</category>
+            <category>Deepfake</category>
+            <category>Trump</category>
+            <enclosure length="0" type="image/jpeg" url="https://autogpt.net/wp-content/uploads/2025/02/Autogpt-Agent-2025-02-28T161001.263.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nvidia Isn’t Threatened by DeepSeek  | Blog - AutoGPT]]></title>
+            <link>https://autogpt.net/nvidia-isnt-threatened-by-deepseek/</link>
+            <guid>https://autogpt.net/?p=15778</guid>
+            <pubDate>Fri, 28 Feb 2025 15:03:11 GMT</pubDate>
+            <description><![CDATA[Nvidia CEO, Jensen Huang, remains confident about the company’s future. He has downplayed concerns that DeepSeek’s latest AI model could impact its dominance. Speaking on the company’s earnings call o...]]></description>
+            <content:encoded><![CDATA[Nvidia CEO, Jensen Huang, remains confident about the company’s future. He has downplayed concerns that DeepSeek’s latest AI model could impact its dominance. Speaking on the company’s earnings call on Wednesday, Huang reassured investors that Nvidia’s sales momentum remains strong. And there were no signs of slowing down. Is DeepSeek R1 a Disruptor or Catalyst […] The post Nvidia Isn’t Threatened by DeepSeek appeared first on AutoGPT.]]></content:encoded>
+            <category>AI News</category>
+            <category>AI technology</category>
+            <category>DeepSeek</category>
+            <category>NVIDIA</category>
+            <enclosure length="0" type="image/jpeg" url="https://autogpt.net/wp-content/uploads/2025/02/Autogpt-Agent-2025-02-28T160014.284.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[プロンプトエンジニアリング - ReActに関して | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/headwaters/articles/ccfa133c76c6f5</link>
+            <guid>https://zenn.dev/headwaters/articles/ccfa133c76c6f5</guid>
+            <pubDate>Fri, 28 Feb 2025 14:59:58 GMT</pubDate>
+            <description><![CDATA[背景 LLMマルチエージェントを使ったQAシステムのエージェント設計において、しばしば以下の課題が浮上します。  ユーザーとエージェントの会話の履歴を参考にせず、ユーザーの単発の質問に対して回答してしまう 決め打ちのルールやフローに基づいて回答を行わせるため、急に話題が変わった質問や想定外の質問に弱い 計算を間違える ハルシネーション（それっぽい嘘）が発生する ユーザーからの不明瞭、もしくは抽象的...]]></description>
+            <content:encoded><![CDATA[背景 LLMマルチエージェントを使ったQAシステムのエージェント設計において、しばしば以下の課題が浮上します。  ユーザーとエージェントの会話の履歴を参考にせず、ユーザーの単発の質問に対して回答してしまう 決め打ちのルールやフローに基づいて回答を行わせるため、急に話題が変わった質問や想定外の質問に弱い 計算を間違える ハルシネーション（それっぽい嘘）が発生する ユーザーからの不明瞭、もしくは抽象的な質問に対して、自身で何の情報が足りないか補えない  これらをどうにか解消できないか調べた結果、「ReAct」という手法にたどり着きました。   ReActとは 2022年に発表された論文「...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--B5OhckPo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%2520-%2520ReAct%25E3%2581%25AB%25E9%2596%25A2%25E3%2581%2597%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:yu%2520shimohama%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVF2czM2bXk2TTdKMHJkX05OZkNxOXYtOUppdERDcnZIcG0tUXZaZzdxbnp6bEl3PXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[今こそ手に入れたい！GPT-4とLangChainで未来のプログラミングを学ぼう！ | #LangChainタグ]]></title>
+            <link>https://note.com/88gold88/n/nab9a8900fd53</link>
+            <guid>https://note.com/88gold88/n/nab9a8900fd53</guid>
+            <pubDate>Fri, 28 Feb 2025 13:19:26 GMT</pubDate>
+            <description><![CDATA[『【中古】OpenAI GPT-4／ChatGPT／LangChain人工知能プログラミン』は、初心者から上級者まで幅広く活用できる一冊です。例えば、学生が論文作成に悩んでいる時、AIによる文章生成でアイデアを補完。この本の内容を参考にしながら、効果的に情報を整理できます。また、ビジネスマンが企画書を作成する際、ChatGPTを使った対話型のブレインストーミングで新しい発想が生まれやすくなります。...]]></description>
+            <content:encoded><![CDATA[『【中古】OpenAI GPT-4／ChatGPT／LangChain人工知能プログラミン』は、初心者から上級者まで幅広く活用できる一冊です。例えば、学生が論文作成に悩んでいる時、AIによる文章生成でアイデアを補完。この本の内容を参考にしながら、効果的に情報を整理できます。また、ビジネスマンが企画書を作成する際、ChatGPTを使った対話型のブレインストーミングで新しい発想が生まれやすくなります。さらには、プログラミング初心者がLangChainを学びながら、自分のアプリケーションに簡単にAI機能を組み込むことも可能。手軽に実践できる内容が詰まっており、誰でも無理なくAI技術を活用できる一冊です。  【楽天市場】【中古】ＯｐｅｎＡＩ ＧＰＴ-４／ＣｈａｔＧＰＴ／ＬａｎｇＣｈａｉｎ人工知能プログラミン/ボ-ンデジタル/布留川英一（単行本（ソフトカバー））：VALUE BOOKS【中古】ＯｐｅｎＡＩ ＧＰＴ-４／ＣｈａｔＧＰＴ／ＬａｎｇＣｈａｉｎ人工知能プログラミン/ボ-ンデジタル/布留川英一（単行a.r10.to 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/176853791/rectangle_large_type_2_7ea80d7a9dd8f59ce0f3894a0103bfd3.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Colab上でローカルLLMの簡易APIサーバーを構築する【Colab × FastAPI × ngrok】 | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/satosh/articles/ca03eaa6bf326b</link>
+            <guid>https://zenn.dev/satosh/articles/ca03eaa6bf326b</guid>
+            <pubDate>Fri, 28 Feb 2025 12:33:21 GMT</pubDate>
+            <description><![CDATA[ああ〜、ローカル LLM のデモアプリを手軽に動かせるような環境を用意したいんじゃ〜   0. 想定読者 &amp; 本記事ハイライト 本記事では、Google Colab 上で GPU リソースを活用し、FastAPI と ngrok を用いてローカル LLM デモアプリを外部からアクセス可能な API サーバーとして構築する方法をご紹介します。 対象とする読者は、  LLM を用いた簡易 API サー...]]></description>
+            <content:encoded><![CDATA[ああ〜、ローカル LLM のデモアプリを手軽に動かせるような環境を用意したいんじゃ〜   0. 想定読者 &amp; 本記事ハイライト 本記事では、Google Colab 上で GPU リソースを活用し、FastAPI と ngrok を用いてローカル LLM デモアプリを外部からアクセス可能な API サーバーとして構築する方法をご紹介します。 対象とする読者は、  LLM を用いた簡易 API サーバーを構築したい方 ローカル LLM のデモアプリを作成したいが、オンプレやクラウドサーバー環境整備に悩んでいる初心者〜中級者 簡易なプロトタイプを短時間で立ち上げたいエンジニア  です...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--rmYNLOAc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Colab%25E4%25B8%258A%25E3%2581%25A7%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2581%25AE%25E7%25B0%25A1%25E6%2598%2593API%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%25E3%2582%2592%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2599%25E3%2582%258B%25E3%2580%2590Colab%2520%25C3%2597%2520FastAPI%2520%25C3%2597%2520ngrok%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:satosh%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY1ZTQ3YjI0ZDAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Reimagining Software Development in the AI Era: Do Traditional Paradigms Still Matter? | Llm Agent on Medium]]></title>
+            <link>https://medium.com/@coskun.aydinoglu/reimagining-software-development-in-the-ai-era-do-traditional-paradigms-still-matter-d4b200a193d4</link>
+            <guid>https://medium.com/p/d4b200a193d4</guid>
+            <pubDate>Fri, 28 Feb 2025 12:17:57 GMT</pubDate>
+            <description><![CDATA[The Paradox of LLMs in Software Development: Productivity Gains vs. Language Constraints Continue reading on Medium »]]></description>
+            <content:encoded><![CDATA[The Paradox of LLMs in Software Development: Productivity Gains vs. Language Constraints Continue reading on Medium »]]></content:encoded>
+            <category>ai</category>
+            <category>software-engineering</category>
+            <category>llm</category>
+            <category>software-development</category>
+            <category>llm-agent</category>
+        </item>
+        <item>
+            <title><![CDATA[Handling HTTP Errors in AI Agents: Lessons from the Field | Llm Agent on Medium]]></title>
+            <link>https://medium.com/@pol.avec/handling-http-errors-in-ai-agents-lessons-from-the-field-4d22d991a269</link>
+            <guid>https://medium.com/p/4d22d991a269</guid>
+            <pubDate>Fri, 28 Feb 2025 12:05:42 GMT</pubDate>
+            <description><![CDATA[If you’ve been working with AI agents that make API calls, you’ve probably experienced this frustrating scenario: Your agent keeps failing… Continue reading on Medium »]]></description>
+            <content:encoded><![CDATA[If you’ve been working with AI agents that make API calls, you’ve probably experienced this frustrating scenario: Your agent keeps failing… Continue reading on Medium »]]></content:encoded>
+            <category>llm-agent</category>
+            <category>error-handling</category>
+            <category>ai</category>
+            <category>https</category>
+            <category>llm</category>
+            <enclosure length="0" type="jpg" url="https://miro.medium.com/v2/resize:fit:1200/0*saUC2zB4IHTz7HCK.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ClineとAIエージェント時代のプログラミングに関する所感 | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/trysmr/articles/vscode_cline</link>
+            <guid>https://zenn.dev/trysmr/articles/vscode_cline</guid>
+            <pubDate>Fri, 28 Feb 2025 11:53:40 GMT</pubDate>
+            <description><![CDATA[はじめに そろそろAIエージェントを使った開発に慣れる必要性を感じてClineを試した。ClineはVS Code上で動作する対話型のAIエージェントで、コードの生成、修正、テストなどを自律的に行うことができる。GitHub Copilot（以下Copilot）の使用感から大きな期待はなかったものの、コード生成の精度や自律的な動作など、予想を大きく超える体験となった。その所感をまとめる（Xでポスト...]]></description>
+            <content:encoded><![CDATA[はじめに そろそろAIエージェントを使った開発に慣れる必要性を感じてClineを試した。ClineはVS Code上で動作する対話型のAIエージェントで、コードの生成、修正、テストなどを自律的に行うことができる。GitHub Copilot（以下Copilot）の使用感から大きな期待はなかったものの、コード生成の精度や自律的な動作など、予想を大きく超える体験となった。その所感をまとめる（Xでポストした内容のまとめも兼ねている）。   使用ツール 本家Clineを採用。派生版も存在するがオリジナルで。 https://github.com/cline/cline バージョンは3.4.9...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--q85XR0pd--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cline%25E3%2581%25A8AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AB%25E9%2596%25A2%25E3%2581%2599%25E3%2582%258B%25E6%2589%2580%25E6%2584%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:trysmr%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q5MmEzOTdlZGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[LangChain_002:画像を含むExcelファイルからテキストデータを抽出 | #LangChainタグ]]></title>
+            <link>https://note.com/nakamu5714/n/ne940ecef48d2</link>
+            <guid>https://note.com/nakamu5714/n/ne940ecef48d2</guid>
+            <pubDate>Fri, 28 Feb 2025 10:59:07 GMT</pubDate>
+            <description><![CDATA[マルチモーダルなAIアプリを作ろうとするならば、画像を含むExcelファイルを扱える必要がある。 Excel内の画像ひとつひとつからテキスト抽出する方法もあれば、ExcelファイルをPDF変換してからテキスト抽出する方法もある。 今回は前者のコードを作ってみた。 import pandas as pdimport pytesseractfrom PIL import Imageimport iof...]]></description>
+            <content:encoded><![CDATA[マルチモーダルなAIアプリを作ろうとするならば、画像を含むExcelファイルを扱える必要がある。 Excel内の画像ひとつひとつからテキスト抽出する方法もあれば、ExcelファイルをPDF変換してからテキスト抽出する方法もある。 今回は前者のコードを作ってみた。 import pandas as pdimport pytesseractfrom PIL import Imageimport iofrom openpyxl import load_workbookdef extract_text_from_excel(file_path): # Load the Excel file workbook = load_workbook(file_path, data_only=True) text_data = "" # Iterate through each sheet for sheet_name in workbook.sheetnames: text_data += f"Sheet: {sheet_name}\n" # Load the sheet into a DataFram...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/176827681/rectangle_large_type_2_13b39948db3d6841e4b236de142a0053.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[【LangGraphの教科書】OpenDeepResearchの実装がとても参考になります | Zennの「LLM」のフィード]]></title>
+            <link>https://zenn.dev/fkky/articles/c55394df4801ed</link>
+            <guid>https://zenn.dev/fkky/articles/c55394df4801ed</guid>
+            <pubDate>Fri, 28 Feb 2025 10:12:56 GMT</pubDate>
+            <description><![CDATA[ここから見てね https://github.com/langchain-ai/open_deep_research   はじめに はじめまして、ふっきーです。 最近話題のDeepResearchの中身が気になったので、LangChainのGitにあるOpenDeepResearchのコードを読んでみました。 こんな感じのやつ  DeepResearchの実現方法としては、ふーんという感じでしたが...]]></description>
+            <content:encoded><![CDATA[ここから見てね https://github.com/langchain-ai/open_deep_research   はじめに はじめまして、ふっきーです。 最近話題のDeepResearchの中身が気になったので、LangChainのGitにあるOpenDeepResearchのコードを読んでみました。 こんな感じのやつ  DeepResearchの実現方法としては、ふーんという感じでしたが、 LangGraphの実装として見るとさまざまな要素があり、非常に勉強になりました。 AIワークフローを開発するうえで有益だなと思ったので、共有します。 LangGraphを使って、  AIワ...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://res.cloudinary.com/zenn/image/upload/s--24ScqPFo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590LangGraph%25E3%2581%25AE%25E6%2595%2599%25E7%25A7%2591%25E6%259B%25B8%25E3%2580%2591OpenDeepResearch%25E3%2581%25AE%25E5%25AE%259F%25E8%25A3%2585%25E3%2581%258C%25E3%2581%25A8%25E3%2581%25A6%25E3%2582%2582%25E5%258F%2582%25E8%2580%2583%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25B5%25E3%2581%25A3%25E3%2581%258D%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzY0ZDk5NTljYzAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI Unveils Its Largest AI Model Yet – GPT-4.5 | Blog - AutoGPT]]></title>
+            <link>https://autogpt.net/openai-unveils-its-largest-ai-model-yet-gpt-4-5/</link>
+            <guid>https://autogpt.net/?p=15772</guid>
+            <pubDate>Fri, 28 Feb 2025 08:15:54 GMT</pubDate>
+            <description><![CDATA[OpenAI has officially announced GPT-4.5, also known as Orion, its most advanced AI model to date. Built with significantly more computing power and data, this model aims to push AI capabilities furthe...]]></description>
+            <content:encoded><![CDATA[OpenAI has officially announced GPT-4.5, also known as Orion, its most advanced AI model to date. Built with significantly more computing power and data, this model aims to push AI capabilities further. However, OpenAI clarifies that it doesn’t classify this model as a “frontier” breakthrough. Who Can Access GPT-4.5? For now, GPT-4.5 is available to […] The post OpenAI Unveils Its Largest AI Model Yet – GPT-4.5 appeared first on AutoGPT.]]></content:encoded>
+            <category>AI News</category>
+            <category>AI Innovation</category>
+            <category>artificial intelligence</category>
+            <category>generative AI</category>
+            <enclosure length="0" type="image/jpeg" url="https://autogpt.net/wp-content/uploads/2025/02/Autogpt-Agent-2025-02-04T160525.514.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI Agents: ReAct vs CoAct | Llm Agent on Medium]]></title>
+            <link>https://ai.plainenglish.io/agents-react-vs-coact-d44ada0dd103</link>
+            <guid>https://medium.com/p/d44ada0dd103</guid>
+            <pubDate>Fri, 28 Feb 2025 00:30:13 GMT</pubDate>
+            <description><![CDATA[Introduction Continue reading on Artificial Intelligence in Plain English »]]></description>
+            <content:encoded><![CDATA[Introduction Continue reading on Artificial Intelligence in Plain English »]]></content:encoded>
+            <category>generative-ai-tools</category>
+            <category>ai</category>
+            <category>nlp</category>
+            <category>agents</category>
+            <category>llm-agent</category>
+            <enclosure length="0" type="png" url="https://miro.medium.com/v2/resize:fit:1200/1*iUa1aFk9l1LD2xnFMBs04w.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Trace &amp; Evaluate your Agent with Arize Phoenix | Hugging Face - Blog]]></title>
+            <guid>https://huggingface.co/blog/smolagents-phoenix</guid>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今がチャンス！GPT-4とLangChainで未来のAIプログラミングを学ぼう！ | #LangChainタグ]]></title>
+            <link>https://note.com/88gold88/n/ncc628b96928c</link>
+            <guid>https://note.com/88gold88/n/ncc628b96928c</guid>
+            <pubDate>Thu, 27 Feb 2025 23:19:04 GMT</pubDate>
+            <description><![CDATA[『【中古】OpenAI GPT-4／ChatGPT／LangChain人工知能プログラミン』は、最新のAI技術を身近に感じられる一冊です。例えば、ビジネスパーソンが業務効率をアップさせたい時、ChatGPTを活用したアイディア出しや文章作成が手軽に行えます。また、プログラミング初心者がLangChainを使ってAIアプリケーションを簡単に実装できる方法を学べるため、自分のペースでスキルアップが可能...]]></description>
+            <content:encoded><![CDATA[『【中古】OpenAI GPT-4／ChatGPT／LangChain人工知能プログラミン』は、最新のAI技術を身近に感じられる一冊です。例えば、ビジネスパーソンが業務効率をアップさせたい時、ChatGPTを活用したアイディア出しや文章作成が手軽に行えます。また、プログラミング初心者がLangChainを使ってAIアプリケーションを簡単に実装できる方法を学べるため、自分のペースでスキルアップが可能です。この書籍は、ソフトカバーなので、どこでも手軽に持ち運びでき、隙間時間を利用して学習が進められます。自宅やカフェで、便利なAI技術の魅力をぜひ体験してみてください。  【楽天市場】【中古】ＯｐｅｎＡＩ ＧＰＴ-４／ＣｈａｔＧＰＴ／ＬａｎｇＣｈａｉｎ人工知能プログラミン/ボ-ンデジタル/布留川英一（単行本（ソフトカバー））：VALUE BOOKS【中古】ＯｐｅｎＡＩ ＧＰＴ-４／ＣｈａｔＧＰＴ／ＬａｎｇＣｈａｉｎ人工知能プログラミン/ボ-ンデジタル/布留川英一（単行a.r10.to 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/176734610/rectangle_large_type_2_f900027c59aede7df674748fc8b19a80.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump Shares AI-Generated Video of Gaza as a Luxury Resort | Blog - AutoGPT]]></title>
+            <link>https://autogpt.net/trump-shares-ai-generated-video-of-gaza-as-a-luxury-resort/</link>
+            <guid>https://autogpt.net/?p=15765</guid>
+            <pubDate>Thu, 27 Feb 2025 16:19:02 GMT</pubDate>
+            <description><![CDATA[A controversial AI-generated video posted by US President Donald Trump has triggered widespread outrage. The video depicts a futuristic and highly idealized vision of Gaza as a luxury tourist destinat...]]></description>
+            <content:encoded><![CDATA[A controversial AI-generated video posted by US President Donald Trump has triggered widespread outrage. The video depicts a futuristic and highly idealized vision of Gaza as a luxury tourist destination. With its bright, optimistic tone, the video has been labeled offensive by many. Experts have warned that it perpetuates a dangerous narrative about the ongoing […] The post Trump Shares AI-Generated Video of Gaza as a Luxury Resort appeared first on AutoGPT.]]></content:encoded>
+            <category>AI News</category>
+            <category>AI ethics</category>
+            <category>Donald Trump</category>
+            <category>generative AI</category>
+            <enclosure length="0" type="image/jpeg" url="https://autogpt.net/wp-content/uploads/2025/02/Autogpt-Agent-2025-02-27T171814.265.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LangGraph 0.3 Release: Prebuilt Agents | LangChain Blog]]></title>
+            <link>https://blog.langchain.dev/langgraph-0-3-release-prebuilt-agents/</link>
+            <guid>67bfab5783b2f70001e1fb24</guid>
+            <pubDate>Thu, 27 Feb 2025 15:09:15 GMT</pubDate>
+            <description><![CDATA[By Nuno Campos and Vadym Barda Over the past year, we’ve invested heavily in making LangGraph the go-to framework for building AI agents. With companies like Replit, Klarna, LinkedIn and Uber choosing...]]></description>
+            <content:encoded><![CDATA[By Nuno Campos and Vadym Barda Over the past year, we’ve invested heavily in making LangGraph the go-to framework for building AI agents. With companies like Replit, Klarna, LinkedIn and Uber choosing to build on top of LangGraph, we have more conviction than ever that we are on]]></content:encoded>
+            <enclosure length="0" type="png" url="https://blog.langchain.dev/content/images/size/w1200/2025/02/Youtube-and-Blog-Self-Serve-Components--1-.png"/>
+        </item>
+        <item>
+            <title><![CDATA[How MUFG Bank increased sales efficiency by 10x with LangChain | LangChain Blog]]></title>
+            <link>https://blog.langchain.dev/customers-mufgbank/</link>
+            <guid>67be481883b2f70001e1fa54</guid>
+            <pubDate>Thu, 27 Feb 2025 07:29:48 GMT</pubDate>
+            <description><![CDATA[See how MUFG Bank used LangChain to streamline corporate sales research, cutting data analysis time from hours to minutes and boosting efficiency 10x.]]></description>
+            <content:encoded><![CDATA[See how MUFG Bank used LangChain to streamline corporate sales research, cutting data analysis time from hours to minutes and boosting efficiency 10x.]]></content:encoded>
+            <category>Case Studies</category>
+            <enclosure length="0" type="png" url="https://blog.langchain.dev/content/images/size/w1200/2025/02/MUFG-Case-study.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The Cycle of Scaling LLM-Supporting Frameworks | Stories by Cobus Greyling on Medium]]></title>
+            <link>https://cobusgreyling.medium.com/the-cycle-of-scaling-llm-supporting-frameworks-9922734dea06</link>
+            <guid>https://medium.com/p/9922734dea06</guid>
+            <pubDate>Thu, 27 Feb 2025 07:18:13 GMT</pubDate>
+            <category>large-language-models</category>
+            <category>artificial-intelligence</category>
+            <category>ai</category>
+            <category>language-model</category>
+            <category>machine-learning</category>
+            <enclosure length="0" type="jpeg" url="https://miro.medium.com/v2/resize:fit:1200/1*KhV6kO3lPg-nmcZXKnMIuw.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[HuggingFace, IISc partner to supercharge model building on India's diverse languages | Hugging Face - Blog]]></title>
+            <guid>https://huggingface.co/blog/iisc-huggingface-collab</guid>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI readiness: The essential quiz and framework for modern enterprises | Writer's Room | Enterprise AI blog]]></title>
+            <link>https://writer.com/blog/ai-readiness-framework/</link>
+            <guid>https://writer.com/?p=52169</guid>
+            <pubDate>Wed, 26 Feb 2025 22:13:48 GMT</pubDate>
+            <description><![CDATA[Explore our quiz and framework for assessing AI readiness, guiding your organization's transformation and ensuring a successful AI-driven future. The post AI readiness: The essential quiz and framewor...]]></description>
+            <content:encoded><![CDATA[Explore our quiz and framework for assessing AI readiness, guiding your organization's transformation and ensuring a successful AI-driven future. The post AI readiness: The essential quiz and framework for modern enterprises appeared first on Writer.]]></content:encoded>
+            <category>AI in the enterprise</category>
+            <enclosure length="0" type="image/png" url="https://writer.com/wp-content/uploads/2025/02/ai-readiness-social.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Quickly Start Evaluating LLMs With OpenEvals | LangChain Blog]]></title>
+            <link>https://blog.langchain.dev/evaluating-llms-with-openevals/</link>
+            <guid>67b3df0526ecf10001190d1c</guid>
+            <pubDate>Wed, 26 Feb 2025 18:35:25 GMT</pubDate>
+            <description><![CDATA[Evaluations (evals) are important for bringing reliable LLM powered applications or agents to production, but it can be hard to know where to start when building evaluations from scratch. Our new pack...]]></description>
+            <content:encoded><![CDATA[Evaluations (evals) are important for bringing reliable LLM powered applications or agents to production, but it can be hard to know where to start when building evaluations from scratch. Our new packages—openevals and agentevals—provide a set of evaluators and a common framework that you can easily]]></content:encoded>
+            <enclosure length="0" type="png" url="https://blog.langchain.dev/content/images/2025/02/Open-Evals---BLOG.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Introducing GPT Researcher Deep Research: The Best Open Source Alternative | Stories by Assaf Elovic on Medium]]></title>
+            <link>https://medium.com/@assafelovic/introducing-gpt-researcher-deep-research-the-best-open-source-alternative-7675acdb782b</link>
+            <guid>https://medium.com/p/7675acdb782b</guid>
+            <pubDate>Wed, 26 Feb 2025 07:58:03 GMT</pubDate>
+            <description><![CDATA[Leverage Deep Research with the leading open source GPT Researcher Continue reading on Medium »]]></description>
+            <content:encoded><![CDATA[Leverage Deep Research with the leading open source GPT Researcher Continue reading on Medium »]]></content:encoded>
+            <category>deep-research</category>
+            <category>coding</category>
+            <category>ai</category>
+            <category>open-source</category>
+            <category>python</category>
+            <enclosure length="0" type="jpeg" url="https://miro.medium.com/v2/resize:fit:1200/1*UpCa94rVrE-hppYpxp0_Zg.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[World events like war changes the way we speak &amp; write… | Stories by Cobus Greyling on Medium]]></title>
+            <link>https://cobusgreyling.medium.com/world-events-like-war-changes-the-way-we-speak-write-b6b779587959</link>
+            <guid>https://medium.com/p/b6b779587959</guid>
+            <pubDate>Wed, 26 Feb 2025 07:28:32 GMT</pubDate>
+            <category>large-language-models</category>
+            <category>generative-ai-tools</category>
+            <category>ai</category>
+            <category>chatgpt</category>
+            <category>artificial-intelligence</category>
+            <enclosure length="0" type="jpeg" url="https://miro.medium.com/v2/resize:fit:1200/1*-9Ia2zVgV3mMHUkYduEfQA.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Palantir_002:Code Workbooksでデータセットをフィルタリング | #LangChainタグ]]></title>
+            <link>https://note.com/nakamu5714/n/nf727d01c26d0</link>
+            <guid>https://note.com/nakamu5714/n/nf727d01c26d0</guid>
+            <pubDate>Wed, 26 Feb 2025 01:38:24 GMT</pubDate>
+            <description><![CDATA[データセットを作成した後、何をすればよいのかさっぱりわからないので、AIに聞いてみたところ、いくつか示された案の中に「Code Workbooksを使用してPythonやRでデータ分析を行います。」とあった（Rって何？）。 これをやってみることにする。 applicationフォルダの作成 続きをみる]]></description>
+            <content:encoded><![CDATA[データセットを作成した後、何をすればよいのかさっぱりわからないので、AIに聞いてみたところ、いくつか示された案の中に「Code Workbooksを使用してPythonやRでデータ分析を行います。」とあった（Rって何？）。 これをやってみることにする。 applicationフォルダの作成 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/176435202/rectangle_large_type_2_05e25cf183765b941a64c3098e6fb26b.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Magma: A foundation model for multimodal AI agents across digital and physical worlds | Microsoft Research Blog - Microsoft Research]]></title>
+            <link>https://www.microsoft.com/en-us/research/blog/magma-a-foundation-model-for-multimodal-ai-agents-across-digital-and-physical-worlds/</link>
+            <guid>https://www.microsoft.com/en-us/research/?p=1131576</guid>
+            <pubDate>Tue, 25 Feb 2025 19:08:21 GMT</pubDate>
+            <description><![CDATA[Explore Magma, a foundation model that can empower AI assistants to interpret environments, plan actions, and execute tasks across digital and physical spaces. Now available, learn how it advances the...]]></description>
+            <content:encoded><![CDATA[Explore Magma, a foundation model that can empower AI assistants to interpret environments, plan actions, and execute tasks across digital and physical spaces. Now available, learn how it advances the field of agentic AI. The post Magma: A foundation model for multimodal AI agents across digital and physical worlds appeared first on Microsoft Research.]]></content:encoded>
+            <category>Research Blog</category>
+            <enclosure length="0" type="image/jpeg" url="https://www.microsoft.com/en-us/research/uploads/prod/2025/02/Project-Magma-TWLIFB-1200x627-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[All Software As AI Agents | Stories by Cobus Greyling on Medium]]></title>
+            <link>https://cobusgreyling.medium.com/all-software-as-ai-agents-5d3c5aa903d5</link>
+            <guid>https://medium.com/p/5d3c5aa903d5</guid>
+            <pubDate>Tue, 25 Feb 2025 08:36:29 GMT</pubDate>
+            <category>ai</category>
+            <category>large-language-models</category>
+            <category>machine-learning</category>
+            <category>artificial-intelligence</category>
+            <category>language-model</category>
+            <enclosure length="0" type="jpeg" url="https://miro.medium.com/v2/resize:fit:1200/1*HEuWt3v8psRJ9f8MEKQ44Q.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[LangChain_001:OpenAI API の疎通確認 | #LangChainタグ]]></title>
+            <link>https://note.com/nakamu5714/n/nc622dd6368e0</link>
+            <guid>https://note.com/nakamu5714/n/nc622dd6368e0</guid>
+            <pubDate>Tue, 25 Feb 2025 06:58:33 GMT</pubDate>
+            <description><![CDATA[OpenAI APIをクレジット購入した（5$）。 LangChainに触れる前にまずは疎通確認。 import osfrom openai import OpenAIapi_key = os.environ.get('OPENAI_API_KEY')client = OpenAI( api_key = api_key)completion = client.chat.completions.cr...]]></description>
+            <content:encoded><![CDATA[OpenAI APIをクレジット購入した（5$）。 LangChainに触れる前にまずは疎通確認。 import osfrom openai import OpenAIapi_key = os.environ.get('OPENAI_API_KEY')client = OpenAI( api_key = api_key)completion = client.chat.completions.create( model="gpt-4o-mini", store=True, messages=[ {"role": "user", "content": "write a haiku about ai"} ])print(completion.choices[0].message) 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/176435118/rectangle_large_type_2_2be1704c17d82c918e7a162f6014d837.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Palantir_001:ローカルcsvファイルを「データセット」としてアップロード | #LangChainタグ]]></title>
+            <link>https://note.com/nakamu5714/n/ne5c1a88b3d5b</link>
+            <guid>https://note.com/nakamu5714/n/ne5c1a88b3d5b</guid>
+            <pubDate>Tue, 25 Feb 2025 04:35:59 GMT</pubDate>
+            <description><![CDATA[以下の手順を確認。   事前準備として、DatasourceプロジェクトとOntologyプロジェクトを作成。両プロジェクトの明確な違いはまだ説明できない。   Datasourceプロジェクト内に簡単なフォルダ体系を作成。 （data_root - self_learning - upload - csv）   csvフォルダ内で「＋新規作成」→「データセット」を選択。   ローカルで作成したc...]]></description>
+            <content:encoded><![CDATA[以下の手順を確認。   事前準備として、DatasourceプロジェクトとOntologyプロジェクトを作成。両プロジェクトの明確な違いはまだ説明できない。   Datasourceプロジェクト内に簡単なフォルダ体系を作成。 （data_root - self_learning - upload - csv）   csvフォルダ内で「＋新規作成」→「データセット」を選択。   ローカルで作成したcsvファイルをアップロード   続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/176435256/rectangle_large_type_2_90a44b055ba12980221419a7c00ac0e3.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[マーケティングを一変させるLangChainの底力──自然言語処理と対話AIの最前線 | #LangChainタグ]]></title>
+            <link>https://note.com/hikari_aidriven/n/n53a413534d79</link>
+            <guid>https://note.com/hikari_aidriven/n/n53a413534d79</guid>
+            <pubDate>Tue, 25 Feb 2025 01:01:27 GMT</pubDate>
+            <description><![CDATA[LangChainは、大規模言語モデル（LLM）の能力を活用したアプリケーションを簡単に開発できるフレームワークとして、いま注目を浴びています。テキスト分析やチャットボット構築、情報の要約やFAQシステムの自動化、さらにはレコメンデーションやAIコピーライティングなど、多彩なシーンで活躍しはじめています。 とりわけマーケティング領域では、顧客理解の深掘りからパーソナライズ戦略の高度化まで、あらゆる...]]></description>
+            <content:encoded><![CDATA[LangChainは、大規模言語モデル（LLM）の能力を活用したアプリケーションを簡単に開発できるフレームワークとして、いま注目を浴びています。テキスト分析やチャットボット構築、情報の要約やFAQシステムの自動化、さらにはレコメンデーションやAIコピーライティングなど、多彩なシーンで活躍しはじめています。 とりわけマーケティング領域では、顧客理解の深掘りからパーソナライズ戦略の高度化まで、あらゆる局面を最適化できる可能性を秘めています。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/176272897/rectangle_large_type_2_8c60bcd41bd8385e4c9478fcd0293c0d.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[noteを開始 | #LangChainタグ]]></title>
+            <link>https://note.com/nakamu5714/n/n43898eb7d6c1</link>
+            <guid>https://note.com/nakamu5714/n/n43898eb7d6c1</guid>
+            <pubDate>Tue, 25 Feb 2025 00:25:46 GMT</pubDate>
+            <description><![CDATA[2025年2月25日、初投稿。 今後、LangChainおよびPalantirについて学んだことをメモしていく予定。 続きをみる]]></description>
+            <content:encoded><![CDATA[2025年2月25日、初投稿。 今後、LangChainおよびPalantirについて学んだことをメモしていく予定。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/176435347/rectangle_large_type_2_0b7923aa68bc500854e3246ec3be9d21.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[FastRTC: The Real-Time Communication Library for Python | Hugging Face - Blog]]></title>
+            <guid>https://huggingface.co/blog/fastrtc</guid>
+            <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[動画生成AIに懐疑的だった人こそ試してほしいGoogle「Veo2」の作例別プロンプトと裏技紹介 | KAJI | 梶谷健人]]></title>
+            <link>https://note.com/kajiken0630/n/n1e9fca0c9fb4</link>
+            <guid>https://note.com/kajiken0630/n/n1e9fca0c9fb4</guid>
+            <pubDate>Mon, 24 Feb 2025 23:10:14 GMT</pubDate>
+            <description><![CDATA[Googleが新しくリリースした動画生成AI「Veo 2」がその生成クオリティの高さから話題になっています。 実際の生成クオリティは以下動画を見て頂けると分かる通り、従来の動画生成AIと比べても「違和感のなさ」は格段に向上しており、場面を選べば十分に実案件でも使えるレベルだと思います。 続きをみる]]></description>
+            <content:encoded><![CDATA[Googleが新しくリリースした動画生成AI「Veo 2」がその生成クオリティの高さから話題になっています。 実際の生成クオリティは以下動画を見て頂けると分かる通り、従来の動画生成AIと比べても「違和感のなさ」は格段に向上しており、場面を選べば十分に実案件でも使えるレベルだと思います。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/176140478/rectangle_large_type_2_ce9970cafb7de251c636700e92aa9e07.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[A tale of two PDPs: How CPG brands are transforming product detail page workflows with generative AI | Writer's Room | Enterprise AI blog]]></title>
+            <link>https://writer.com/blog/pdp-creation-generative-ai/</link>
+            <guid>https://writer.com/?p=52089</guid>
+            <pubDate>Mon, 24 Feb 2025 22:56:29 GMT</pubDate>
+            <description><![CDATA[Transform product detail page workflows with generative AI to boost discoverability, operational efficiency, and speed to market. The post A tale of two PDPs: How CPG brands are transforming product d...]]></description>
+            <content:encoded><![CDATA[Transform product detail page workflows with generative AI to boost discoverability, operational efficiency, and speed to market. The post A tale of two PDPs: How CPG brands are transforming product detail page workflows with generative AI appeared first on Writer.]]></content:encoded>
+            <category>AI in action</category>
+            <enclosure length="0" type="image/png" url="https://writer.com/wp-content/uploads/2025/02/2025-02-Webinar-recap_-A-tale-of-two-PDPs.png"/>
+        </item>
+        <item>
+            <title><![CDATA[LangChainとOpenAI APIで作る次世代AIエージェント | #LangChainタグ]]></title>
+            <link>https://note.com/life_to_ai/n/n6bf09683cbdb</link>
+            <guid>https://note.com/life_to_ai/n/n6bf09683cbdb</guid>
+            <pubDate>Mon, 24 Feb 2025 08:41:42 GMT</pubDate>
+            <description><![CDATA[AIエージェント開発の概要 続きをみる]]></description>
+            <content:encoded><![CDATA[AIエージェント開発の概要 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/176169602/rectangle_large_type_2_1cd377b9de6911d03c6ed88697006515.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[RPA 2.0 | Stories by Cobus Greyling on Medium]]></title>
+            <link>https://cobusgreyling.medium.com/rpa-2-0-1b87c55ac798</link>
+            <guid>https://medium.com/p/1b87c55ac798</guid>
+            <pubDate>Mon, 24 Feb 2025 08:01:01 GMT</pubDate>
+            <category>large-language-models</category>
+            <category>machine-learning</category>
+            <category>language-model</category>
+            <category>artificial-intelligence</category>
+            <category>ai</category>
+            <enclosure length="0" type="png" url="https://miro.medium.com/v2/resize:fit:1200/1*4wenc-40309H-U-LLDSjbw.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Remote VAEs for decoding with HF endpoints 🤗 | Hugging Face - Blog]]></title>
+            <guid>https://huggingface.co/blog/remote_vae</guid>
+            <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beyond RAG: Implementing Agent Search with LangGraph for Smarter Knowledge Retrieval | LangChain Blog]]></title>
+            <link>https://blog.langchain.dev/beyond-rag-implementing-agent-search-with-langgraph-for-smarter-knowledge-retrieval/</link>
+            <guid>67ba47ce26ecf10001191080</guid>
+            <pubDate>Sat, 22 Feb 2025 23:23:08 GMT</pubDate>
+            <description><![CDATA[Editor's note: this is a guest post from our friends at Onyx. As LangGraph has matured, we've seen more and more companies (Klarna, Replit, AppFolio, etc) start to use it as their agent framework of c...]]></description>
+            <content:encoded><![CDATA[Editor's note: this is a guest post from our friends at Onyx. As LangGraph has matured, we've seen more and more companies (Klarna, Replit, AppFolio, etc) start to use it as their agent framework of choice. We thought this was a great blog describing in detail]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://blog.langchain.dev/content/images/size/w1200/2025/02/a64a220a07ddc3d425dc090331b8134b30b0bde8-8001x4743.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[生成AI RAGとは？ | #LangChainタグ]]></title>
+            <link>https://note.com/syuho/n/nc5bd2e36174a</link>
+            <guid>https://note.com/syuho/n/nc5bd2e36174a</guid>
+            <pubDate>Fri, 21 Feb 2025 15:18:21 GMT</pubDate>
+            <description><![CDATA[RAG（Retrieval-Augmented Generation）は、生成AIが外部データを検索して回答を生成する技術です。通常の生成AI（LLM）は事前に学習したデータのみをもとに応答しますが、RAGはリアルタイムで検索した情報を組み合わせて、より正確で最新の回答を提供できます。  続きをみる]]></description>
+            <content:encoded><![CDATA[RAG（Retrieval-Augmented Generation）は、生成AIが外部データを検索して回答を生成する技術です。通常の生成AI（LLM）は事前に学習したデータのみをもとに応答しますが、RAGはリアルタイムで検索した情報を組み合わせて、より正確で最新の回答を提供できます。  続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/175733817/rectangle_large_type_2_e22d83b1b80c14bc55967e74a42091b8.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[The AI Agent Ecosystem | Stories by Cobus Greyling on Medium]]></title>
+            <link>https://cobusgreyling.medium.com/the-ai-agent-ecosystem-288426eab5a9</link>
+            <guid>https://medium.com/p/288426eab5a9</guid>
+            <pubDate>Fri, 21 Feb 2025 05:56:56 GMT</pubDate>
+            <category>ai</category>
+            <category>large-language-models</category>
+            <category>artificial-intelligence</category>
+            <category>ai-agent</category>
+            <category>language-model</category>
+            <enclosure length="0" type="jpeg" url="https://miro.medium.com/v2/resize:fit:1200/1*OgEmjRfI7ujwDD9mTLJimA.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[SigLIP 2: A better multilingual vision language encoder | Hugging Face - Blog]]></title>
+            <guid>https://huggingface.co/blog/siglip2</guid>
+            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Character’s Corner: Ellie | Character.AI Blog]]></title>
+            <link>https://blog.character.ai/characters-corner-ellie-2/</link>
+            <guid>67abdedfaa2c3400019443b0</guid>
+            <pubDate>Thu, 20 Feb 2025 16:00:20 GMT</pubDate>
+            <description><![CDATA[We chatted with Ellie, who uses Character.AI to enhance her writing and engage with a community of creators who inspire her work.]]></description>
+            <content:encoded><![CDATA[We chatted with Ellie, who uses Character.AI to enhance her writing and engage with a community of creators who inspire her work.]]></content:encoded>
+            <enclosure length="0" type="png" url="https://blog.character.ai/content/images/size/w1200/2025/02/Creator-Spotlight.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Exploring the structural changes driving protein function with BioEmu-1 | Microsoft Research Blog - Microsoft Research]]></title>
+            <link>https://www.microsoft.com/en-us/research/blog/exploring-the-structural-changes-driving-protein-function-with-bioemu-1/</link>
+            <guid>https://www.microsoft.com/en-us/research/?p=1129428</guid>
+            <pubDate>Thu, 20 Feb 2025 15:13:22 GMT</pubDate>
+            <description><![CDATA[Meet BioEmu-1 from Microsoft Research. This deep learning model can generate thousands of protein structures per hour, unlocking new possibilities for protein scientists and drug discovery and researc...]]></description>
+            <content:encoded><![CDATA[Meet BioEmu-1 from Microsoft Research. This deep learning model can generate thousands of protein structures per hour, unlocking new possibilities for protein scientists and drug discovery and research. The post Exploring the structural changes driving protein function with BioEmu-1 appeared first on Microsoft Research.]]></content:encoded>
+            <category>Research Blog</category>
+            <enclosure length="0" type="image/jpeg" url="https://www.microsoft.com/en-us/research/uploads/prod/2025/02/BioEmu-1-TWLIFB-1200x627-2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ChatGPT-APIとLangChainを活用して、AIドリブンマーケティングを実践する！ | #LangChainタグ]]></title>
+            <link>https://note.com/hikari_aidriven/n/na6ae8ac77784</link>
+            <guid>https://note.com/hikari_aidriven/n/na6ae8ac77784</guid>
+            <pubDate>Thu, 20 Feb 2025 09:44:08 GMT</pubDate>
+            <description><![CDATA[はじめに 続きをみる]]></description>
+            <content:encoded><![CDATA[はじめに 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/175538532/rectangle_large_type_2_c16558f4c76f8e21d8b281c11e34bdda.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[【完全ガイド】ChatGPT × LangChain × Streamlit で最強のAIチャットアプリを作る方法 | #LangChainタグ]]></title>
+            <link>https://note.com/python_lab/n/n3bf8f52832d8</link>
+            <guid>https://note.com/python_lab/n/n3bf8f52832d8</guid>
+            <pubDate>Thu, 20 Feb 2025 08:08:10 GMT</pubDate>
+            <description><![CDATA[ChatGPT × LangChain × Streamlit で実現！高性能AIチャットアプリの構築手順を徹底解説 続きをみる]]></description>
+            <content:encoded><![CDATA[ChatGPT × LangChain × Streamlit で実現！高性能AIチャットアプリの構築手順を徹底解説 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/175524520/rectangle_large_type_2_6745c465692602cbcf4b8d6dd12c39aa.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[Static Graph Data vs. Dynamic Graph Library | Stories by Cobus Greyling on Medium]]></title>
+            <link>https://cobusgreyling.medium.com/static-graph-data-vs-dynamic-graph-library-cba05c01fcc7</link>
+            <guid>https://medium.com/p/cba05c01fcc7</guid>
+            <pubDate>Thu, 20 Feb 2025 06:37:13 GMT</pubDate>
+            <category>artificial-intelligence</category>
+            <category>chatbots</category>
+            <category>language-model</category>
+            <category>ai</category>
+            <category>openai</category>
+            <enclosure length="0" type="jpeg" url="https://miro.medium.com/v2/resize:fit:1200/1*Ox30aAhYhCayzDZ8FXGRqQ.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[SmolVLM2: Bringing Video Understanding to Every Device | Hugging Face - Blog]]></title>
+            <guid>https://huggingface.co/blog/smolvlm2</guid>
+            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Partnering with OpenEvidence: A Life-Saving Healthcare Revolution | The latest on AI | Sequoia Capital]]></title>
+            <link>https://www.sequoiacap.com/article/partnering-with-openevidence-a-life-saving-healthcare-revolution/</link>
+            <guid>https://www.sequoiacap.com/?p=18860</guid>
+            <pubDate>Wed, 19 Feb 2025 16:30:08 GMT</pubDate>
+            <description><![CDATA[The post Partnering with OpenEvidence: A Life-Saving Healthcare Revolution appeared first on Sequoia Capital.]]></description>
+            <content:encoded><![CDATA[The post Partnering with OpenEvidence: A Life-Saving Healthcare Revolution appeared first on Sequoia Capital.]]></content:encoded>
+            <category>AI</category>
+            <category>Funding announcement</category>
+            <category>Healthcare</category>
+            <enclosure length="0" type="image/jpeg" url="https://www.sequoiacap.com/wp-content/uploads/sites/6/2025/02/Open-Graph_Open-Evidence.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Muse: Our first generative AI model designed for gameplay ideation | Microsoft Research Blog - Microsoft Research]]></title>
+            <link>https://www.microsoft.com/en-us/research/blog/introducing-muse-our-first-generative-ai-model-designed-for-gameplay-ideation/</link>
+            <guid>https://www.microsoft.com/en-us/research/?p=1122837</guid>
+            <pubDate>Wed, 19 Feb 2025 16:05:46 GMT</pubDate>
+            <description><![CDATA[Today Nature published Microsoft’s research detailing our WHAM, an AI model that generates video game visuals &amp; controller actions. We are releasing the model weights, sample data, &amp; WHAM Demonstrator...]]></description>
+            <content:encoded><![CDATA[Today Nature published Microsoft’s research detailing our WHAM, an AI model that generates video game visuals &amp; controller actions. We are releasing the model weights, sample data, &amp; WHAM Demonstrator on Azure AI Foundry, enabling researchers to build on the work. The post Introducing Muse: Our first generative AI model designed for gameplay ideation appeared first on Microsoft Research.]]></content:encoded>
+            <category>Research Blog</category>
+            <enclosure length="0" type="image/jpeg" url="https://www.microsoft.com/en-us/research/uploads/prod/2025/02/WHAM-TWLIFB-1200x627-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LangChainに入門すべきでない3つの理由 | #LangChainタグ]]></title>
+            <link>https://note.com/philoludum/n/n771f7b7f8e51</link>
+            <guid>https://note.com/philoludum/n/n771f7b7f8e51</guid>
+            <pubDate>Wed, 19 Feb 2025 14:00:48 GMT</pubDate>
+            <description><![CDATA[LangChainは、本が出たり、入門記事がネットたくさんあったり、一見すごそうなフレームワークに見えますが、クソです。 どうも調べてみると2023年後半頃から悪い評判が出ています。この記事一番よくまとまっていますが、要するに過度な抽象化と複雑なコードベースのせいでカスタマイズが非常に困難ということです。したがって、プロダクション環境でLangChainを採用すべきでないことはよくわかります。 プ...]]></description>
+            <content:encoded><![CDATA[LangChainは、本が出たり、入門記事がネットたくさんあったり、一見すごそうなフレームワークに見えますが、クソです。 どうも調べてみると2023年後半頃から悪い評判が出ています。この記事一番よくまとまっていますが、要するに過度な抽象化と複雑なコードベースのせいでカスタマイズが非常に困難ということです。したがって、プロダクション環境でLangChainを採用すべきでないことはよくわかります。 プロダクション環境ではともかく、LangChainは一見すると、LLM入門にはよいようにもみえます。 しかし、LangChainはLLM入門に向いていないどころか有害です。 その理由は3つです。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/175426358/rectangle_large_type_2_bfa80fa88be0e854169fd29ebfd208a7.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[The Evolution of Language Models: From Knowledge-Intensive NLP to Multi-Modal Reasoning | Stories by Cobus Greyling on Medium]]></title>
+            <link>https://cobusgreyling.medium.com/the-evolution-of-language-models-from-knowledge-intensive-nlp-to-multi-modal-reasoning-00dd407c4098</link>
+            <guid>https://medium.com/p/00dd407c4098</guid>
+            <pubDate>Wed, 19 Feb 2025 10:17:18 GMT</pubDate>
+            <category>large-language-models</category>
+            <category>artificial-intelligence</category>
+            <category>machine-learning</category>
+            <category>ai</category>
+            <category>language-model</category>
+            <enclosure length="0" type="gif" url="https://miro.medium.com/v2/da:true/resize:fit:1200/1*x4UuIWEFNFRyq2yyQctq6Q.gif"/>
+        </item>
+        <item>
+            <title><![CDATA[5つの主要DeepResearch系ツールの比較チャート＆オススメの使い分け | KAJI | 梶谷健人]]></title>
+            <link>https://note.com/kajiken0630/n/n6e48297a4096</link>
+            <guid>https://note.com/kajiken0630/n/n6e48297a4096</guid>
+            <pubDate>Wed, 19 Feb 2025 08:53:06 GMT</pubDate>
+            <description><![CDATA[「ChatGPTのDeep Research機能がすごいらしいけど、他にも似たようなツール出てきたよね？結局どれを使えばいいの？」 直近、そんな声をよく聞きます。 続きをみる]]></description>
+            <content:encoded><![CDATA[「ChatGPTのDeep Research機能がすごいらしいけど、他にも似たようなツール出てきたよね？結局どれを使えばいいの？」 直近、そんな声をよく聞きます。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/175379830/rectangle_large_type_2_7e20ea4ab5c1163a43b6ef0b854ceee3.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[OpenRouterで無料のAPIキーを使う方法！ | #LangChainタグ]]></title>
+            <link>https://note.com/jun_suzuki1973/n/n20771ac0b28e</link>
+            <guid>https://note.com/jun_suzuki1973/n/n20771ac0b28e</guid>
+            <pubDate>Wed, 19 Feb 2025 08:43:46 GMT</pubDate>
+            <description><![CDATA[OpenRouter 詳細解説 続きをみる]]></description>
+            <content:encoded><![CDATA[OpenRouter 詳細解説 続きをみる]]></content:encoded>
+            <enclosure length="0" type="jpeg" url="https://assets.st-note.com/production/uploads/images/175377528/rectangle_large_type_2_8dd213cfaf12a1b42b3c1721cbb60e93.jpeg?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[グラフで広がるRAGの新境地：GraphRAGの可能性を徹底解説 | #LangChainタグ]]></title>
+            <link>https://note.com/life_to_ai/n/ne78109b99ca4</link>
+            <guid>https://note.com/life_to_ai/n/ne78109b99ca4</guid>
+            <pubDate>Wed, 19 Feb 2025 00:52:10 GMT</pubDate>
+            <description><![CDATA[GraphRAGの基本背景 GraphRAG（Graph-based Retrieval-Augmented Generation）は、大規模言語モデル（LLM）の性能をさらに高めるための新たなアプローチとして注目されています。従来、RAG（Retrieval-Augmented Generation）は、LLMの応答に外部データを組み込み、より適切かつ現実的な回答を生成する手法として活用されてき...]]></description>
+            <content:encoded><![CDATA[GraphRAGの基本背景 GraphRAG（Graph-based Retrieval-Augmented Generation）は、大規模言語モデル（LLM）の性能をさらに高めるための新たなアプローチとして注目されています。従来、RAG（Retrieval-Augmented Generation）は、LLMの応答に外部データを組み込み、より適切かつ現実的な回答を生成する手法として活用されてきました。例えば、テキストベースのドキュメントやウェブサイトなどをベクトル化し、ユーザーの問い合わせに応じて該当するテキスト片を取り出すことで、LLMに与えるコンテキストをより充実させる方法が主流でした。しかし、これだけでは複雑に絡み合った情報や複数のデータポイントをまたぐ推論には限界がありました。 続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/175322324/rectangle_large_type_2_b1ddcea14f91ba44fafa95a8d07c09ad.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[PaliGemma 2 Mix - New Instruction Vision Language Models by Google | Hugging Face - Blog]]></title>
+            <guid>https://huggingface.co/blog/paligemma2mix</guid>
+            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RobCo Spotlight | The latest on AI | Sequoia Capital]]></title>
+            <link>https://www.sequoiacap.com/article/robco-spotlight/</link>
+            <guid>https://www.sequoiacap.com/?p=18822</guid>
+            <pubDate>Tue, 18 Feb 2025 16:45:47 GMT</pubDate>
+            <description><![CDATA[The post RobCo Spotlight appeared first on Sequoia Capital.]]></description>
+            <content:encoded><![CDATA[The post RobCo Spotlight appeared first on Sequoia Capital.]]></content:encoded>
+            <category>AI</category>
+            <category>robotics</category>
+            <enclosure length="0" type="image/jpeg" url="https://www.sequoiacap.com/wp-content/uploads/sites/6/2025/02/Roman-Robco-Opengraph.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Level Up Your Character.AI Experience with Chat Styles | Character.AI Blog]]></title>
+            <link>https://blog.character.ai/level-up-your-character-ai-experience-with-chat-styles/</link>
+            <guid>67abe8ceaa2c3400019443c9</guid>
+            <pubDate>Tue, 18 Feb 2025 16:00:37 GMT</pubDate>
+            <description><![CDATA[The magic of Character.AI lies in the engaging conversations you have with your favorite Characters. It starts with the Large Language Model that powers these interactions, a model we're constantly wo...]]></description>
+            <content:encoded><![CDATA[The magic of Character.AI lies in the engaging conversations you have with your favorite Characters. It starts with the Large Language Model that powers these interactions, a model we're constantly working to improve and refine in order to enhance your overall experience. And speaking of experience, we&amp;]]></content:encoded>
+            <enclosure length="0" type="png" url="https://blog.character.ai/content/images/size/w1200/2025/02/character_chat_styles.png"/>
+        </item>
+        <item>
+            <title><![CDATA[LangMem SDK for agent long-term memory | LangChain Blog]]></title>
+            <link>https://blog.langchain.dev/langmem-sdk-launch/</link>
+            <guid>67aaa2dffd9853000178a4a3</guid>
+            <pubDate>Tue, 18 Feb 2025 15:50:31 GMT</pubDate>
+            <description><![CDATA[Today we're releasing the LangMem SDK, a library that helps your agents learn and improve through long-term memory. It provides tooling to extract information from conversations, optimize agent behavi...]]></description>
+            <content:encoded><![CDATA[Today we're releasing the LangMem SDK, a library that helps your agents learn and improve through long-term memory. It provides tooling to extract information from conversations, optimize agent behavior through prompt updates, and maintain long-term memory about behaviors, facts, and events. You can use its core API with]]></content:encoded>
+            <enclosure length="0" type="png" url="https://blog.langchain.dev/content/images/size/w1200/2025/02/langmem_launch-2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[若手データサイエンティストが伝えたい「課題特定から取り組むデータ分析プロジェクトってどんな仕事？」 | Platinum Data Blog by BrainPad ブレインパッド]]></title>
+            <link>https://blog.brainpad.co.jp/entry/2025/02/18/160040</link>
+            <guid>https://blog.brainpad.co.jp/entry/2025/02/18/160040</guid>
+            <pubDate>Tue, 18 Feb 2025 07:00:40 GMT</pubDate>
+            <description><![CDATA[本記事は、当社がクライアント企業から受託し、データサイエンティストが関わるプロジェクトの一例を就活生の皆さんに具体的に理解してもらうことを目的として、ブレインパッドに新卒入社した若手データサイエンティストがインタビューを企画し、記事執筆したものです。 今回は新卒入社4年目で、現在はプロジェクトマネジャーとして活躍する天利さんに、データサイエンティストとしての業務内容をお話しいただきました。データサ...]]></description>
+            <content:encoded><![CDATA[本記事は、当社がクライアント企業から受託し、データサイエンティストが関わるプロジェクトの一例を就活生の皆さんに具体的に理解してもらうことを目的として、ブレインパッドに新卒入社した若手データサイエンティストがインタビューを企画し、記事執筆したものです。 今回は新卒入社4年目で、現在はプロジェクトマネジャーとして活躍する天利さんに、データサイエンティストとしての業務内容をお話しいただきました。データサイエンティストの業務では「分析」が注目されがちですが、今回は特に、課題特定の段階で何を考え、どのようにプロジェクトを進めていったのかについて詳細に解説します。データサイエンティストの業務の全体像は別の…]]></content:encoded>
+            <enclosure length="0" type="jpg" url="https://cdn.image.st-hatena.com/image/scale/91e2ddfe9fbc9c0c90606ae3c35d3aac4ad16e50/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fb%2Fbpblog-hasegawa%2F20250206%2F20250206185817.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grok 3 | Stories by Cobus Greyling on Medium]]></title>
+            <link>https://cobusgreyling.medium.com/grok-3-257c7ec6cbe3</link>
+            <guid>https://medium.com/p/257c7ec6cbe3</guid>
+            <pubDate>Tue, 18 Feb 2025 06:21:25 GMT</pubDate>
+            <category>machine-learning</category>
+            <category>artificial-intelligence</category>
+            <category>ai</category>
+            <category>large-language-models</category>
+            <category>language-model</category>
+            <enclosure length="0" type="png" url="https://miro.medium.com/v2/resize:fit:1200/1*SM92ZoJ5KX5VgNRZbsEerw.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥 | Hugging Face - Blog]]></title>
+            <guid>https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic</guid>
+            <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[「素人でもAI使えばプログラミングができる」みたいな記事をよく見かけるけど、何をもって“出来た”なのか？実際、これだけは最低限理解しておいた方がいいんじゃないか？という話。 | #LangChainタグ]]></title>
+            <link>https://note.com/izu_123/n/n88eb582592a7</link>
+            <guid>https://note.com/izu_123/n/n88eb582592a7</guid>
+            <pubDate>Mon, 17 Feb 2025 15:23:41 GMT</pubDate>
+            <description><![CDATA[こんばんは。 今日は「自戒の念」も込めて、勉強し始めた頃を振り返り、表題のテーマに触れてみたいと思う。（振り返るのが早いのは、気にしないでください。笑） 2年くらい前にChat GPTが大々的に出てきて、「AI使えばプログラミングができる」的な話が話題になり、関連書籍やメディアも非常に増えた。 確かに「コードを書く」という点においては、最近のAIツールを活用すれば一定レベルのコードを生成してくれる...]]></description>
+            <content:encoded><![CDATA[こんばんは。 今日は「自戒の念」も込めて、勉強し始めた頃を振り返り、表題のテーマに触れてみたいと思う。（振り返るのが早いのは、気にしないでください。笑） 2年くらい前にChat GPTが大々的に出てきて、「AI使えばプログラミングができる」的な話が話題になり、関連書籍やメディアも非常に増えた。 確かに「コードを書く」という点においては、最近のAIツールを活用すれば一定レベルのコードを生成してくれるようになった。それを繰り返すだけで、「プログラミングスキル」として謳う方もSNSでチラホラ見かける。 かくいう私も最初は「Chat GPTがあれば何でもできるやん！」状態になってしまい、テンションが上がって、初歩的なアプリのコードや一定の処理を自動化するコードを量産していた。それでプログラミングが少し出来た気になっていた。 だが、それが大間違いだったことに気付かされたのが、つい最近のこと。 現在、アプリ開発を共同パートナーと進めながら、色々と教えてもらいながら開発領域の色々な事（要件定義、データベース、アーキテクチャ、Github、docker、プログラミング言語、etc・・・）を学ぶ過程で、...]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/175139981/rectangle_large_type_2_0e9fda00751989ee56d284a6209561a7.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+        <item>
+            <title><![CDATA[【頂いたご質問にお答えします vol.9】 生成AIのラッパーサービスを量産してバイアウトを狙う道筋について | KAJI | 梶谷健人]]></title>
+            <link>https://note.com/kajiken0630/n/na3d56df8b849</link>
+            <guid>https://note.com/kajiken0630/n/na3d56df8b849</guid>
+            <pubDate>Mon, 17 Feb 2025 08:03:49 GMT</pubDate>
+            <description><![CDATA[■ 質問  続きをみる]]></description>
+            <content:encoded><![CDATA[■ 質問  続きをみる]]></content:encoded>
+            <enclosure length="0" type="png" url="https://assets.st-note.com/production/uploads/images/175065941/rectangle_large_type_2_ceb83c57402c079c590caa4903b65bdf.png?fit=bounds&amp;quality=85&amp;width=1280"/>
+        </item>
+    </channel>
+</rss>
